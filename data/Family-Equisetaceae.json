@@ -1,0 +1,19 @@
+{
+  
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Stems slender, greyish green, all alike; strobili at the ends of main stem and branches",
+        "questionB": "Brown fertile stems distinct from green sterile stems; strobili only at the end of the main stem",
+        "answerA": "Equisetum ramosissimum",
+        "answerB": "2"
+      },
+      {
+        "-id": "2",
+        "questionA": "Sterile  stems dark green with 6-19 grooves; fertile stems with 4-6 sheaths; sheaths with 6-12 teeth",
+        "questionB": "Sterile stems pale green with more than twenty shallow grooves; fertile stems with numerous sheaths; sheaths with many teeth",
+        "answerA": "Equisetum arvense",
+        "answerB": "Equisetum telmateia"
+      }
+    ]
+  }

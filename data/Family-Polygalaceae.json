@@ -1,0 +1,18 @@
+{
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Annuals; flowers whitish; wing  petals with three distinct, branched, non-anastomosing veins.",
+        "questionB": "Perennials; flowers white, pink or blue; veins on wing petals either indistinct or anastomosing.",
+        "answerA": "Polygala monspeliaca",
+        "answerB": "2"
+      },
+      {
+        "-id": "2",
+        "questionA": "Flowers pink; three veins on wing petals indistinct and closely aligned, appearing as a single vein.",
+        "questionB": "Flowers  white,  pink  or  blue; wing petals with three distinct but anastomosing veins.",
+        "answerA": "Polygala rupestris",
+        "answerB": "Polygala vulgaris"
+      }
+    ]
+  }

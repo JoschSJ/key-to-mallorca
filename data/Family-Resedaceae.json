@@ -1,0 +1,25 @@
+{
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Flowers yellow.",
+        "questionB": "Flowers white.",
+        "answerA": "2",
+        "answerB": "3"
+      },
+      {
+        "-id": "2",
+        "questionA": "Leaves entire.",
+        "questionB": "Leaves pinnatifid.",
+        "answerA": "Reseda luteola",
+        "answerB": "Reseda lutea"
+      },
+      {
+        "-id": "3",
+        "questionA": "Leaves pinnatifid; inflorescence dense; petals and sepals five or six.",
+        "questionB": "Leaves entire or with a few basal  lobs; inflorescence lax; petals and sepals six.",
+        "answerA": "Reseda alba",
+        "answerB": "Reseda phyteuma"
+      }
+    ]
+  }

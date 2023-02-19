@@ -1,0 +1,109 @@
+{
+   "question": [
+      {
+        "-id": "1",
+        "questionA": "Petals numerous; leaves succulent.",
+        "questionB": "Petals five or fewer.",
+        "answerA": "Family-Aizoaceae",
+        "answerB": "2"
+      },
+      {
+        "-id": "2",
+        "questionA": "Sepals and petals three.",
+        "questionB": "Sepals and petals two, four or five.",
+        "answerA": "3",
+        "answerB": "6"
+      },
+      {
+        "-id": "3",
+        "questionA": "Flowers zygomorphic.",
+        "questionB": "Flowers actinomorphic.",
+        "answerA": "4",
+        "answerB": "5"
+      },
+      {
+        "-id": "4",
+        "questionA": "Style and filaments obvious.",
+        "questionB": "Stigma and stamens stalkless.",
+        "answerA": "Family-Iridaceae",
+        "answerB": "Family-Orchidaceae"
+      },
+      {
+        "-id": "5",
+        "questionA": "Stamens six.",
+        "questionB": "Stamens three.",
+        "answerA": "Family-Amaryllidaceae",
+        "answerB": "Family-Iridaceae"
+      },
+      {
+        "-id": "6",
+        "questionA": "Stamens numerous.",
+        "questionB": "Stamens ten or fewer.",
+        "answerA": "7",
+        "answerB": "9"
+      },
+      {
+        "-id": "7",
+        "questionA": "Leaves opposite, with transparent glands.",
+        "questionB": "Leaves alternate, without transparent glands.",
+        "answerA": "Family-Myrtaceae",
+        "answerB": "8"
+      },
+      {
+        "-id": "8",
+        "questionA": "Leaves with denticulate margin.",
+        "questionB": "Leaves entire, seeds covered with pulp.",
+        "answerA": "Family-Rosaceae",
+        "answerB": "Punica granatum"
+      },
+      {
+        "-id": "9",
+        "questionA": "Aquatic plants; leaves pinnate, segments thread-like; flowers in spikes.",
+        "questionB": "Plants not as above.",
+        "answerA": "Family-Haloragaceae",
+        "answerB": "10"
+      },
+      {
+        "-id": "10",
+        "questionA": "Trees, shrubs or woody climbers.",
+        "questionB": "Herbs.",
+        "answerA": "11",
+        "answerB": "13"
+      },
+      {
+        "-id": "11",
+        "questionA": "Flowers in umbels.",
+        "questionB": "Flowers not in umbels; both whorls of perianth petaloid.",
+        "answerA": "12",
+        "answerB": "Family-Onagraceae"
+      },
+      {
+        "-id": "12",
+        "questionA": "Climbers.",
+        "questionB": "Shrubs.",
+        "answerA": "Hedera helix",
+        "answerB": "Family-Apiaceae"
+      },
+      {
+        "-id": "13",
+        "questionA": "Both whorls of perianth sepaloid.",
+        "questionB": "Inner whorl of perianth petaloid.",
+        "answerA": "Family-Rosaceae",
+        "answerB": "14"
+      },
+      {
+        "-id": "14",
+        "questionA": "Petals five.",
+        "questionB": "Petals four or two.",
+        "answerA": "15",
+        "answerB": "Family-Onagraceae"
+      },
+      {
+        "-id": "15",
+        "questionA": "Stamens five.",
+        "questionB": "Stamens ten.",
+        "answerA": "Family-Apiaceae",
+        "answerB": "Saxifraga tridactylites"
+      }
+    ]
+  }

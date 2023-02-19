@@ -1,0 +1,25 @@
+{
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Female cones berry-like; ovuliferous scales fleshy; seeds not winged",
+        "questionB": "Females cones woody, ovuliferous scales peltate; seeds winged",
+        "answerA": "2",
+        "answerB": "3"
+      },
+      {
+        "-id": "2",
+        "questionA": "Leaves sharp-pointed, needle-like, more than 5 mm long, with two white  stomatal  groves on the adaxial surface; female cones yellow turning reddish brown when ripe.",
+        "questionB": "Leaves  blunt,  scale-like,  less than 2 mm long, lacking prominent stomatal  groves; female cones black turning yellow-green and finally dark red",
+        "answerA": "Juniperus oxycedrus",
+        "answerB": "Juniperus phoenicea"
+      },
+      {
+        "-id": "3",
+        "questionA": "Shoots rounded or quadrangular; female cones 3-4  cm;  seeds  narrowly winged, six to twenty on each scale.",
+        "questionB": "Shoots flattened; female cones c. 2 cm; seeds broadly winged; up to five on each scale",
+        "answerA": "Cupressus sempervirens",
+        "answerB": "Chamaecyparis lawsoniana"
+      }
+    ]
+  }

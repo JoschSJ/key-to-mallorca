@@ -1,0 +1,691 @@
+{
+  
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Capitula unisexual, the male with several  florets, the female with one to two florets.",
+        "questionB": "Capitula with all florets hermaphrodite, or with outer florets male, female or sterile; capitula rarely all female and then florets numerous.",
+        "answerA": "2",
+        "answerB": "4"
+      },
+      {
+        "-id": "2",
+        "questionA": "Involucral bracts of female capitula fused together.",
+        "questionB": "Involucral bracts of female capitula free.",
+        "answerA": "Ambrosia maritima",
+        "answerB": "3"
+      },
+      {
+        "-id": "3",
+        "questionA": "Stems spiny.",
+        "questionB": "Stems without spines.",
+        "answerA": "Xanthium spinosum",
+        "answerB": "Xanthium strumarium"
+      },
+      {
+        "-id": "4",
+        "questionA": "Ligulate florets absent.",
+        "questionB": "Ligulate florets present.",
+        "answerA": "5",
+        "answerB": "64"
+      },
+      {
+        "-id": "5",
+        "questionA": "Ray-florets without a corolla, or corolla abortive.",
+        "questionB": "Ray-florets with a tubular corolla.",
+        "answerA": "6",
+        "answerB": "7"
+      },
+      {
+        "-id": "6",
+        "questionA": "Wooly  annuals;  stems  procumbent,  rooting at the nodes; leaves pinnatisect;  capitula  solitary,  apparently  sessile;  disc-florets whitish;  ray-florets without a corolla.",
+        "questionB": "Glabrous  annuals  or  perennials;  leaves  deeply  divided  into  oblong dentate lobes, strongly aromatic, base white and sheathing; capitula solitary, on a prominent scape; disc-florets with white corolla tube, topped with four yellow lobes; ray-florets without a corolla or corolla abortive.",
+        "answerA": "Gymnostyles stolonifera",
+        "answerB": "Cotula coronopifolia"
+      },
+      {
+        "-id": "7",
+        "questionA": "Leaves not spiny.",
+        "questionB": "Leaves spiny.",
+        "answerA": "8",
+        "answerB": "50"
+      },
+      {
+        "-id": "8",
+        "questionA": "Pappus absent, or achene with a short crown or ear-like projection.",
+        "questionB": "Pappus of scales or hairs, at least on the inner achenes.",
+        "answerA": "9",
+        "answerB": "22"
+      },
+      {
+        "-id": "9",
+        "questionA": "Capitula pink, purple or violet.",
+        "questionB": "Capitula yellow, white or brownish.",
+        "answerA": "12",
+        "answerB": "10"
+      },
+      {
+        "-id": "10",
+        "questionA": "Involucral bracts spiny.",
+        "questionB": "Involucral bracts not spiny.",
+        "answerA": "11",
+        "answerB": "15"
+      },
+      {
+        "-id": "11",
+        "questionA": "Involucral  bracts scarious, pale brownish yellow, dark at the tip with a simple reflexed spine.",
+        "questionB": "Involucral  bracts green with scarious appendages, spines not reflexed or absent.",
+        "answerA": "Mantisalca salmantica",
+        "answerB": "12"
+      },
+      {
+        "-id": "12",
+        "questionA": "Spiny appendages more than twice the length of the involucral bracts.",
+        "questionB": "Spiny appendages shorter than the involucral bracts.",
+        "answerA": "13",
+        "answerB": "14"
+      },
+      {
+        "-id": "13",
+        "questionA": "Capitula yellow.",
+        "questionB": "Capitula purple.",
+        "answerA": "Centaurea melitensis",
+        "answerB": "Centaurea calcitrapa"
+      },
+      {
+        "-id": "14",
+        "questionA": "Leaves green; involucral bracts without an appendage, surmounted by three short spines.",
+        "questionB": "Leaves  glaucous;  involucral   bracts  with  a  decurrent  fimbriate appendage ending in a single spine.",
+        "answerA": "Centaurea aspera",
+        "answerB": "Centaurea diluta"
+      },
+      {
+        "-id": "15",
+        "questionA": "Capitula  solitary,  3  cm  across;  involucre  of  numerous  overlapping bracts, resembling a pine cone; involucral bracts with an oval scarious brownish appendage.",
+        "questionB": "Capitula less than 3 cm across; involucre not resembling a pine cone.",
+        "answerA": "Leuzea conifera",
+        "answerB": "16"
+      },
+      {
+        "-id": "16",
+        "questionA": "Capitula 2 cm across; florets reddish purple; involucral bracts green with a prominent scarious margin, fringed at the top.",
+        "questionB": "Capitula less than 1 cm across.",
+        "answerA": "Cheirolophus intybaceus",
+        "answerB": "17"
+      },
+      {
+        "-id": "17",
+        "questionA": "Leaves entire.",
+        "questionB": "Leaves pinnatifid.",
+        "answerA": "18",
+        "answerB": "20"
+      },
+      {
+        "-id": "18",
+        "questionA": "Stems erect, elongate not forming rosettes; capitula axillary and terminal;  inner  involucral  bracts  saccate, each enclosing a marginal floret.",
+        "questionB": "Stems compressed, forming rosettes; capitula solitary or in terminal clusters.",
+        "answerA": "Bombycilaena erecta",
+        "answerB": "19"
+      },
+      {
+        "-id": "19",
+        "questionA": "Margins of rosette leaves entire.",
+        "questionB": "Margins of rosette leaves revolute with a pale acuminate tip.",
+        "answerA": "Evax pygmaea",
+        "answerB": "Evax petro-ianii"
+      },
+      {
+        "-id": "20",
+        "questionA": "Capitula solitary; shrubs; leaves greyish, wooly-haired.",
+        "questionB": "Capitula in branched pyramidal clusters.",
+        "answerA": "Santolina chamaecyparissus",
+        "answerB": "21"
+      },
+      {
+        "-id": "21",
+        "questionA": "Leaves whitish; capitula yellowish, globular 5-6 mm across.",
+        "questionB": "Leaves greyish green; capitula orange, ovoid 1-2 mm across.",
+        "answerA": "Artemisia arborescens",
+        "answerB": "Artemisia caerulescens"
+      },
+      {
+        "-id": "22",
+        "questionA": "Cauline leaves opposite; capitula pink or lilac, in a flat-topped cluster; pappus of simple hairs.",
+        "questionB": "Cauline leaves alternate, or stems with scale leaves only.",
+        "answerA": "Eupatorium cannabinum",
+        "answerB": "23"
+      },
+      {
+        "-id": "23",
+        "questionA": "Plants  viscid;  capitula  few-flowered;  inner  involucral bracts linear, scarious apart from the green midrib, ciliate; outer involucral bracts lanceolate, green, glandular-hairy; inner bracts twice the length of the outer.",
+        "questionB": "Plants not viscid; capitula many-flowered or, if few-flowered, then involucral bracts not as above.",
+        "answerA": "Jasonia glutinosa",
+        "answerB": "24"
+      },
+      {
+        "-id": "24",
+        "questionA": "Pappus of scales or simple hairs.",
+        "questionB": "Pappus with at least some hairs branched and plumose.",
+        "answerA": "25",
+        "answerB": "44"
+      },
+      {
+        "-id": "25",
+        "questionA": "Capitula yellow, whitish green or brownish.",
+        "questionB": "Capitula pink, purple or bluish.",
+        "answerA": "26",
+        "answerB": "39"
+      },
+      {
+        "-id": "26",
+        "questionA": "Capitula usually less than 5 mm long.",
+        "questionB": "Capitula usually more than 5 mm long.",
+        "answerA": "27",
+        "answerB": "35"
+      },
+      {
+        "-id": "27",
+        "questionA": "Outer involucral bracts scarious, shining, bright yellow.",
+        "questionB": "Outer involucral bracts with a scarious margin.",
+        "answerA": "28",
+        "answerB": "32"
+      },
+      {
+        "-id": "28",
+        "questionA": "Leaves usually less than 25 mm long.",
+        "questionB": "Leaves usually more than 30 mm long.",
+        "answerA": "29",
+        "answerB": "31"
+      },
+      {
+        "-id": "29",
+        "questionA": "Inner involucral bracts oblong, with minute reddish glands, five to eight times as long as the outer oval bracts.",
+        "questionB": "Inner involucral  bracts spathulate, eglandular, twice as long as the outer oval bracts.",
+        "answerA": "Helichrysum italicum",
+        "answerB": "30"
+      },
+      {
+        "-id": "30",
+        "questionA": "Leaves up to 25 mm long; capitula in spreading clusters, ovoid.",
+        "questionB": "Leaves up to 10 mm long; capitula in compact clusters, globular.",
+        "answerA": "Helichrysum stoechas-ssp.-stoechas",
+        "answerB": "Helichrysum stoechas-ssp.-decumbens"
+      },
+      {
+        "-id": "31",
+        "questionA": "Leaves less than 7 mm wide; branches of the inflorescence without scarious bracts.",
+        "questionB": "Lower  leaves more  than 7 mm wide; scarious bracts at branching points on the inflorescence.",
+        "answerA": "Helichrysum rupestre",
+        "answerB": "Helichrysum ambiguum"
+      },
+      {
+        "-id": "32",
+        "questionA": "Receptacle  without  scales;  involucre rounded in section, bracts spreading at maturity.",
+        "questionB": "Receptacle with scales among the marginal  florets; involucre angular in section, bracts not spreading at maturity.",
+        "answerA": "Gnaphalium luteo-album",
+        "answerB": "33"
+      },
+      {
+        "-id": "33",
+        "questionA": "Leaves linear; capitula in clusters of two to six, markedly exceeded by the leaves.",
+        "questionB": "Leaves ovate or lanceolate; capitula in clusters of eight to forty, not exceeded by the leaves.",
+        "answerA": "Logfia gallica",
+        "answerB": "34"
+      },
+      {
+        "-id": "34",
+        "questionA": "Leaves ovate; capitula in clusters of twenty to forty, not over-topped by the subtending leaves.",
+        "questionB": "Leaves spathulate; capitula in clusters of eight to twenty, over-topped by the subtending leaves.",
+        "answerA": "Filago vulgaris",
+        "answerB": "Filago pyramidata"
+      },
+      {
+        "-id": "35",
+        "questionA": "Involucral bracts scarious; capitula solitary or few.",
+        "questionB": "Involucral bracts green; capitula numerous in a branched cluster.",
+        "answerA": "36",
+        "answerB": "38"
+      },
+      {
+        "-id": "36",
+        "questionA": "Scape branched; capitula in clusters of one to three.",
+        "questionB": "Scape unbranched; capitula solitary.",
+        "answerA": "Phagnalon sordidum",
+        "answerB": "37"
+      },
+      {
+        "-id": "37",
+        "questionA": "Margins of middle involucral bracts undulate.",
+        "questionB": "Margins of middle involucral bracts flat.",
+        "answerA": "Phagnalon saxatile",
+        "answerB": "Phagnalon rupestre"
+      },
+      {
+        "-id": "38",
+        "questionA": "Involucral bracts of many unequal rows.",
+        "questionB": "Involucral bracts of one row and a few much smaller outer bracts.",
+        "answerA": "80",
+        "answerB": "83"
+      },
+      {
+        "-id": "39",
+        "questionA": "Involucral bracts spiny-pointed and hooked.",
+        "questionB": "Involucral bracts not hooked.",
+        "answerA": "Arctium tomentosum",
+        "answerB": "40"
+      },
+      {
+        "-id": "40",
+        "questionA": "Involucral   bracts  with  a  scarious margin  or  appendage;  or  with  a branched spine; or a simple caducous spine.",
+        "questionB": "Involucral  bracts without spines, scarious margins or appendages; or with a simple persistent spine.",
+        "answerA": "12",
+        "answerB": "41"
+      },
+      {
+        "-id": "41",
+        "questionA": "Pappus dark purplish.",
+        "questionB": "Pappus whitish.",
+        "answerA": "Crupina vulgaris",
+        "answerB": "42"
+      },
+      {
+        "-id": "42",
+        "questionA": "Shrubby, woody based perennials.",
+        "questionB": "Herbaceous plants; leaves bristly haired; pappus fused in a ring at the base of the achene.",
+        "answerA": "Staehelina dubia",
+        "answerB": "43"
+      },
+      {
+        "-id": "43",
+        "questionA": "Stem leafy to close  beneath the capitula, with continuous broad spinous wings; inner bracts equalling or exceeding the florets.",
+        "questionB": "Stem naked beneath  the  capitula, with  interrupted narrow spinous wings; inner bracts falling short of the florets.",
+        "answerA": "Carduus tenuiflorus",
+        "answerB": "Carduus pycnocephalus"
+      },
+      {
+        "-id": "44",
+        "questionA": "Involucral bracts with an appendage or a broad scarious margin.",
+        "questionB": "Involucral bracts without an appendage or a scarious margin.",
+        "answerA": "45",
+        "answerB": "47"
+      },
+      {
+        "-id": "45",
+        "questionA": "Receptacle fleshy; achenes quadrangular in section; capitula usually 5 cm or more across.",
+        "questionB": "Receptacle not fleshy; achenes laterally compressed; capitula usually 4 cm or less across.",
+        "answerA": "47",
+        "answerB": "46"
+      },
+      {
+        "-id": "46",
+        "questionA": "Uppermost leaves greatly exceeding and obscuring the capitula.",
+        "questionB": "Uppermost leaves not obscuring the capitula.",
+        "answerA": "Picnomon acarna",
+        "answerB": "48"
+      },
+      {
+        "-id": "47",
+        "questionA": "Capitula 4-5 cm across; involucral bracts prolonged into in a robust yellow spine; leaves spiny.",
+        "questionB": "Capitula 8-15 cm across; involucral bracts blunt, spineless; leaves spineless.",
+        "answerA": "Cynara cardunculus",
+        "answerB": "Cynara scolymus"
+      },
+      {
+        "-id": "48",
+        "questionA": "Biennials to 100 cm and above; florets bluish purple, over-topped by the upper cauline leaves.",
+        "questionB": "Perennials to 50 cm; florets reddish or whitish purple, not over-topped by the upper cauline leaves.",
+        "answerA": "Cirsium echinatum",
+        "answerB": "49"
+      },
+      {
+        "-id": "49",
+        "questionA": "Perennials with long tap-roots; flowering stems winged; leaves roughly hairy and prickly on the upper surface, dull;  capitula  reddish  purple, 30-50 mm across.",
+        "questionB": "Rhizomatous  perennials with numerous adventitious flowering and non-flowering shoots; flowering stems wingless; leaves not prickly on the upper surface, sometimes hairy, often glossy; capitula pale purple or white, 15-25 mm across.",
+        "answerA": "Cirsium vulgare",
+        "answerB": "Cirsium arvense"
+      },
+      {
+        "-id": "50",
+        "questionA": "Leaves with short marginal  spines, green white-veined above, white-tomentose  below;  capitula  sol itary,  scapes  long  slender  straight; involucral  bracts entirely scarious, linear-lanceolate, imbricate; florets lilac.",
+        "questionB": "Involucral bracts not both entirely scarious and linear-lanceolate.",
+        "answerA": "Tyrimnus leucographus",
+        "answerB": "51"
+      },
+      {
+        "-id": "51",
+        "questionA": "Pappus absent, or pappus of scales or simple hairs.",
+        "questionB": "Pappus of branched or plumose hairs on at least some fruits.",
+        "answerA": "52",
+        "answerB": "58"
+      },
+      {
+        "-id": "52",
+        "questionA": "All   involucral   bracts scarious, inner bracts exceeding the  florets;  pappus of bristles.",
+        "questionB": "At least the outer involucral bracts green.",
+        "answerA": "Xeranthemum inapertum",
+        "answerB": "53"
+      },
+      {
+        "-id": "53",
+        "questionA": "Receptacle without scales or bristles, pitted.",
+        "questionB": "Receptacle with scales or bristles.",
+        "answerA": "54",
+        "answerB": "55"
+      },
+      {
+        "-id": "54",
+        "questionA": "Involucral   bracts  spiny-toothed  or with a terminal  pinnate spine; pappus in one row or absent.",
+        "questionB": "Involucral bracts entire acute, or with a simple spine.",
+        "answerA": "55",
+        "answerB": "57"
+      },
+      {
+        "-id": "55",
+        "questionA": "Capitula yellow.",
+        "questionB": "Capitula white or purple.",
+        "answerA": "Carthamus lanatus",
+        "answerB": "56"
+      },
+      {
+        "-id": "56",
+        "questionA": "Perennials up to 20 cm, or stemless; leaves glabrous, apart from rachis, pinnatisect;  inner  involucral   bracts  green, with an ovate fringed appendage; disc-florets purple.",
+        "questionB": "Perennials  up  to  60  cm;  leaves  wooly-haired,  lanceolate; inner involucral  bracts scarious, with a rounded fringed appendage; disc-florets white.",
+        "answerA": "Carduncellus pinnatus",
+        "answerB": "Carduncellus caeruleus"
+      },
+      {
+        "-id": "57",
+        "questionA": "Filaments of the stamens fused at the base to form a tube; leaves variegated white and green.",
+        "questionB": "Filaments of the stamens not fused at the base to form a tube; leaves green.",
+        "answerA": "43",
+        "answerB": "59"
+      },
+      {
+        "-id": "58",
+        "questionA": "Inner  involucral  bracts,  long, brightly coloured or white, spreading outwards.",
+        "questionB": "Inner involucral bracts not spreading outwards.",
+        "answerA": "59",
+        "answerB": "60"
+      },
+      {
+        "-id": "59",
+        "questionA": "Capitula in flat-topped clusters; upper surface of inner involucral  bracts bright golden yellow; leaves almost glabrous.",
+        "questionB": "Capitula usually solitary;  upper  surface  of inner involucral  bracts purple; leaves wooly-haired.",
+        "answerA": "Carlina corymbosa",
+        "answerB": "Carlina lanata"
+      },
+      {
+        "-id": "60",
+        "questionA": "Achenes hairy.",
+        "questionB": "Achenes glabrous.",
+        "answerA": "Atractylis cancellata",
+        "answerB": "61"
+      },
+      {
+        "-id": "61",
+        "questionA": "Pappus hairs of inner achenes plumose, of outer achenes simple.",
+        "questionB": "Pappus hairs of all achenes plumose.",
+        "answerA": "Notobasis syriaca",
+        "answerB": "62"
+      },
+      {
+        "-id": "62",
+        "questionA": "Filaments of stamens fused into a tube.",
+        "questionB": "Filaments of stamens free.",
+        "answerA": "Galactites tomentosa",
+        "answerB": "63"
+      },
+      {
+        "-id": "63",
+        "questionA": "Receptacle  fleshy;  capitula usually 5  cm or more  across;  involucral bracts broad.",
+        "questionB": "Receptacle not fleshy; capitula usually less than 5 cm across; involucral bracts narrow.",
+        "answerA": "47",
+        "answerB": "48"
+      },
+      {
+        "-id": "64",
+        "questionA": "Pappus of scales or hairs.",
+        "questionB": "Pappus absent, or achene with a crown or ear-like projection.",
+        "answerA": "65",
+        "answerB": "86"
+      },
+      {
+        "-id": "65",
+        "questionA": "Pappus of scales.",
+        "questionB": "Pappus of hairs.",
+        "answerA": "66",
+        "answerB": "68"
+      },
+      {
+        "-id": "66",
+        "questionA": "Ligules yellow above (pale yellow towards the tip), greenish purple below,  lanceolate,  tips  acute;  leaves green  above, white-tomentose below; achenes wooly-haired.",
+        "questionB": "Ligules yellow, oblong, tips blunt, dentate; leaves green, hairy; achenes not wooly-haired.",
+        "answerA": "Arctotheca calendula",
+        "answerB": "67"
+      },
+      {
+        "-id": "67",
+        "questionA": "Annuals, erect, dichotomously branched; outer involucral  bracts  linear-lanceolate, greatly exceeding the ligules of the ray florets.",
+        "questionB": "Perennials,  tufted, woody based; outer  involucral  bracts  spathulate, equalling the ligules of the ray florets.",
+        "answerA": "Asteriscus aquaticus",
+        "answerB": "Asteriscus maritimus"
+      },
+      {
+        "-id": "68",
+        "questionA": "Ray florets white, bluish or violet.",
+        "questionB": "Ray florets yellow.",
+        "answerA": "69",
+        "answerB": "73"
+      },
+      {
+        "-id": "69",
+        "questionA": "Ligules very narrow, in several rows.",
+        "questionB": "Ligules not very narrow, usually in a single row.",
+        "answerA": "70",
+        "answerB": "72"
+      },
+      {
+        "-id": "70",
+        "questionA": "Capitula solitary; ligules conspicuous spreading",
+        "questionB": "Capitula in elongated panicles; ligules tiny erect.",
+        "answerA": "Erigeron karvinskianus",
+        "answerB": "71"
+      },
+      {
+        "-id": "71",
+        "questionA": "Plants slightly hairy; ligules just exceeding pappus.",
+        "questionB": "Plants distinctly hairy; ligules shorter than pappus.",
+        "answerA": "Conyza canadensis",
+        "answerB": "Conyza bonariensis"
+      },
+      {
+        "-id": "72",
+        "questionA": "Annuals or biennials;  leaves not  fleshy;  capitula numerous,  in highly branched terminal pyramidal clusters.",
+        "questionB": "Perennials; leaves fleshy; capitula axillary, solitary or in pairs.",
+        "answerA": "Aster squamatus",
+        "answerB": "Aster tripolium"
+      },
+      {
+        "-id": "73",
+        "questionA": "Pappus  two-rowed,  the outer of  short-toothed scales, the inner of hairs.",
+        "questionB": "Pappus solely of hairs.",
+        "answerA": "74",
+        "answerB": "77"
+      },
+      {
+        "-id": "74",
+        "questionA": "Annuals; ray-florets white or pale lilac, little longer than the disc-florets.",
+        "questionB": "Perennials; ray florets yellow markedly longer than the disc-florets.",
+        "answerA": "75",
+        "answerB": "76"
+      },
+      {
+        "-id": "75",
+        "questionA": "Upper  leaves  lanceolate-elliptical, margins undulate;  capitula greatly exceeded by adjacent subtending leaves; ray florets white.",
+        "questionB": "Upper  leaves  linear-lanceolate,  entire;  capitula  without  adjacent subtending leaves; ray florets pale lilac.",
+        "answerA": "Pulicaria vulgaris",
+        "answerB": "Pulicaria sicula"
+      },
+      {
+        "-id": "76",
+        "questionA": "Stems and leaves not white-tomentose; capitula solitary.",
+        "questionB": "Stems and leaves white-tomentose; capitula in dense clusters.",
+        "answerA": "Pulicaria odora",
+        "answerB": "Pulicaria dysenterica"
+      },
+      {
+        "-id": "77",
+        "questionA": "Perennials,  spreading; leaves lanceolate or pinnatifid, green above, white tomentose below; scapes rigid, erect; ligules up to 4 cm long, deep orange with a black spot at the base.",
+        "questionB": "Ligules up to 1 cm, yellow or lilac.",
+        "answerA": "Gazania rigens",
+        "answerB": "78"
+      },
+      {
+        "-id": "78",
+        "questionA": "Involucral  bracts of equal  length, in one to three ranks, not overlapping, often with small bracts at the base.",
+        "questionB": "Involucral bracts unequal, in several overlapping ranks.",
+        "answerA": "83",
+        "answerB": "79"
+      },
+      {
+        "-id": "79",
+        "questionA": "Capitula 5-10 mm across, usually in racemes or racemose panicles.",
+        "questionB": "Capitula 10 mm or more across, usually solitary or in cymose panicles or corymbs.",
+        "answerA": "Solidago virgaurea",
+        "answerB": "80"
+      },
+      {
+        "-id": "80",
+        "questionA": "Plants  viscid, with glandular hairs, strongly aromatic; achenes not ribbed, narrowed into a neck and then expanding into a cupule which supports the pappus.",
+        "questionB": "Plants not viscid, eglandular; achenes ribbed, without neck or cupule.",
+        "answerA": "81",
+        "answerB": "82"
+      },
+      {
+        "-id": "81",
+        "questionA": "Perennials; leaves amplexicaul; ray-florets markedly longer than disc- florets.",
+        "questionB": "Annuals; leaves not amplexicaul; ray florets scarcely exceeding disc- florets.",
+        "answerA": "Dittrichia viscosa",
+        "answerB": "Dittrichia graveolens"
+      },
+      {
+        "-id": "82",
+        "questionA": "Perennial herbs; ligules absent (see 38 above) or very small.",
+        "questionB": "Fleshy  shrubs;  ray  florets markedly  longer  than disc-florets, ligules prominent.",
+        "answerA": "Inula conyza",
+        "answerB": "Inula crithmoides"
+      },
+      {
+        "-id": "83",
+        "questionA": "Ligulate florets absent ",
+        "questionB": "Ligulate florets present.",
+        "answerA": "Senecio vulgaris",
+        "answerB": "84"
+      },
+      {
+        "-id": "84",
+        "questionA": "Shrubby  perennials,  densely  white-tomentose; leaves bipinnatifid; capitula in dense flat-topped clusters.",
+        "questionB": "Herbaceous  plants,  not  densely  white-tomentose; leaves simple, dentate; capitula solitary or in pairs.",
+        "answerA": "Senecio bicolor",
+        "answerB": "85"
+      },
+      {
+        "-id": "85",
+        "questionA": "Capitula lilac; leaves glaucous.",
+        "questionB": "Capitula yellow; leaves shiny dark green above, purplish below.",
+        "answerA": "Senecio leucanthemifolius-ssp. rodriguezii",
+        "answerB": "Senecio leucanthemifolius-spp.crassifolius"
+      },
+      {
+        "-id": "86",
+        "questionA": "Ray-florets white, whitish-yellow, pink or purple.",
+        "questionB": "Ray-florets yellow.",
+        "answerA": "87",
+        "answerB": "96"
+      },
+      {
+        "-id": "87",
+        "questionA": "All leaves radical; scapes leafless.",
+        "questionB": "Scapes leafy.",
+        "answerA": "88",
+        "answerB": "89"
+      },
+      {
+        "-id": "88",
+        "questionA": "Involucral bracts in one row.",
+        "questionB": "Involucral bracts in two rows.",
+        "answerA": "Bellium bellidioides",
+        "answerB": "91"
+      },
+      {
+        "-id": "89",
+        "questionA": "Receptacle without scales.",
+        "questionB": "Receptacle with scales.",
+        "answerA": "90",
+        "answerB": "92"
+      },
+      {
+        "-id": "90",
+        "questionA": "Achenes laterally compressed, smooth; small annuals.",
+        "questionB": "Achenes ribbed; perennials.",
+        "answerA": "91",
+        "answerB": "98"
+      },
+      {
+        "-id": "91",
+        "questionA": "Annuals; cauline leaves present.",
+        "questionB": "Perennials; all leaves radical",
+        "answerA": "Bellis annua",
+        "answerB": "Bellis sylvestris"
+      },
+      {
+        "-id": "92",
+        "questionA": "Achenes quadrangular, ribbed.",
+        "questionB": "Achenes laterally compressed, not ribbed.",
+        "answerA": "93",
+        "answerB": "95"
+      },
+      {
+        "-id": "93",
+        "questionA": "Perennials;  leaves  fleshy;  involucral   bracts  green  with  a  prominent scarious appendage.",
+        "questionB": "Annuals or biennials; leaves not fleshy; involucral  bracts more or less scarious, appendages small or absent.",
+        "answerA": "Anthemis maritima",
+        "answerB": "94"
+      },
+      {
+        "-id": "94",
+        "questionA": "Aromatic  annuals  or  biennials;  receptacular scales, lanceolate, mucronate,  dispersed  over  the  whole  receptacle;  involucral   bracts oblong, pale, tipped with small scarious appendages, downy, with adpressed hairs; ray-florets female; achenes ribbed, not tuberculate.",
+        "questionB": "Foetid annuals; receptacular scales linear, restricted to the top of the conical receptacle; involucral bracts oblong, blunt, with a green midrib and broad scarious margins, more or less glabrous; ray-florets sterile, without styles; achenes ribbed and tuberculate.",
+        "answerA": "Anthemis arvensis",
+        "answerB": "Anthemis cotula"
+      },
+      {
+        "-id": "95",
+        "questionA": "Corolla tube in disc-florets saccate.",
+        "questionB": "Corolla tube in disc-florets not saccate.",
+        "answerA": "Chamaemelum segetum",
+        "answerB": "Achillea ageratum"
+      },
+      {
+        "-id": "96",
+        "questionA": "Receptacle with scales; involucre spiny; leaves entire.",
+        "questionB": "Receptacle without scales.",
+        "answerA": "Pallenis spinosa",
+        "answerB": "97"
+      },
+      {
+        "-id": "97",
+        "questionA": "Achenes strongly incurved, with swellings on the back; leaves simple, remotely dentate.",
+        "questionB": "Fruit straight or slightly curved; leaves serrate or pinnatifid.",
+        "answerA": "Calendula arvensis",
+        "answerB": "98"
+      },
+      {
+        "-id": "98",
+        "questionA": "Leaves bipinnate or tripinnate, segments lanceolate, acute, entire or dentate; ligules pale yellow or white with a yellow base.",
+        "questionB": "Leaves slightly fleshy, simple, irregularly serrate; ligules bright yellow.",
+        "answerA": "Chrysanthemum coronarium",
+        "answerB": "Chrysanthemum segetum"
+      }
+    ]
+  }

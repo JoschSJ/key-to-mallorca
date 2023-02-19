@@ -1,0 +1,151 @@
+{
+   "question": [
+      {
+        "-id": "1",
+        "questionA": "Plants without chlorophyll, parasites or saprophytes.",
+        "questionB": "Green plants.",
+        "answerA": "2",
+        "answerB": "3"
+      },
+      {
+        "-id": "2",
+        "questionA": "Filaments of stamens free.",
+        "questionB": "Filaments united in a column.",
+        "answerA": "Monotropa hypopitys",
+        "answerB": "Family-Rafflesiaceae"
+      },
+      {
+        "-id": "3",
+        "questionA": "Stems succulent, leafless but with groups of spines.",
+        "questionB": "Stems not as above.",
+        "answerA": "Opuntia ficus-indica",
+        "answerB": "4"
+      },
+      {
+        "-id": "4",
+        "questionA": "Stamens more than twelve.",
+        "questionB": "Stamens twelve or fewer.",
+        "answerA": "Family-Ranunculaceae",
+        "answerB": "5"
+      },
+      {
+        "-id": "5",
+        "questionA": "Flowers in ovoid dense heads, without an involucre.",
+        "questionB": "Flowers not so arranged or in dense heads with an involucre.",
+        "answerA": "Family-Rosaceae",
+        "answerB": "6"
+      },
+      {
+        "-id": "6",
+        "questionA": "Flowers hypogynous.",
+        "questionB": "Flowers epigynous or all male.",
+        "answerA": "7",
+        "answerB": "13"
+      },
+      {
+        "-id": "7",
+        "questionA": "Perianth segments four.",
+        "questionB": "Perianth segments more than four.",
+        "answerA": "8",
+        "answerB": "10"
+      },
+      {
+        "-id": "8",
+        "questionA": "Perianth tubular below.",
+        "questionB": "Perianth segments free.",
+        "answerA": "Family-Thymelaeaceae",
+        "answerB": "9"
+      },
+      {
+        "-id": "9",
+        "questionA": "Herbs.",
+        "questionB": "Shrubs.",
+        "answerA": "Family-Liliaceae",
+        "answerB": "Family-Polygonaceae"
+      },
+      {
+        "-id": "10",
+        "questionA": "Carpels more than one, free or nearly so.",
+        "questionB": "Carpel one, or carpels obviously united.",
+        "answerA": "Phytolacca americana",
+        "answerB": "11"
+      },
+      {
+        "-id": "11",
+        "questionA": "Perianth segments six.",
+        "questionB": "Perianth segments five.",
+        "answerA": "Family-Liliaceae",
+        "answerB": "12"
+      },
+      {
+        "-id": "12",
+        "questionA": "Stigmas two to three; stipules sheathing, thin, dry, stiff.",
+        "questionB": "Stigma one; stipules absent.",
+        "answerA": "Family-Polygonaceae",
+        "answerB": "Family-Primulaceae"
+      },
+      {
+        "-id": "13",
+        "questionA": "Leaves all radical, 1-2m long, margins spiny; inflorescence up to 10m high.",
+        "questionB": "Leaves much less than 1m long; inflorescence much less than 5m high.",
+        "answerA": "Agave americana",
+        "answerB": "14"
+      },
+      {
+        "-id": "14",
+        "questionA": "Leaves in whorls of four or more.",
+        "questionB": "Leaves not in whorls.",
+        "answerA": "Family-Rubiaceae",
+        "answerB": "15"
+      },
+      {
+        "-id": "15",
+        "questionA": "Flowers in dense heads surrounded by an involucre.",
+        "questionB": "Flowers not in dense heads, but sometimes in compact umbels.",
+        "answerA": "16",
+        "answerB": "17"
+      },
+      {
+        "-id": "16",
+        "questionA": "Stamens fused into a tube around the style or flowers unisexual.",
+        "questionB": "Stamens not fused; flowers bisexual.",
+        "answerA": "Family-Asteraceae",
+        "answerB": "Family-Dipsacaceae"
+      },
+      {
+        "-id": "17",
+        "questionA": "Ovules numerous.",
+        "questionB": "Ovules one or two.",
+        "answerA": "18",
+        "answerB": "20"
+      },
+      {
+        "-id": "18",
+        "questionA": "Perianth segments three, or tubular with unilateral entire limb.",
+        "questionB": "Perianth segments six.",
+        "answerA": "Family-Aristolochiaceae",
+        "answerB": "19"
+      },
+      {
+        "-id": "19",
+        "questionA": "Stamens six.",
+        "questionB": "Stamens three.",
+        "answerA": "Family-Amaryllidaceae",
+        "answerB": "Family-Iridaceae"
+      },
+      {
+        "-id": "20",
+        "questionA": "Leaves opposite.",
+        "questionB": "Leaves alternate.",
+        "answerA": "Family-Valerianaceae",
+        "answerB": "21"
+      },
+      {
+        "-id": "21",
+        "questionA": "Flowers in simple cymes or solitary.",
+        "questionB": "Flowers in umbels or whorls placed one upon the other.",
+        "answerA": "Family-Santalaceae",
+        "answerB": "Family-Apiaceae"
+      }
+    ]
+  }

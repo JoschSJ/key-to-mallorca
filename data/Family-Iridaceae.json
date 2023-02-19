@@ -1,0 +1,67 @@
+{
+   "question": [
+      {
+        "-id": "1",
+        "questionA": "Flowers zygomorphic.",
+        "questionB": "Flowers actinomorphic.",
+        "answerA": "2",
+        "answerB": "4"
+      },
+      {
+        "-id": "2",
+        "questionA": "Plants up  to 50  cm;  leaves  few,  scarcely  reaching  the  spike;  spike unbranched, three- to ten-flowered.",
+        "questionB": "Plants 50-100 cm; leaves numerous, reaching the spike; spike often branched.",
+        "answerA": "Gladiolus illyricus",
+        "answerB": "3"
+      },
+      {
+        "-id": "3",
+        "questionA": "Spikes ten- to thirty-flowered; anthers no longer than filaments; seeds winged.",
+        "questionB": "Spikes six- to sixteen-flowered; anthers longer than filaments; seeds wingless.",
+        "answerA": "Gladiolus communis",
+        "answerB": "Gladiolus italicus"
+      },
+      {
+        "-id": "4",
+        "questionA": "Flowers arising directly from the corm.",
+        "questionB": "Flowers borne on aerial stems.",
+        "answerA": "Crocus cambessedesii",
+        "answerB": "5"
+      },
+      {
+        "-id": "5",
+        "questionA": "Perianth segments similar, spreading equally.",
+        "questionB": "Perianth segments dissimilar:  the outer erect, the inner spreading and reflexed.",
+        "answerA": "6",
+        "answerB": "8"
+      },
+      {
+        "-id": "6",
+        "questionA": "Bracteoles green with a scarious margin.",
+        "questionB": "Bracteoles entirely scarious.",
+        "answerA": "Romulea ramiflora",
+        "answerB": "7"
+      },
+      {
+        "-id": "7",
+        "questionA": "Upper half of perianth whitish with lilac veins.",
+        "questionB": "Upper half of perianth pure white.",
+        "answerA": "Romulea columnae",
+        "answerB": "Romulea assumptionis"
+      },
+      {
+        "-id": "8",
+        "questionA": "Plants with bulbs covered with fibrous scales.",
+        "questionB": "Plants with swollen horizontal rhizomes.",
+        "answerA": "Gynandiris sisyrinchium",
+        "answerB": "9"
+      },
+      {
+        "-id": "9",
+        "questionA": "Spathes green; flowers yellow.",
+        "questionB": "Spathes scarious; flowers blue.",
+        "answerA": "Iris pseudacorus",
+        "answerB": "Iris pallida"
+      }
+    ]
+  }

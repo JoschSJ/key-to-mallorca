@@ -1,0 +1,25 @@
+{
+  "question": [
+      {
+        "-id": "1",
+        "questionA": "Involucre of soft leafy bracts.",
+        "questionB": "Involucre of rigid spiny-tipped bracts.",
+        "answerA": "2",
+        "answerB": "3"
+      },
+      {
+        "-id": "2",
+        "questionA": "Woody-based perennials; leaves entire, mostly radical.",
+        "questionB": "Strangling biennial; upper leaves pinnatifid.",
+        "answerA": "Scabiosa cretica",
+        "answerB": "Scabiosa maritima"
+      },
+      {
+        "-id": "3",
+        "questionA": "Stems spiny.",
+        "questionB": "Stems not spiny.",
+        "answerA": "Dipsacus fullonum",
+        "answerB": "Cephalaria squamiflora"
+      }
+    ]
+  }

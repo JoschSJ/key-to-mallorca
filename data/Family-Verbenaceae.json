@@ -1,0 +1,32 @@
+{
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Leaves palmate, leaflets five to seven.",
+        "questionB": "Leaves entire, dentate or pinnately lobed.",
+        "answerA": "Vitex agnus-castus",
+        "answerB": "2"
+      },
+      {
+        "-id": "2",
+        "questionA": "Leaves pinnately lobed.",
+        "questionB": "Leaves entire or dentate.",
+        "answerA": "Verbena officinalis",
+        "answerB": "3"
+      },
+      {
+        "-id": "3",
+        "questionA": "Shrubs; flowers numerous, in hemispherical heads, pink in bud, yellow turning orange or red; native of tropical America.",
+        "questionB": "Creeping herbaceous perennials.",
+        "answerA": "Lantana camara",
+        "answerB": "4"
+      },
+      {
+        "-id": "4",
+        "questionA": "Flowers only slightly zygomorphic; corolla white.",
+        "questionB": "Flowers strongly zygomorphic; corolla lilac.",
+        "answerA": "Lippia nodiflora",
+        "answerB": "Lippia canescens"
+      }
+    ]
+  }

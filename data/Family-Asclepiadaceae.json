@@ -1,0 +1,26 @@
+{
+ 
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Shrubby perennials; corolla with reflexed lobes; fruit bristly, beaked.",
+        "questionB": "Herbaceous perennials; corolla with spreading lobes.",
+        "answerA": "Gomphocarpus fruticosus",
+        "answerB": "2"
+      },
+      {
+        "-id": "2",
+        "questionA": "Climbing perennials; leaves strongly cordate; inflorescence exceeding the leaves; flowers white or pink.",
+        "questionB": "Erect perennials; leaves ovate, cuneate, rounded or weakly cordate; inflorescence well short of leaves; flowers greenish, yellowish white or dark red.",
+        "answerA": "Cynanchum acutum",
+        "answerB": "3"
+      },
+      {
+        "-id": "3",
+        "questionA": "Leaves rounded or weakly cordate; inflorescence obviously stalked; flowers greenish or yellowish white.",
+        "questionB": "Leaves cuneate; inflorescence apparently sessile; flowers dark red.",
+        "answerA": "Vincetoxicum hirundinaria",
+        "answerB": "Vincetoxicum nigrum"
+      }
+    ]
+  }

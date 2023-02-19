@@ -1,0 +1,25 @@
+{
+   "question": [
+      {
+        "-id": "1",
+        "questionA": "Leaves pinnate; fruit a samara..",
+        "questionB": "Leaves simple; fruit a drupe.",
+        "answerA": "Fraxinus angustifolia",
+        "answerB": "2"
+      },
+      {
+        "-id": "2",
+        "questionA": "Trees or occasionally shrubs; leaves grey above, silvery below.",
+        "questionB": "Shrubs or occasionally trees; leaves green above and below.",
+        "answerA": "Olea europaea",
+        "answerB": "3"
+      },
+      {
+        "-id": "3",
+        "questionA": "Leaves broadly ovate, dark green above, light green below, often cordate and dentate.",
+        "questionB": "Leaves narrowly lanceolate, grey-green above and below, cuneate, entire.",
+        "answerA": "Phillyrea latifolia",
+        "answerB": "Phillyrea angustifolia"
+      }
+    ]
+  }

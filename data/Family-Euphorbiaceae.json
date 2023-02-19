@@ -1,0 +1,151 @@
+{
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Plants without milky latex; male  and female flowers in separate clusters.",
+        "questionB": "Plants with milky latex; several male flowers and one female flower encircled by an involucre and forming a compound cluster.",
+        "answerA": "2",
+        "answerB": "4"
+      },
+      {
+        "-id": "2",
+        "questionA": "Leaves palmately lobed.",
+        "questionB": "Leaves not palmately lobed.",
+        "answerA": "Ricinus communis",
+        "answerB": "3"
+      },
+      {
+        "-id": "3",
+        "questionA": "Plants dioecious; leaves opposite.",
+        "questionB": "Plants monoecious; leaves alternate.",
+        "answerA": "Mercurialis annua",
+        "answerB": "Chrozophora tinctoria"
+      },
+      {
+        "-id": "4",
+        "questionA": "Robust shrub with red stems,  forming rounded bushes up to 2m across.",
+        "questionB": "Herbaceous plants, considerably less than 2m across.",
+        "answerA": "Euphorbia dendroides",
+        "answerB": "5"
+      },
+      {
+        "-id": "5",
+        "questionA": "Glabrous annuals or perennials; leaves caducous; glands with two or four horns or hornless; primary umbel  usually absent, axillary umbels numerous, compound.",
+        "questionB": "Annuals  or  perennials;  primary  umbels  usual ly present, secondary umbels few or absent.",
+        "answerA": "Euphorbia segetalis",
+        "answerB": "6"
+      },
+      {
+        "-id": "6",
+        "questionA": "Annuals or biennials, usually with one basal stem.",
+        "questionB": "Perennials, usually with several stems arising from the base.",
+        "answerA": "7",
+        "answerB": "14"
+      },
+      {
+        "-id": "7",
+        "questionA": "Plants  yellow-green; capsules pale grey or brown, transversely grooved.",
+        "questionB": "Capsules not transversely grooved.",
+        "answerA": "Euphorbia falcata",
+        "answerB": "8"
+      },
+      {
+        "-id": "8",
+        "questionA": "Leaves fleshy, markedly asymmetrical at the base; capsule c. 3mm, smooth, ovoid.",
+        "questionB": "Leaves not markedly asymmetrical at the base.",
+        "answerA": "Euphorbia peplis",
+        "answerB": "9"
+      },
+      {
+        "-id": "9",
+        "questionA": "Leaves slightly asymmetrical, often emarginate and serrulate; glands with rounded white appendages; seed 2 mm, elongated, quadrangular, with faint transverse ridges.",
+        "questionB": "Leaves symmetrical, not emarginate.",
+        "answerA": "Euphorbia chamaesyce",
+        "answerB": "10"
+      },
+      {
+        "-id": "10",
+        "questionA": "Leaves linear; capsule up to 2mm, smooth or slightly tuberculate on the keels.",
+        "questionB": "Leaves ovate or oblong.",
+        "answerA": "Euphorbia exigua",
+        "answerB": "11"
+      },
+      {
+        "-id": "11",
+        "questionA": "Leaves obovate, sessile.",
+        "questionB": "Leaves ovate, petiolate.",
+        "answerA": "12",
+        "answerB": "13"
+      },
+      {
+        "-id": "12",
+        "questionA": "Capsule winged.",
+        "questionB": "Capsule wingless.",
+        "answerA": "Euphorbia pterococca",
+        "answerB": "Euphorbia helioscopia"
+      },
+      {
+        "-id": "13",
+        "questionA": "Leaves  glaucous,  serrulate  towards the tip; seeds 1 mm, black, rugulose.",
+        "questionB": "Leaves yellow-green, entire; seeds grey, longitudinally grooved on the front, pitted dorsally.",
+        "answerA": "Euphorbia nutans",
+        "answerB": "Euphorbia peplus"
+      },
+      {
+        "-id": "14",
+        "questionA": "Plants hairy.",
+        "questionB": "Plants glabrous.",
+        "answerA": "15",
+        "answerB": "17"
+      },
+      {
+        "-id": "15",
+        "questionA": "Plants hirsute; leaves pale green; axillary rays common; capsule tuberculate; seeds with dark tubercles and prominent, comma-shaped, white caruncle.",
+        "questionB": "Plants  tomentose or minutely papillose  (use  lens);  leaves glaucous; axillary rays absent.",
+        "answerA": "Euphorbia hirsuta",
+        "answerB": "16"
+      },
+      {
+        "-id": "16",
+        "questionA": "Plants minutely papillose; leaves and bracts serrulate; seeds white or dark grey, sometimes ridged or tuberculate.",
+        "questionB": "Plants tomentose; leaves and bracts entire; seeds silver-grey, smooth.",
+        "answerA": "Euphorbia pithyusa",
+        "answerB": "Euphorbia characias"
+      },
+      {
+        "-id": "17",
+        "questionA": "Leaves and bracts serrate; leaves glaucous; bracts yellow.",
+        "questionB": "Neither leaves nor bracts serrate.",
+        "answerA": "Euphorbia serrata",
+        "answerB": "18"
+      },
+      {
+        "-id": "18",
+        "questionA": "Rays short-stalked, terminal, buried in the axils of the leaves; capsule 5 mm, smooth.",
+        "questionB": "Rays on prominent stalks.",
+        "answerA": "Euphorbia fontqueriana",
+        "answerB": "19"
+      },
+      {
+        "-id": "19",
+        "questionA": "Plants  decumbent;  leaves  petiolate, leaf-tips acute, rounded, or emarginate; axillary rays absent.",
+        "questionB": "Plants erect; leaves sessile, leaf-tips not variable in shape; axillary rays present.",
+        "answerA": "Euphorbia maresii",
+        "answerB": "20"
+      },
+      {
+        "-id": "20",
+        "questionA": "Leaves light green; some axillary rays whorled below terminal  umbel; glands with club-shaped horns; seeds grey, shallowly ridged.",
+        "questionB": "Leaves glaucous; axillary rays not whorled.",
+        "answerA": "Euphorbia biumbellata",
+        "answerB": "21"
+      },
+      {
+        "-id": "21",
+        "questionA": "Plants with few branches emerging from the base; leaves numerous, closely overlapping; capsule glabrous, granular.",
+        "questionB": "Plants with many branches emerging from the base; leaves, distant, not overlapping; capsule glabrous, smooth.",
+        "answerA": "Euphorbia paralias",
+        "answerB": "Euphorbia terracina"
+      }
+    ]
+  }

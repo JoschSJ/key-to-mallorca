@@ -1,0 +1,32 @@
+{
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Fruit rounded and nut-like.",
+        "questionB": "Fruit flattened.",
+        "answerA": "2",
+        "answerB": "3"
+      },
+      {
+        "-id": "2",
+        "questionA": "Petals yellow; sepals green; pedicels straight; fruit with a conical beak, spiny.",
+        "questionB": "Petals white; sepals pink; pedicels curved around the stem; fruit with a flattened sword-shaped beak, not spiny.",
+        "answerA": "Succowia balearica",
+        "answerB": "Carrichtera annua"
+      },
+      {
+        "-id": "3",
+        "questionA": "Petals deeply bifid.",
+        "questionB": "Petals entire or shallowly notched.",
+        "answerA": "4",
+        "answerB": "Lobularia maritima"
+      },
+      {
+        "-id": "4",
+        "questionA": "Cauline leaves absent; capsule not reticulately veined.",
+        "questionB": "Cauline leaves present; capsule reticulately veined.",
+        "answerA": "Erophila verna",
+        "answerB": "Hymenolobus procumbens"
+      }
+    ]
+  }

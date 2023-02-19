@@ -1,0 +1,25 @@
+﻿{
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Bracts equalling or exceeding calyx.",
+        "questionB": "Bracts ending short of calyx.",
+        "answerA": "2",
+        "answerB": "3"
+      },
+      {
+        "-id": "2",
+        "questionA": "Sepals four.",
+        "questionB": "Sepals five.",
+        "answerA": "Tamarix boveana",
+        "answerB": "Tamarix canariensis"
+      },
+      {
+        "-id": "3",
+        "questionA": "Racemes axillary, long stalked, borne towards the end of the present year’s leafy branches; flowers 2 mm; anthers ending with a fine point.",
+        "questionB": "Racemes axillary, short stalked, borne on last year’s branches, before or with the leaves; flowers 3 mm; anthers blunt.",
+        "answerA": "Tamarix gallica",
+        "answerB": "Tamarix africana"
+      }
+    ]
+  }

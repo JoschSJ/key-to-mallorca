@@ -1,0 +1,25 @@
+{
+   "question": [
+      {
+        "-id": "1",
+        "questionA": "Leaves semi-evergreen, lacking a shiny cuticle, spineless.",
+        "questionB": "Leaves evergreen, with a shiny cuticle on the adaxial  surface, usually spiny.",
+        "answerA": "Quercus faginea",
+        "answerB": "2"
+      },
+      {
+        "-id": "2",
+        "questionA": "Shrubs; leaves 1-4 cm, smooth and leathery on both surfaces; acorn with spiny cup.",
+        "questionB": "Trees; leaves 3-7 cm, shiny above but coated with a white tomentum below; acorn cup not spiny.",
+        "answerA": "Quercus coccifera",
+        "answerB": "3"
+      },
+      {
+        "-id": "3",
+        "questionA": "Leaves variable in shape, dark green above; stipules thick and hairy; acorns bitter.",
+        "questionB": "Leaves broadly oval or round, glaucous above; stipules membranous; acorns sweet.",
+        "answerA": "Quercus ilex",
+        "answerB": "Quercus rotundifolia"
+      }
+    ]
+  }

@@ -1,0 +1,32 @@
+{
+   "question": [
+      {
+        "-id": "1",
+        "questionA": "Shrubs.",
+        "questionB": "Herbaceous perennials.",
+        "answerA": "2",
+        "answerB": "3"
+      },
+      {
+        "-id": "2",
+        "questionA": "Leaves  25-60 mm,  ovate,  entire,  with  translucent  glands,  smelling strongly of goats; flowers 3 cm across; sepals lanceolate, caducous in fruit.",
+        "questionB": "Leaves 10-20 mm, ovate, crenate, with yellowish glandular vesicles on the margins; flowers 2-3 cm across; sepals ovate, persistent in fruit.",
+        "answerA": "Hypericum hircinum",
+        "answerB": "Hypericum balearicum"
+      },
+      {
+        "-id": "3",
+        "questionA": "Plants decumbent, tomentose",
+        "questionB": "Plants more or less glabrous, erect.",
+        "answerA": "Hypericum tomentosum",
+        "answerB": "4"
+      },
+      {
+        "-id": "4",
+        "questionA": "Leaves  amplexicaul,  without  translucent glands; margins of sepals densely coated with dark, stalked glands.",
+        "questionB": "Leaves  lanceolate,  with  translucent glands; margins of sepals eglandular.",
+        "answerA": "Hypericum perfoliatum",
+        "answerB": "Hypericum perforatum"
+      }
+    ]
+  }

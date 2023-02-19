@@ -1,0 +1,60 @@
+{
+   "question": [
+      {
+        "-id": "1",
+        "questionA": "Petals fused into a tube about as long as the lobes of the corolla.",
+        "questionB": "Petals free or slightly fused at base.",
+        "answerA": "2",
+        "answerB": "3"
+      },
+      {
+        "-id": "2",
+        "questionA": "Cauline  leaves  absent;  raceme occupying more than half the stem, unbranched.",
+        "questionB": "Cauline leaves numerous; raceme occupying less than half the stem, often with short branches.",
+        "answerA": "Umbilicus rupestris",
+        "answerB": "Umbilicus horizontalis"
+      },
+      {
+        "-id": "3",
+        "questionA": "Plants forming rosettes; petals six to eighteen.",
+        "questionB": "Plants not forming rosettes; petals usually four to five.",
+        "answerA": "Aeonium arboreum",
+        "answerB": "4"
+      },
+      {
+        "-id": "4",
+        "questionA": "Small annuals; flowers inconspicuous; stamens as many as petals.",
+        "questionB": "Annuals or perennials; flowers conspicuous; stamens twice as many as petals.",
+        "answerA": "5",
+        "answerB": "6"
+      },
+      {
+        "-id": "5",
+        "questionA": "Minute, moss-like glabrous annuals; flowers sessile, axillary.",
+        "questionB": "Small glabrous annual, 2-6 cm; flowers on pedicels, axillary.",
+        "answerA": "Crassula tillaea",
+        "answerB": "Crassula vaillantii"
+      },
+      {
+        "-id": "6",
+        "questionA": "Glabrous annuals; leaves cordate.",
+        "questionB": "Perennials; leaves cylindrical or linear.",
+        "answerA": "Sedum stellatum",
+        "answerB": "7"
+      },
+      {
+        "-id": "7",
+        "questionA": "Leaves  linear,  curved  upwards;  flowers  in  dense  flat-topped inflorescences  on scapes more than four times the depth of the inflorescence; petals narrowly spathulate.",
+        "questionB": "Leaves  cylindrical, fleshy, glandular pubescent; scape less than the depth of the inflorescence or absent; petals ovate, acute.",
+        "answerA": "Sedum sediforme",
+        "answerB": "8"
+      },
+      {
+        "-id": "8",
+        "questionA": "Flowers in lax terminal cymes.",
+        "questionB": "Flowers in very compact, almost sessile, terminal cymes.",
+        "answerA": "Sedum dasyphyllum",
+        "answerB": "Sedum rubens"
+      }
+    ]
+  }

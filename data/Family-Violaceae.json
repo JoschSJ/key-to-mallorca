@@ -1,0 +1,25 @@
+{
+   "question": [
+      {
+        "-id": "1",
+        "questionA": "Woody plants; leaves narrowly lanceolate; flowers pale violet.",
+        "questionB": "Rhizomatous perennial herbs; leaves broadly cordate.",
+        "answerA": "Viola arborescens",
+        "answerB": "2"
+      },
+      {
+        "-id": "2",
+        "questionA": "Plants with short stout stolons; flowers fragrant, violet with a yellow or white throat.",
+        "questionB": "Plants usually without stolons.",
+        "answerA": "Viola suavis",
+        "answerB": "3"
+      },
+      {
+        "-id": "3",
+        "questionA": "Plants sparsely hairy; flowers dark or pale violet; lateral petals with white beard.",
+        "questionB": "Plants glabrous; flowers pale violet; lateral petals without white beard.",
+        "answerA": "Viola alba",
+        "answerB": "Viola jaubertiana"
+      }
+    ]
+  }

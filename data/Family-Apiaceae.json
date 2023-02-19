@@ -1,0 +1,271 @@
+{
+  
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Leaves simple.",
+        "questionB": "Leaves pinnate or ternate.",
+        "answerA": "2",
+        "answerB": "9"
+      },
+      {
+        "-id": "2",
+        "questionA": "Leaves spineless.",
+        "questionB": "Leaves spiny.",
+        "answerA": "3",
+        "answerB": "7"
+      },
+      {
+        "-id": "3",
+        "questionA": "Leaves palmately  lobed with prominent  stellate hairs on  the lower surface and on the fruits.",
+        "questionB": "Leaves ovate, lanceolate or linear.",
+        "answerA": "Bowlesia incana",
+        "answerB": "4"
+      },
+      {
+        "-id": "4",
+        "questionA": "Shrub; basal leaves linear-lanceolate; stems almost leafless.",
+        "questionB": "Annual herbs.",
+        "answerA": "Bupleurum barceloi",
+        "answerB": "5"
+      },
+      {
+        "-id": "5",
+        "questionA": "Upper leaves perfoliate; bracts almost as wide as long.",
+        "questionB": "Upper leaves not perfoliate; bracts narrowly lanceolate.",
+        "answerA": "Bupleurum lancifolium",
+        "answerB": "6"
+      },
+      {
+        "-id": "6",
+        "questionA": "Plants to 75 cm, yellow-green.",
+        "questionB": "Plants to 30 cm, glaucous.",
+        "answerA": "Bupleurum baldense",
+        "answerB": "Bupleurum semicompositum"
+      },
+      {
+        "-id": "7",
+        "questionA": "Male flowers clustered around a female or hermaphrodite flower, their stalk fused to each other or attached to the ovary.",
+        "questionB": "All flowers hermaphrodite.",
+        "answerA": "Echinophora spinosa",
+        "answerB": "8"
+      },
+      {
+        "-id": "8",
+        "questionA": "Plants glaucous; involucral bracts oval.",
+        "questionB": "Plants yellowish green; involucral bracts linear.",
+        "answerA": "Eryngium maritimum",
+        "answerB": "Eryngium campestre"
+      },
+      {
+        "-id": "9",
+        "questionA": "Leaves ternate, less than  1 cm long, the terminal  leaflet much larger than the lateral leaflets.",
+        "questionB": "Leaves pinnate, or ternate but more than 1 cm long.",
+        "answerA": "Naufraga balearica",
+        "answerB": "10"
+      },
+      {
+        "-id": "10",
+        "questionA": "Fruits winged.",
+        "questionB": "Fruits not winged.",
+        "answerA": "11",
+        "answerB": "17"
+      },
+      {
+        "-id": "11",
+        "questionA": "Flowers yellow.",
+        "questionB": "Flowers white, pink, green or cream.",
+        "answerA": "12",
+        "answerB": "15"
+      },
+      {
+        "-id": "12",
+        "questionA": "Cauline leaves lanceolate, amplexicaul.",
+        "questionB": "At least some cauline leaves pinnate or more deeply divided.",
+        "answerA": "13",
+        "answerB": "14"
+      },
+      {
+        "-id": "13",
+        "questionA": "Radical leaves persistent.",
+        "questionB": "Radical leaves withering before flowering.",
+        "answerA": "Thapsia villosa",
+        "answerB": "Thapsia gymnesica"
+      },
+      {
+        "-id": "14",
+        "questionA": "Lower cauline leaves simply pinnate; radical and upper cauline leaves simple, cordate.",
+        "questionB": "All leaves bipinnate or more deeply divided.",
+        "answerA": "Pastinaca lucida",
+        "answerB": "Ferula communis"
+      },
+      {
+        "-id": "15",
+        "questionA": "Wing of fruit conspicuously thickened and corky.",
+        "questionB": "Wing of fruit thin, often papery.",
+        "answerA": "Tordylium apulum",
+        "answerB": "16"
+      },
+      {
+        "-id": "16",
+        "questionA": "Ribs of fruit all equal.",
+        "questionB": "Ribs of fruit unequal, the lateral wings wider.",
+        "answerA": "Ligusticum lucidum",
+        "answerB": "Laserpitium gallicum"
+      },
+      {
+        "-id": "17",
+        "questionA": "Flowers yellow or yellowish green.",
+        "questionB": "Flowers white, pink or cream.",
+        "answerA": "18",
+        "answerB": "23"
+      },
+      {
+        "-id": "18",
+        "questionA": "Bracts and bracteoles absent or few.",
+        "questionB": "Bracts and bracteoles numerous.",
+        "answerA": "19",
+        "answerB": "21"
+      },
+      {
+        "-id": "19",
+        "questionA": "Leaf lobes oval to rounded.",
+        "questionB": "Leaf lobes thread-like.",
+        "answerA": "Smyrnium olusatrum",
+        "answerB": "20"
+      },
+      {
+        "-id": "20",
+        "questionA": "Uppermost cauline leaves trifid; fruit oval, 4-6 mm.",
+        "questionB": "Uppermost cauline leaves reduced to  sheaths; fruit truncate at the base, 2 mm.",
+        "answerA": "Foeniculum vulgare",
+        "answerB": "Ridolfia segetum"
+      },
+      {
+        "-id": "21",
+        "questionA": "Leaf lobes linear to obovate, fleshy.",
+        "questionB": "Leaf lobes lanceolate to oval, not fleshy.",
+        "answerA": "Crithmum maritimum",
+        "answerB": "22"
+      },
+      {
+        "-id": "22",
+        "questionA": "Inflorescence drooping in bud; bracts linear, at least half as long as peduncles; bracteoles linear, longer than pedicels.",
+        "questionB": "Inflorescence not drooping in bud;  bracts linear, less than half the length of the peduncles; bracteoles linear, shorter than pedicels.",
+        "answerA": "Kundmannia sicula",
+        "answerB": "Petroselinum crispum"
+      },
+      {
+        "-id": "23",
+        "questionA": "Fruit at least three times as long as wide.",
+        "questionB": "Fruit less than three times as long as wide.",
+        "answerA": "Scandix pecten-veneris",
+        "answerB": "24"
+      },
+      {
+        "-id": "24",
+        "questionA": "Fruit hairless, not covered with prickles.",
+        "questionB": "Fruit finely hairy, rough-haired or covered with prickles.",
+        "answerA": "25",
+        "answerB": "35"
+      },
+      {
+        "-id": "25",
+        "questionA": "Radical leaves pinnate or simple.",
+        "questionB": "Radical leaves bipinnate or biternate.",
+        "answerA": "26",
+        "answerB": "29"
+      },
+      {
+        "-id": "26",
+        "questionA": "Bracts and bracteoles present.",
+        "questionB": "Bracts absent.",
+        "answerA": "Petroselinum crispum",
+        "answerB": "27"
+      },
+      {
+        "-id": "27",
+        "questionA": "Mericarps more or less rounded, only very slightly ridged.",
+        "questionB": "Mericarps angular, prominently ridged.",
+        "answerA": "Pimpinella bicknelli",
+        "answerB": "28"
+      },
+      {
+        "-id": "28",
+        "questionA": "Leaflets of radical leaves trilobed; bracteoles absent.",
+        "questionB": "Leaflets of radical leaves simple; bracteoles present.",
+        "answerA": "Apium graveolens",
+        "answerB": "Apium nodiflorum"
+      },
+      {
+        "-id": "29",
+        "questionA": "Fruit  globular,  with  denticulate  ridges;  stem  purple-spotted;  bracts ovate, reflexed; bracteoles only on one side of the partial umbel.",
+        "questionB": "Fruit oblong-ovoid, or globular without denticulate ridges.",
+        "answerA": "Conium maculatum",
+        "answerB": "30"
+      },
+      {
+        "-id": "30",
+        "questionA": "Fruit  slightly  compressed  laterally;  bracts  pinnatifid;  bracteoles subulate; calyx teeth absent.",
+        "questionB": "Fruit not compressed laterally; bracts linear or absent.",
+        "answerA": "31",
+        "answerB": "32"
+      },
+      {
+        "-id": "31",
+        "questionA": "Segments  of  lower  leaves  oblong-oval; primary rays up to fifty, divergent in fruit.",
+        "questionB": "Segments of lowers leaves linear, primary rays up to one hundred and fifty; convergent in fruit.",
+        "answerA": "Ammi majus",
+        "answerB": "Ammi visnaga"
+      },
+      {
+        "-id": "32",
+        "questionA": "Radical leaves merging from the base of the stem; calyx teeth acute.",
+        "questionB": "Radical  leaves emerging from a corm below ground; calyx absent or minute.",
+        "answerA": "33",
+        "answerB": "34"
+      },
+      {
+        "-id": "33",
+        "questionA": "Plants to 50 cm; rays of primary umbel three to six; fruit globular.",
+        "questionB": "Plants to 100 cm; rays of primary umbel five to fifteen; fruit ovoid.",
+        "answerA": "Oenanthe globulosa",
+        "answerB": "Oenanthe lachenalii"
+      },
+      {
+        "-id": "34",
+        "questionA": "Leaflets at least ten times as long as wide; pedicel much slimmer than fruit.",
+        "questionB": "Leaflets less than five times as long as wide; pedicel almost as thick as fruit.",
+        "answerA": "Bunium bulbocastaneum",
+        "answerB": "Bunium pachypodum"
+      },
+      {
+        "-id": "35",
+        "questionA": "Mericarps bearing straight spines.",
+        "questionB": "At least the outer mericarps bearing curved or hooked spines.",
+        "answerA": "36",
+        "answerB": "37"
+      },
+      {
+        "-id": "36",
+        "questionA": "Bracts pinnatifid; spines on fruit closely spaced, as long as thickness of fruit.",
+        "questionB": "Bracts linear or trifid; spines on fruit widely spaced, half as long as thickness of fruit.",
+        "answerA": "Daucus carota",
+        "answerB": "Pseudorlaya pumila"
+      },
+      {
+        "-id": "37",
+        "questionA": "Leaves bipinnate; both mericarps spiny.",
+        "questionB": "Leaves tripinnate; peripheral fruits with inner mericarp tuberculate and outer mericarp spiny.",
+        "answerA": "Torilis webbii",
+        "answerB": "38"
+      },
+      {
+        "-id": "38",
+        "questionA": "Fruits at centre of umbel tuberculate.",
+        "questionB": "Fruits  at  centre of umbel  with  inner mericarp  tuberculate  and outer mericarp spiny.",
+        "answerA": "Torilis nodosa",
+        "answerB": "Torilis arvensis"
+      }
+    ]
+  }

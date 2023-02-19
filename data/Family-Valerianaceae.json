@@ -1,0 +1,39 @@
+{
+   "question": [
+      {
+        "-id": "1",
+        "questionA": "Fruit without pappus; annuals.",
+        "questionB": "Fruit  with  pappus;  usually perennials; corolla spurred or saccate; stamen one.",
+        "answerA": "2",
+        "answerB": "5"
+      },
+      {
+        "-id": "2",
+        "questionA": "Corolla with a long tube, pink, distinctly two-lipped, lobes of the upper lip with ciliate margins, those of  the lower lip red at the base; stamens two.",
+        "questionB": "Corolla tiny, regularly four- or five-lobed; stamens three.",
+        "answerA": "Fedia cornucopiae",
+        "answerB": "3"
+      },
+      {
+        "-id": "3",
+        "questionA": "Petals four, pink.",
+        "questionB": "Petals five, blue.",
+        "answerA": "Valerianella microcarpa",
+        "answerB": "4"
+      },
+      {
+        "-id": "4",
+        "questionA": "Leaves pinnatifid; calyx teeth long and curved, wooly-haired; fruit veryhairy.",
+        "questionB": "Leaves ovate, crenulate towards the base; calyx teeth short and erect, slightly hairy; fruit slightly hairy.",
+        "answerA": "Valerianella discoidea",
+        "answerB": "Valerianella eriocarpa"
+      },
+      {
+        "-id": "5",
+        "questionA": "Perennials, corolla deep pink, strongly zygomorphic, with two lips, the upper with one lobe and the lower with four, spur long.",
+        "questionB": "Annuals; corolla pale pink, lobes actinomorphic, spur very short.",
+        "answerA": "Centranthus ruber",
+        "answerB": "Centranthus calcitrapae"
+      }
+    ]
+  }

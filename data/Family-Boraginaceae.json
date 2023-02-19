@@ -1,0 +1,117 @@
+{
+  
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Corolla with five converging scales or hairs in the throat, often closing it.",
+        "questionB": "Corolla without  throat-scales, or  scales or hairs rudimentary, non-convergent.",
+        "answerA": "2",
+        "answerB": "5"
+      },
+      {
+        "-id": "2",
+        "questionA": "Corolla tubular, tube very short with large spreading lobes; stamens connivent into a cone, each with a horn-like projection.",
+        "questionB": "Corolla funnel- or saucer-shaped.",
+        "answerA": "Borago officinalis",
+        "answerB": "3"
+      },
+      {
+        "-id": "3",
+        "questionA": "Nutlets without spines or hooks.",
+        "questionB": "Nutlets large, covered with short spines.",
+        "answerA": "Anchusa azurea",
+        "answerB": "4"
+      },
+      {
+        "-id": "4",
+        "questionA": "Leaves  and  stems green, softly hairy; inflorescence without bracts; flowers pale blue.",
+        "questionB": "Leaves and stems white, wooly tomentose; inflorescence with leafy bracts; flowers red, turning violet or blue.",
+        "answerA": "Cynoglossum creticum",
+        "answerB": "Cynoglossum cheirifolium"
+      },
+      {
+        "-id": "5",
+        "questionA": "Flowers without bracts; corolla small with spreading lobes.",
+        "questionB": "Flowers with leafy bracts.",
+        "answerA": "6",
+        "answerB": "7"
+      },
+      {
+        "-id": "6",
+        "questionA": "Leaves broadly ovate; flowers in forked, one-sided spikes.",
+        "questionB": "Leaves lanceolate; flowers in compact axillary clusters.",
+        "answerA": "Heliotropium europaeum",
+        "answerB": "Heliotropium curassavicum"
+      },
+      {
+        "-id": "7",
+        "questionA": "Corolla  tubular  or  campanulate,  scarcely  enlarged above; flowers zygomorphic; tube curved, lobes unequal.",
+        "questionB": "Corolla conical, abruptly enlarged above into barrel-shaped section ending in a constricted throat and spreading lobes.",
+        "answerA": "8",
+        "answerB": "13"
+      },
+      {
+        "-id": "8",
+        "questionA": "Stamens included in the corolla; flowers usually less than 12 mm long.",
+        "questionB": "Stamens protruding from the corolla; flowers usually more than 12 mm long.",
+        "answerA": "9",
+        "answerB": "11"
+      },
+      {
+        "-id": "9",
+        "questionA": "Flowers violet; corolla 8-9 mm, often longer than calyx; calyx with spreading hairs, not enlarging in fruit.",
+        "questionB": "Flowers blue with white throats; corolla 10-12 mm, hairy, little longer than calyx; calyx with adpressed hairs, enlarging to 1 cm in fruit.",
+        "answerA": "Echium arenarium",
+        "answerB": "10"
+      },
+      {
+        "-id": "10",
+        "questionA": "Bracts  more  or  less  equalling  internodes;  corolla  deep  violet;  all stamens included in the corolla tube.",
+        "questionB": "Bracts much shorter than internodes; corolla pale violet; two stamens usually exserted.",
+        "answerA": "Echium parviflorum",
+        "answerB": "Echium sabulicola"
+      },
+      {
+        "-id": "11",
+        "questionA": "Flowers 25-30 mm long; deep blue, reddish or purple.",
+        "questionB": "Flowers less than 20 mm long; pink, lilac or white.",
+        "answerA": "Echium plantagineum",
+        "answerB": "12"
+      },
+      {
+        "-id": "12",
+        "questionA": "Flowers 13-18 mm, deep pink; stamens long exserted, filaments red.",
+        "questionB": "Flowers 10-15 mm; pale blue, pink or white.; stamens long exserted; filaments pale.",
+        "answerA": "Echium asperrimum",
+        "answerB": "Echium italicum"
+      },
+      {
+        "-id": "13",
+        "questionA": "Calyx divided to about one third; corolla tube with five hooked scales.",
+        "questionB": "Calyx divided almost to the base.",
+        "answerA": "Nonea vesicaria",
+        "answerB": "14"
+      },
+      {
+        "-id": "14",
+        "questionA": "Corolla yellow, with glandular hairs inside and out.",
+        "questionB": "Corolla without glandular hairs.",
+        "answerA": "Neatostema apulum",
+        "answerB": "15"
+      },
+      {
+        "-id": "15",
+        "questionA": "Corolla  yellow,  tube  with five transverse swellings near the base, alternating with the stamens.",
+        "questionB": "Corolla tube naked or with five vertical lines of hairs near the base.",
+        "answerA": "Alkanna lutea",
+        "answerB": "16"
+      },
+      {
+        "-id": "16",
+        "questionA": "Corolla yellowish white, five longitudinal folds inside; nut white.",
+        "questionB": "Corolla white, five longitudinal bands of hairs inside; nut brown.",
+        "answerA": "Lithospermum officinale",
+        "answerB": "Buglossoides arvensis"
+      }
+    ]
+  }

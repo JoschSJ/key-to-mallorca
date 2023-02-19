@@ -1,0 +1,61 @@
+{
+ 
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Fronds entire",
+        "questionB": "Fronds divided",
+        "answerA": "2",
+        "answerB": "3"
+      },
+      {
+        "-id": "2",
+        "questionA": "Fronds without auricles at the base, sagittate or cordate",
+        "questionB": "Fronds with auricles at the base",
+        "answerA": "Asplenium sagittatum",
+        "answerB": "Asplenium scolopendrium"
+      },
+      {
+        "-id": "3",
+        "questionA": "Fronds simply pinnate",
+        "questionB": "Fronds bipinnate",
+        "answerA": "4",
+        "answerB": "7"
+      },
+      {
+        "-id": "4",
+        "questionA": "Rachis with green wings",
+        "questionB": "Rachis without green wings",
+        "answerA": "Asplenium marinum",
+        "answerB": "5"
+      },
+      {
+        "-id": "5",
+        "questionA": "Petiole and rachis densely covered in glandular hairs",
+        "questionB": "Petiole and rachis not covered in glandular hairs",
+        "answerA": "Asplenium petrachae",
+        "answerB": "6"
+      },
+      {
+        "-id": "6",
+        "questionA": "Underside of pinnules coated in reddish hairs",
+        "questionB": "Underside of pinnules not coated in hairs",
+        "answerA": "Asplenium ceterach",
+        "answerB": "Asplenium trichomanes"
+      },
+      {
+        "-id": "7",
+        "questionA": "Petiole green, usually less than 2 cm",
+        "questionB": "Petiole black, at least towards the base, usually more than 5 cm",
+        "answerA": "Asplenium ruta-muraria",
+        "answerB": "8"
+      },
+      {
+        "-id": "8",
+        "questionA": "Frond bright green, without a shiny adaxial surface; pinnae ovate",
+        "questionB": "Frond dark green, with a shiny adaxial surface; pinnae lanceolate",
+        "answerA": "Asplenium adiantum-nigrum",
+        "answerB": "Asplenium onopteris"
+      }
+    ]
+  }

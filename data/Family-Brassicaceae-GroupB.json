@@ -1,0 +1,193 @@
+{
+    "question": [
+        {
+            "-id": "1",
+            "questionA": "Plants with simple unbranched hairs or glabrous.",
+            "questionB": "Hairs  star-shaped,  branched or a mixture of branched and unbranched.",
+            "answerA": "2",
+            "answerB": "23"
+        },
+        {
+            "-id": "2",
+            "questionA": "Calyx closed, sepals erect and adpressed to petals.",
+            "questionB": "Calyx open, sepals spreading.",
+            "answerA": "3",
+            "answerB": "6"
+        },
+        {
+            "-id": "3",
+            "questionA": "Leaves  simple,  entire,  glaucous,  somewhat fleshy; petals violet or purple.",
+            "questionB": "At least some leaves dentate, lobed or deeply divided.",
+            "answerA": "Moricandia arvensis",
+            "answerB": "4"
+        },
+        {
+            "-id": "4",
+            "questionA": "Stigma  deeply  two-lobed;  fruit  with  a sword-shaped beak; petals yellowish or whitish.",
+            "questionB": "Stigma club-shaped; petals yellow.",
+            "answerA": "Eruca sativa",
+            "answerB": "5"
+        },
+        {
+            "-id": "5",
+            "questionA": "Glabrous shrub; valves of fruit with one prominent vein.",
+            "questionB": "Hairy annuals, biennials or perennials; valves of fruit with three veins, at least when young.",
+            "answerA": "Brassica balearica",
+            "answerB": "Hirschfeldia incana"
+        },
+        {
+            "-id": "6",
+            "questionA": "Valves of fruit with three to seven veins.",
+            "questionB": "Valves of fruit veinless or with one vein.",
+            "answerA": "7",
+            "answerB": "12"
+        },
+        {
+            "-id": "7",
+            "questionA": "Fruit with a long beak, more than 1 cm.",
+            "questionB": "Fruit not beaked but style distinct.",
+            "answerA": "8",
+            "answerB": "9"
+        },
+        {
+            "-id": "8",
+            "questionA": "Fruit with a conical  beak, shorter than the valves, pedicel  much shorter than the fruit.",
+            "questionB": "Fruit  with  a  flattened sabre-shaped beak, longer than the valves, pedicel as long as fruit.",
+            "answerA": "Sinapis arvensis",
+            "answerB": "Sinapis alba"
+        },
+        {
+            "-id": "9",
+            "questionA": "Siliquas conical, adpressed to stem.",
+            "questionB": "Siliquas linear, not adpressed to stem.",
+            "answerA": "Sisymbrium officinale",
+            "answerB": "10"
+        },
+        {
+            "-id": "10",
+            "questionA": "Stems and leaves grey-pubescent; petals pale yellow.",
+            "questionB": "Stems and leaves not grey-pubescent; petals bright yellow.",
+            "answerA": "Sisymbrium orientale",
+            "answerB": "11"
+        },
+        {
+            "-id": "11",
+            "questionA": "Pedicels up to 20 mm in fruit, much thinner than mature fruit.",
+            "questionB": "Pedicels up to 5mm in fruit, as thick as mature fruit.",
+            "answerA": "Sisymbrium irio",
+            "answerB": "Sisymbrium erysimoides"
+        },
+        {
+            "-id": "12",
+            "questionA": "Median vein in valves of fruit indistinct or absent.",
+            "questionB": "Median vein in valves of fruit prominent.",
+            "answerA": "13",
+            "answerB": "17"
+        },
+        {
+            "-id": "13",
+            "questionA": "Valves flat, fruit strongly laterally compressed.",
+            "questionB": "Valves convex, fruit not strongly compressed.",
+            "answerA": "14",
+            "answerB": "Nasturtium officinale"
+        },
+        {
+            "-id": "14",
+            "questionA": "Valves coiling spirally from the base at maturity.",
+            "questionB": "Valves not coiling spirally.",
+            "answerA": "Cardamine hirsuta",
+            "answerB": "15"
+        },
+        {
+            "-id": "15",
+            "questionA": "Flowers violet; cauline leaves broadly ovate.",
+            "questionB": "Flowers white; cauline leaves elongate.",
+            "answerA": "Arabis verna",
+            "answerB": "16"
+        },
+        {
+            "-id": "16",
+            "questionA": "Cauline leaves sagittate.",
+            "questionB": "Cauline leaves oblong.",
+            "answerA": "Arabis hirsuta",
+            "answerB": "Arabis collina"
+        },
+        {
+            "-id": "17",
+            "questionA": "Fruit strongly compressed.",
+            "questionB": "Fruit not strongly compressed.",
+            "answerA": "15",
+            "answerB": "18"
+        },
+        {
+            "-id": "18",
+            "questionA": "Petals yellow, sometimes with violet veins.",
+            "questionB": "Petals white, veined with violet or purple.",
+            "answerA": "19",
+            "answerB": "20"
+        },
+        {
+            "-id": "19",
+            "questionA": "Seeds in two rows in each cell.",
+            "questionB": "Seeds in one row in each cell.",
+            "answerA": "20",
+            "answerB": "Brassica balearica"
+        },
+        {
+            "-id": "20",
+            "questionA": "Shrubby perennials.",
+            "questionB": "Herbaceous annuals, biennials or perennials.",
+            "answerA": "Diplotaxis ibicensis",
+            "answerB": "21"
+        },
+        {
+            "-id": "21",
+            "questionA": "Petals white, with pink or purple claw and veins.",
+            "questionB": "Petals yellow.",
+            "answerA": "Diplotaxis erucoides",
+            "answerB": "22"
+        },
+        {
+            "-id": "22",
+            "questionA": "Slender annuals, petals pale yellow, no more than 4 mm, outer two stamens sterile.",
+            "questionB": "Robust annuals, biennials or perennials; petals deep sulphur yellow, mm or more; outer two stamens fertile.",
+            "answerA": "Diplotaxis viminea",
+            "answerB": "Diplotaxis muralis"
+        },
+        {
+            "-id": "23",
+            "questionA": "Stigma deeply two-lobed,  the  lobes  sometimes  coming together to form a beak on the fruit.",
+            "questionB": "Stigma club-shaped, notched or only slightly two-lobed.",
+            "answerA": "24",
+            "answerB": "15"
+        },
+        {
+            "-id": "24",
+            "questionA": "Lobes of stigma with a swelling or horn.",
+            "questionB": "Lobes of stigma without a swelling or horn.",
+            "answerA": "26",
+            "answerB": "25"
+        },
+        {
+            "-id": "25",
+            "questionA": "Tiny branched annuals, densely covered in stellate hairs; flowers pink.",
+            "questionB": "Perennials bearing forked hairs; flowers yellow.",
+            "answerA": "Maresia nana",
+            "answerB": "Cheiranthus cheirii"
+        },
+        {
+            "-id": "26",
+            "questionA": "Base of stem woody with prominent leaf-scars; leaves more or less entire; flowers reddish purple or white.",
+            "questionB": "Base of stem not woody; leaves lobed or divided; flowers pale lilac.",
+            "answerA": "Matthiola incana",
+            "answerB": "27"
+        },
+        {
+            "-id": "27",
+            "questionA": "Biennials up to 60 cm; leaves with sinuate margins; pods with indistinct stigmatic  lobes; pods covered with conspicuous, stalked yellow or black glands.",
+            "questionB": "Annuals  up  to  40  cm;  leaves  deeply  pinnatifid;  pods  with three prominent horns at the apex, eglandular.",
+            "answerA": "Matthiola sinuata",
+            "answerB": "Matthiola tricuspidata"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+   "question": [
+      {
+        "-id": "1",
+        "questionA": "Epicalyx with two to three lobes.",
+        "questionB": "Epicalyx with six to nine lobes.",
+        "answerA": "2",
+        "answerB": "Althaea hirsuta"
+      },
+      {
+        "-id": "2",
+        "questionA": "Lobes of epicalyx fused at base.",
+        "questionB": "Lobes of epicalyx free at base.",
+        "answerA": "3",
+        "answerB": "8"
+      },
+      {
+        "-id": "3",
+        "questionA": "Flowers in axillary clusters of two or more.",
+        "questionB": "Flowers axillary, solitary or rarely in pairs.",
+        "answerA": "4",
+        "answerB": "5"
+      },
+      {
+        "-id": "4",
+        "questionA": "Annuals to perennials with thick woody stems up to 3 m; leaves to 20 cm, often folded fan-wise; flowers 3-4 cm, petals rosy purple, purple veined; epicalyx longer than calyx, elongating in fruit.",
+        "questionB": "Annuals or biennials 50-150 cm; petals violet, 1-2 cm; epicalyx shorter than calyx.",
+        "answerA": "Lavatera arborea",
+        "answerB": "Lavatera cretica"
+      },
+      {
+        "-id": "5",
+        "questionA": "Annuals or perennials with herbaceous stems.",
+        "questionB": "Shrubs or perennials with a woody base.",
+        "answerA": "6",
+        "answerB": "7"
+      },
+      {
+        "-id": "6",
+        "questionA": "Plants not covered with bristly hairs; leaves regularly dentate, upper simple, lower hastate.",
+        "questionB": "Plants  covered with bristly hairs;  leaves  irregularly dentate, maple-shaped.",
+        "answerA": "Laverata punctata",
+        "answerB": "Laverata trimestris"
+      },
+      {
+        "-id": "7",
+        "questionA": "Flowers pale pink or purple, pedicels as long as subtending petiole.",
+        "questionB": "Flowers deep purple-violet, almost sessile.",
+        "answerA": "Laverata maritima",
+        "answerB": "Laverata olbia"
+      },
+      {
+        "-id": "8",
+        "questionA": "Petals  twice  to  four  times  the  length of  the  calyx, deeply notched; epicalyx shorter than sepals.",
+        "questionB": "Petals less than twice the length of the calyx.",
+        "answerA": "Malva sylvestris",
+        "answerB": "9"
+      },
+      {
+        "-id": "9",
+        "questionA": "Erect annuals; petals 10-12 mm.",
+        "questionB": "Prostrate annuals; petals 4-5 mm.",
+        "answerA": "Malva nicaeensis",
+        "answerB": "Malva parviflora"
+      }
+    ]
+  }

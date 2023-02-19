@@ -1,0 +1,103 @@
+{
+  
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Stems jointed, unbranched or with whorls of branches at the nodes; leaves not green, united into a scarious sheath.",
+        "questionB": "Stems not jointed; leaves green.",
+        "answerA": "Family-Equisetaceae",
+        "answerB": "2"
+      },
+      {
+        "-id": "2",
+        "questionA": "Leaves small (<5 mm), numerous, clothing dichotomously branching stems; micro- and megasporangia in the axils of sporophylls arranged in a strobilus.",
+        "questionB": "Leaves medium or large (>10 mm); sporangia not in strobili.",
+        "answerA": "Selaginella denticulata",
+        "answerB": "3"
+      },
+      {
+        "-id": "3",
+        "questionA": "Leaves linear.",
+        "questionB": "Leaves non-linear, often triangular or pinnate.",
+        "answerA": "Isoetes hystrix",
+        "answerB": "4"
+      },
+      {
+        "-id": "4",
+        "questionA": "Semi-aquatic plants; leaves cruciform, divided into four leaflets.",
+        "questionB": "Terrestrial plants; leaves simple or pinnately divided.",
+        "answerA": "Marsilea strigosa",
+        "answerB": "5"
+      },
+      {
+        "-id": "5",
+        "questionA": "Plants with distinct narrow-bladed fertile and broad-bladed sterile pinnae.",
+        "questionB": "Fertile pinnae not obviously narrower than any non-fertile pinnae.",
+        "answerA": "6",
+        "answerB": "7"
+      },
+      {
+        "-id": "6",
+        "questionA": "Plants with an upper fertile and a lower sterile frond; the fertile: mainly non-photosynthetic,stalked and pinnate;the sterile:sessile,green, entire or pinnately lobed.",
+        "questionB": "Both fertile and sterile fronds pinnately divided.",
+        "answerA": "Ophioglossum lusitanicum",
+        "answerB": "Anogramma leptophylla"
+      },
+      {
+        "-id": "7",
+        "questionA": "Sori marginal.",
+        "questionB": "Sori interstitial, below the leaf-veins.",
+        "answerA": "8",
+        "answerB": "10"
+      },
+      {
+        "-id": "8",
+        "questionA": "Pinnules fan-shaped.",
+        "questionB": "Pinnules not fan-shaped.",
+        "answerA": "Adiantum capillus-veneris",
+        "answerB": "9"
+      },
+      {
+        "-id": "9",
+        "questionA": "Leaves simply pinnate.",
+        "questionB": "Leaves tripinnate.",
+        "answerA": "Pteris vittata",
+        "answerB": "Pteridium aquilinum"
+      },
+      {
+        "-id": "10",
+        "questionA": "Sori covered by deflexed leaf-margin which has scarious fimbriate border; small strongly scented mountain fern.",
+        "questionB": "Sori not as above.",
+        "answerA": "Family-Sinopteridaceae",
+        "answerB": "11"
+      },
+      {
+        "-id": "11",
+        "questionA": "Sori linear; lower margin of indusium straight.",
+        "questionB": "Sori oblong or orbicular.",
+        "answerA": "Family-Aspleniaceae",
+        "answerB": "12"
+      },
+      {
+        "-id": "12",
+        "questionA": "Sori oblong; lower margin of indusium curved.",
+        "questionB": "Sori orbicular.",
+        "answerA": "Family-Athyriaceae",
+        "answerB": "13"
+      },
+      {
+        "-id": "13",
+        "questionA": "Leaves pinnatifid; indusium absent.",
+        "questionB": "Leaves pinnately divided; indusium present.",
+        "answerA": "Polypodium cambricum",
+        "answerB": "14"
+      },
+      {
+        "-id": "14",
+        "questionA": "Indusium marginal, inflated, flap-like.",
+        "questionB": "Indusium peltate or reniform.",
+        "answerA": "Family-Athyriaceae",
+        "answerB": "Family-Aspidiaceae"
+      }
+    ]
+  }

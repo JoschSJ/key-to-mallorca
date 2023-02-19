@@ -1,0 +1,151 @@
+{
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Stems creeping or climbing by aerial roots; evergreen.",
+        "questionB": "Plants not as above.",
+        "answerA": "Hedera helix",
+        "answerB": "2"
+      },
+      {
+        "-id": "2",
+        "questionA": "Flowers borne on cladodes.",
+        "questionB": "Cladodes absent.",
+        "answerA": "Family-Liliaceae",
+        "answerB": "3"
+      },
+      {
+        "-id": "3",
+        "questionA": "Most leaves opposite or nearly so.",
+        "questionB": "All leaves alternate.",
+        "answerA": "4",
+        "answerB": "9"
+      },
+      {
+        "-id": "4",
+        "questionA": "Stems green and fleshy or leaves fleshy.",
+        "questionB": "Neither leaves nor stems fleshy.",
+        "answerA": "Family-Chenopodiaceae",
+        "answerB": "5"
+      },
+      {
+        "-id": "5",
+        "questionA": "Styles three.",
+        "questionB": "Styles four or one.",
+        "answerA": "Buxus balearica",
+        "answerB": "6"
+      },
+      {
+        "-id": "6",
+        "questionA": "Flowers clustered into catkins.",
+        "questionB": "Flowers not in catkins.",
+        "answerA": "Family-Salicaceae",
+        "answerB": "7"
+      },
+      {
+        "-id": "7",
+        "questionA": "Leaves pinnate; stamens two.",
+        "questionB": "Leaves simple; stamens four or more.",
+        "answerA": "Family-Oleaceae",
+        "answerB": "8"
+      },
+      {
+        "-id": "8",
+        "questionA": "Stamens five, alternating with sepals.",
+        "questionB": "Stamens eight; sepals five.",
+        "answerA": "Family-Rhamnaceae",
+        "answerB": "Acer opulus"
+      },
+      {
+        "-id": "9",
+        "questionA": "Leaves not more than 2 mm wide, oblong or linear.",
+        "questionB": "Leaves more than 2 mm wide.",
+        "answerA": "10",
+        "answerB": "11"
+      },
+      {
+        "-id": "10",
+        "questionA": "Stigma one.",
+        "questionB": "Stigmas two to nine.",
+        "answerA": "Family-Thymelaeaceae",
+        "answerB": "Family-Chenopodiaceae"
+      },
+      {
+        "-id": "11",
+        "questionA": "Leaves pinnate.",
+        "questionB": "Leaves simple.",
+        "answerA": "12",
+        "answerB": "14"
+      },
+      {
+        "-id": "12",
+        "questionA": "Flowers epigynous; styles two; pith of stem with transverse partitions.",
+        "questionB": "Flowers hypogynous; styles three or one; pith without transverse partitions.",
+        "answerA": "Juglans regia",
+        "answerB": "13"
+      },
+      {
+        "-id": "13",
+        "questionA": "Style one; fruit constricted between seeds.",
+        "questionB": "Styles three; fruit a dry one-seeded drupe with hard inner wall.",
+        "answerA": "Family-Fabaceae",
+        "answerB": "Family-Anacardiaceae"
+      },
+      {
+        "-id": "14",
+        "questionA": "Petiole with an enlarged base enclosing the bud.",
+        "questionB": "Petiole not enclosing the bud.",
+        "answerA": "Family-Platanaceae",
+        "answerB": "15"
+      },
+      {
+        "-id": "15",
+        "questionA": "Anthers opening by transverse valves.",
+        "questionB": "Anthers opening by longitudinal slits.",
+        "answerA": "Laurus nobilis",
+        "answerB": "16"
+      },
+      {
+        "-id": "16",
+        "questionA": "Flowers not in catkins or dense heads.",
+        "questionB": "Flowers in catkins or dense heads.",
+        "answerA": "17",
+        "answerB": "20"
+      },
+      {
+        "-id": "17",
+        "questionA": "Inflorescence of severalmale flowers, each ofone stamen, and a female flower, appearing as a stalked ovary, all surrounded by four or five conspicuous glands; plants with milky latex.",
+        "questionB": "Inflorescence not as above; latex absent.",
+        "answerA": "Family-Euphorbiaceae",
+        "answerB": "18"
+      },
+      {
+        "-id": "18",
+        "questionA": "Flowers unisexual.",
+        "questionB": "Flowers hermaphrodite.",
+        "answerA": "Family-Euphorbiaceae",
+        "answerB": "19"
+      },
+      {
+        "-id": "19",
+        "questionA": "Trees; perianth tube short with stamens inserted near its base.",
+        "questionB": "Shrubs; perianth tube long with stamens inserted near its mouth.",
+        "answerA": "Family-Ulmaceae",
+        "answerB": "Family-Thymelaeaceae"
+      },
+      {
+        "-id": "20",
+        "questionA": "Milky latex present; fruit fleshy.",
+        "questionB": "Latex absent; fruit dry.",
+        "answerA": "Family-Moraceae",
+        "answerB": "21"
+      },
+      {
+        "-id": "21",
+        "questionA": "Plants dioecious; perianth absent.",
+        "questionB": "Plants monoecious; perianth present in male and/or female flowers.",
+        "answerA": "Family-Salicaceae",
+        "answerB": "Family-Fagaceae"
+      }
+    ]
+  }

@@ -1,0 +1,25 @@
+{
+   "question": [
+      {
+        "-id": "1",
+        "questionA": "Flowers usually actinomorphic; stamens not  fused  into  a  tube, if  partially fused at the base then flowers always actinomorphic.",
+        "questionB": "Flowers zygomorphic; stamens with filaments more or less fused to form a tube.",
+        "answerA": "Family-Fabaceae-GroupA",
+        "answerB": "2"
+      },
+      {
+        "-id": "2",
+        "questionA": "Leaves simple or minute, or with one or three leaflets.",
+        "questionB": "Leaves with more than three leaflets, palmate or pinnate.",
+        "answerA": "Family-Fabaceae-GroupD",
+        "answerB": "3"
+      },
+      {
+        "-id": "3",
+        "questionA": "Leaves pinnate without a terminal leaflet, often with a terminal  tendril or spine.",
+        "questionB": "Leaves palmate or pinnate with a terminal leaflet.",
+        "answerA": "Family-Fabaceae-GroupB",
+        "answerB": "Family-Fabaceae-GroupC"
+      }
+    ]
+  }

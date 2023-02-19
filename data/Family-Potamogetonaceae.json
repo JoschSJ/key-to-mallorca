@@ -1,0 +1,53 @@
+{
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Submerged marine plants with linear grass-like leaves.",
+        "questionB": "Submerged or floating plants of fresh or brackish water.",
+        "answerA": "2",
+        "answerB": "4"
+      },
+      {
+        "-id": "2",
+        "questionA": "Creeping stems stout with numerous brown fibres.",
+        "questionB": "Creeping stems slender, without fibres.",
+        "answerA": "Posidonia oceanica",
+        "answerB": "3"
+      },
+      {
+        "-id": "3",
+        "questionA": "Leaves usually 5-8 mm wide; carpels enclosed in a sheath.",
+        "questionB": "Leaves approximately 1 mm wide, carpels long-stalked.",
+        "answerA": "Leaves approximately 1 mm wide, carpels long-stalked.",
+        "answerB": "5"
+      },
+      {
+        "-id": "4",
+        "questionA": "Carpels long-stalked in spreading clusters.",
+        "questionB": "Carpels sessile in a dense terminal cluster.",
+        "answerA": "5",
+        "answerB": "6"
+      },
+      {
+        "-id": "5",
+        "questionA": "Peduncles less than 6 cm, flexuous in fruit.",
+        "questionB": "Peduncles more than 8 cm, spirally coiled in fruit.",
+        "answerA": "Ruppia maritima",
+        "answerB": "Ruppia cirrhosa"
+      },
+      {
+        "-id": "6",
+        "questionA": "All  leaves submerged, minutely serrulate,  undulate on maturity; fruit 4-5 mm with beak more than half length of fruit.",
+        "questionB": "Some leaves floating; fruit with beak less than a quarter the length of the fruit.",
+        "answerA": "Potamogeton crispus",
+        "answerB": "7"
+      },
+      {
+        "-id": "7",
+        "questionA": "Leaves linear, usually less than 2 mm wide; fruit 3-5 mm.",
+        "questionB": "Leaves broadly ovate, usually greater than 20 mm wide; fruit less than 2 mm.",
+        "answerA": "Potamogeton pectinatus",
+        "answerB": "Potamogeton coloratus"
+      }
+    ]
+  }

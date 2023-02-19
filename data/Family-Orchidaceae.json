@@ -1,0 +1,186 @@
+{
+   "question": [
+      {
+        "-id": "1",
+        "questionA": "Saprophytic plants without green leaves.",
+        "questionB": "Holophytic plants with green leaves.",
+        "answerA": "2",
+        "answerB": "3"
+      },
+      {
+        "-id": "2",
+        "questionA": "Flowers spurred, violet.",
+        "questionB": "Flowers not spurred, yellow or brown.",
+        "answerA": "Limodorum abortivum",
+        "answerB": "Neottia nidus-avis"
+      },
+      {
+        "-id": "3",
+        "questionA": "Flowers with a spur (sometimes short and sac-like).",
+        "questionB": "Flowers without a spur.",
+        "answerA": "4",
+        "answerB": "13"
+      },
+      {
+        "-id": "4",
+        "questionA": "Length of labellum more than twice that of rest of perianth.",
+        "questionB": "Length of labellum less than twice that of rest of perianth.",
+        "answerA": "Barlia robertiana",
+        "answerB": "5"
+      },
+      {
+        "-id": "5",
+        "questionA": "Spur thread-like (c. 1 mm wide).",
+        "questionB": "Spur cylindrical (> 1 mm wide).",
+        "answerA": "Anacamptis pyramidalis",
+        "answerB": "6"
+      },
+      {
+        "-id": "6",
+        "questionA": "Spur < 5 mm long.",
+        "questionB": "Spur > 5 mm long.",
+        "answerA": "Neotinea maculata",
+        "answerB": "7"
+      },
+      {
+        "-id": "7",
+        "questionA": "Upper 3 tepals incurved as helmet.",
+        "questionB": "Upper 5 tepals incurved as helmet.",
+        "answerA": "8",
+        "answerB": "9"
+      },
+      {
+        "-id": "8",
+        "questionA": "Middle lobe of labellum < laterals; leaves unspotted.",
+        "questionB": "Middle lobe of labellum > laterals; leaves usually spotted.",
+        "answerA": "Orchis laxiflora",
+        "answerB": "Orchis mascula"
+      },
+      {
+        "-id": "9",
+        "questionA": "Middle lobe of labellum not exceeding lateral lobes.",
+        "questionB": "Middle lobe of labellum exceeding lateral lobes.",
+        "answerA": "10",
+        "answerB": "11"
+      },
+      {
+        "-id": "10",
+        "questionA": "Middle lobe of labellum equal to laterals.",
+        "questionB": "Middle lobe of labellum much shorter than laterals.",
+        "answerA": "Orchis longicornu",
+        "answerB": "Orchis coriophora"
+      },
+      {
+        "-id": "11",
+        "questionA": "Middle lobe of labellum divided into three.",
+        "questionB": "Middle lobe of labellum dentate but not divided into three.",
+        "answerA": "Orchis italica",
+        "answerB": "12"
+      },
+      {
+        "-id": "12",
+        "questionA": "Stem 15 - 45 cm; Flowers violet; Spur half the length of the ovary.",
+        "questionB": "Stem 7 - 20 cm; Flowers white/pink; Spur equal to or longer than ovary.",
+        "answerA": "Orchis tridentata",
+        "answerB": "Orchis lactea"
+      },
+      {
+        "-id": "13",
+        "questionA": "Labellum convex, velvet-haired, insect-like.",
+        "questionB": "Labellum flat, neither velvet-haired nor insect-like.",
+        "answerA": "14",
+        "answerB": "21"
+      },
+      {
+        "-id": "14",
+        "questionA": "Outer perianth green, herbaceous.",
+        "questionB": "Outer perianth pink/white/yellow, petaloid.",
+        "answerA": "15",
+        "answerB": "18"
+      },
+      {
+        "-id": "15",
+        "questionA": "Labellum glossy with hairy margins.",
+        "questionB": "Labellum entirely or almost entirely non-reflective.",
+        "answerA": "Ophrys speculum",
+        "answerB": "16"
+      },
+      {
+        "-id": "16",
+        "questionA": "Labellum longer than broad with notched elongated central lobe.",
+        "questionB": "Labellum more or less ovoid.",
+        "answerA": "Ophrys fusca",
+        "answerB": "17"
+      },
+      {
+        "-id": "17",
+        "questionA": "Labellum equalling or exceeding sepals.",
+        "questionB": "Labellum distinctly shorter than sepals.",
+        "answerA": "Ophrys sphegodes",
+        "answerB": "Ophrys bombyliflora"
+      },
+      {
+        "-id": "18",
+        "questionA": "Sepals yellow.",
+        "questionB": "Sepals pink.",
+        "answerA": "Ophrys lutea",
+        "answerB": "19"
+      },
+      {
+        "-id": "19",
+        "questionA": "Labellum curved up at end, blue shiny patch near tip.",
+        "questionB": "Labellum straight or reflexed, lacking patch near tip.",
+        "answerA": "Ophrys bertolonii",
+        "answerB": "20"
+      },
+      {
+        "-id": "20",
+        "questionA": "Labellum wedge-shaped, yellow/green margins.",
+        "questionB": "Labellum rounded, margins not distinctly coloured.",
+        "answerA": "Ophrys tenthredinifera",
+        "answerB": "Ophrys apifera"
+      },
+      {
+        "-id": "21",
+        "questionA": "Flowers c. 1 cm across, spirally arranged.",
+        "questionB": "Flowers more than 1 cm across not spirally arranged.",
+        "answerA": "Spiranthes spiralis",
+        "answerB": "22"
+      },
+      {
+        "-id": "22",
+        "questionA": "Labellum with ‘arms’ (lateral lobes) and ‘legs’ (central lobe).",
+        "questionB": "Labellum distinctly constricted into a basal part witha distalunlobed lip.",
+        "answerA": "Aceras anthropophorum",
+        "answerB": "23"
+      },
+      {
+        "-id": "23",
+        "questionA": "Flowers reddish brown, labellum downward pointing, elongated, tongue-like.",
+        "questionB": "Flowers white or purplish, labellum forward-pointing, only as long as broad.",
+        "answerA": "24",
+        "answerB": "25"
+      },
+      {
+        "-id": "24",
+        "questionA": "Labellum twice length of perianth.",
+        "questionB": "Labellum equal to length of perianth.",
+        "answerA": "Serapias lingua",
+        "answerB": "Serapias parviflora"
+      },
+      {
+        "-id": "25",
+        "questionA": "Flowers stalked; ovary straight.",
+        "questionB": "Flowers stalkless; ovary twisted.",
+        "answerA": "Epipactis microphylla",
+        "answerB": "26"
+      },
+      {
+        "-id": "26",
+        "questionA": "Leaves ovate; bracts longer than ovary.",
+        "questionB": "Leaves lanceolate; bracts shorter than ovary.",
+        "answerA": "Cephalanthera damasonium",
+        "answerB": "Cephalanthera longifolia"
+      }
+    ]
+  }

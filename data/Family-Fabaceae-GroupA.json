@@ -1,0 +1,32 @@
+{
+   "question": [
+      {
+        "-id": "1",
+        "questionA": "Flowers actinomorphic; stamens numerous.",
+        "questionB": "Flowers actinomorphic or zygomorphic; stamens ten or fewer.",
+        "answerA": "2",
+        "answerB": "3"
+      },
+      {
+        "-id": "2",
+        "questionA": "Stamens pink.",
+        "questionB": "Stamens yellow.",
+        "answerA": "Albizia sp.",
+        "answerB": "Acacia sp."
+      },
+      {
+        "-id": "3",
+        "questionA": "Flowers actinomorphic, green, inconspicuous.",
+        "questionB": "Flowers zygomorphic, coloured, conspicuous.",
+        "answerA": "Ceratonia siliqua",
+        "answerB": "4"
+      },
+      {
+        "-id": "4",
+        "questionA": "Flowers yellow; leaves trifoliate.",
+        "questionB": "Flowers pink; leaves entire.",
+        "answerA": "Anagyris foetida",
+        "answerB": "Cercis siliquastrum"
+      }
+    ]
+  }

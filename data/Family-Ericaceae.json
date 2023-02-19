@@ -1,0 +1,18 @@
+{
+   "question": [
+      {
+        "-id": "1",
+        "questionA": "Evergreen  shrubs or small trees; leaves up to 3 cm broad, ovate, alternate; fruit a warty globose berry.",
+        "questionB": "Evergreen shrubs; leaves 1-2 mm broad, needle-like, in whorls; fruit a loculicidal capsule.",
+        "answerA": "Arbutus unedo",
+        "answerB": "2"
+      },
+      {
+        "-id": "2",
+        "questionA": "Shrubs  flowering  from  February to May; flowers white, axillary, forming long pyramidal panicles; stamens included in the corolla..",
+        "questionB": "Shrubs  flowering mainly from August to September; flowers pink, axillary, forming compact pyramidal  clusters; stamens exerted from the corolla.",
+        "answerA": "Erica arborea",
+        "answerB": "Erica multiflora"
+      }
+    ]
+  }

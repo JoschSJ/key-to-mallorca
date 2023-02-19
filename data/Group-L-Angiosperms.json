@@ -1,0 +1,81 @@
+{
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Leaves divided into numerous thread-like segments.",
+        "questionB": "Leaves entire or dentate.",
+        "answerA": "2",
+        "answerB": "3"
+      },
+      {
+        "-id": "2",
+        "questionA": "Leaves pinnately divided; flowers in a terminal spike.",
+        "questionB": "Leaves dichotomously divided; flowers solitary, axillary.",
+        "answerA": "Family-Haloragaceae",
+        "answerB": "Ceratophyllum  demersum"
+      },
+      {
+        "-id": "3",
+        "questionA": "Flowers in spikes.",
+        "questionB": "Flowers not in spikes.",
+        "answerA": "Family-Potamogetonaceae",
+        "answerB": "4"
+      },
+      {
+        "-id": "4",
+        "questionA": "Flowers solitary or few, stalkless or shortly stalked, axillary.",
+        "questionB": "Flowers in heads on long stems or in compound inflorescences.",
+        "answerA": "5",
+        "answerB": "11"
+      },
+      {
+        "-id": "5",
+        "questionA": "Carpels two or more, free.",
+        "questionB": "Carpels united or solitary.",
+        "answerA": "6",
+        "answerB": "7"
+      },
+      {
+        "-id": "6",
+        "questionA": "Carpels sessile or very short-stalked in fruit.",
+        "questionB": "Carpels with long stalks in fruit.",
+        "answerA": "Zannichellia pedunculata",
+        "answerB": "Family-Potamogetonaceae"
+      },
+      {
+        "-id": "7",
+        "questionA": "Perianth segments four to six; stamens four or more; leaves oval to obovate.",
+        "questionB": "Perianth segments fewer than four or perianth absent; stamen one; leaves linear to lanceolate.",
+        "answerA": "8",
+        "answerB": "9"
+      },
+      {
+        "-id": "8",
+        "questionA": "Flowers epigynous; perianth segments four.",
+        "questionB": "Flowers hypogynous; perianth segments six.",
+        "answerA": "Family-Onagraceae",
+        "answerB": "Family-Lythraceae"
+      },
+      {
+        "-id": "9",
+        "questionA": "Plants of brackish water; leaves alternate.",
+        "questionB": "Plants of fresh water; leaves opposite.",
+        "answerA": "Zannichellia pedunculata",
+        "answerB": "10"
+      },
+      {
+        "-id": "10",
+        "questionA": "Leaves entire without sheathing base; ovary compressed, deeply four-lobed.",
+        "questionB": "Leaves with bristle-tipped teeth and sheathing base; ovary rounded in section, not lobed.",
+        "answerA": "Family-Callitrichaceae",
+        "answerB": "Najas marina"
+      },
+      {
+        "-id": "11",
+        "questionA": "Heads few-flowered; flowers hermaphrodite.",
+        "questionB": "Plants monoecious; heads many flowered, unisexual.",
+        "answerA": "Family-Juncaceae",
+        "answerB": "Sparganium erectum"
+      }
+    ]
+  }

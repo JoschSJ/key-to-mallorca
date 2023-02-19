@@ -1,0 +1,263 @@
+{
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Corolla with four nearly equal lobes, or with one lower lip.",
+        "questionB": "Corolla distinctly two-lipped.",
+        "answerA": "2",
+        "answerB": "17"
+      },
+      {
+        "-id": "2",
+        "questionA": "Corolla with four nearly equal lobes.",
+        "questionB": "Corolla with one lower lip, the upper lip very short or absent.",
+        "answerA": "3",
+        "answerB": "6"
+      },
+      {
+        "-id": "3",
+        "questionA": "Inflorescence terminated by a cluster of leaves.",
+        "questionB": "Inflorescence terminated by flowers.",
+        "answerA": "Mentha pulegium",
+        "answerB": "4"
+      },
+      {
+        "-id": "4",
+        "questionA": "Terminal inflorescence globular or ovoid, little longer than broad.",
+        "questionB": "Terminal inflorescence a spike, much longer than broad.",
+        "answerA": "Mentha aquatica",
+        "answerB": "5"
+      },
+      {
+        "-id": "5",
+        "questionA": "Plants smelling of apples; leaves rugose; flowers pale pink or lilac.",
+        "questionB": "Plants smelling of peppermint; leaves not rugose; flowers deep pink or lilac.",
+        "answerA": "Mentha suavolens",
+        "answerB": "Mentha spicata"
+      },
+      {
+        "-id": "6",
+        "questionA": "Lower lip of three unequal lobes; corolla tube hairy within.",
+        "questionB": "Lower lip of five unequal lobes; corolla tube hairless within.",
+        "answerA": "7",
+        "answerB": "8"
+      },
+      {
+        "-id": "7",
+        "questionA": "Tufted  perennials;  leaves  simple,  wooly-hai red; flowers yellow or purple.",
+        "questionB": "Annuals; leaves trifid with linear lobes; flowers yellow.",
+        "answerA": "Ajuga iva",
+        "answerB": "Ajuga chamaepitys"
+      },
+      {
+        "-id": "8",
+        "questionA": "Annuals; lower leaves pinnatifid.",
+        "questionB": "Perennial herbs or shrubs.",
+        "answerA": "Teucrium botrys",
+        "answerB": "9"
+      },
+      {
+        "-id": "9",
+        "questionA": "Perennial herbs, smelling of garlic when crushed.",
+        "questionB": "Shrubs.",
+        "answerA": "Teucrium scordium",
+        "answerB": "10"
+      },
+      {
+        "-id": "10",
+        "questionA": "Dwarf  shrub; stems ending in spines; leaves c. 2mm, triangular, margins revolute; leaves and flowers below the spines.",
+        "questionB": "Stems not ending in spines; leaves more than 2 mm.",
+        "answerA": "Teucrium balearicum",
+        "answerB": "11"
+      },
+      {
+        "-id": "11",
+        "questionA": "Flowers axillary, solitary; plants foetid; leaves linear.",
+        "questionB": "Flowers in groups of two or more.",
+        "answerA": "Teucrium asiaticum",
+        "answerB": "12"
+      },
+      {
+        "-id": "12",
+        "questionA": "Flowers axillary, forming one-sided terminal spikes.",
+        "questionB": "Flowers in terminal capitate clusters.",
+        "answerA": "13",
+        "answerB": "15"
+      },
+      {
+        "-id": "13",
+        "questionA": "Flowers greenish yellow.",
+        "questionB": "Flowers lilac or purple.",
+        "answerA": "Teucrium flavum",
+        "answerB": "14"
+      },
+      {
+        "-id": "14",
+        "questionA": "Leaves ovate, entire, c. 1 cm, margin revolute, green above, white with adpressed hairs below; flowers in whorls of two to four.",
+        "questionB": "Leaves ovate, crenulate, 1-3 cm, margin not revolute, dark green above, light green below; flowers in whorls of two to six.",
+        "answerA": "Teucrium marum",
+        "answerB": "Teucrium chamaedrys"
+      },
+      {
+        "-id": "15",
+        "questionA": "Plants greyish with branched hairs; leaves spathulate, slightly crenulate towards the tip.",
+        "questionB": "Plants wool ly-haired; leaves ovate-lanceolate, crenulate along both sides.",
+        "answerA": "Teucrium cossonii",
+        "answerB": "16"
+      },
+      {
+        "-id": "16",
+        "questionA": "Stems ending in a single compact inflorescence.",
+        "questionB": "Stems ending in a group of compact inflorescences.",
+        "answerA": "Teucrium dunense",
+        "answerB": "Teucrium capitatum"
+      },
+      {
+        "-id": "17",
+        "questionA": "Stamens two.",
+        "questionB": "Stamens four.",
+        "answerA": "18",
+        "answerB": "19"
+      },
+      {
+        "-id": "18",
+        "questionA": "Leaves linear, margins revolute.",
+        "questionB": "Leaves ovate-lanceolate, flat.",
+        "answerA": "Rosmarinus officinalis",
+        "answerB": "Salvia verbenaca"
+      },
+      {
+        "-id": "19",
+        "questionA": "Stamens and style not longer than corolla tube.",
+        "questionB": "Stamens and style distinctly longer than corolla tube.",
+        "answerA": "20",
+        "answerB": "22"
+      },
+      {
+        "-id": "20",
+        "questionA": "Flowers blue or violet, in a dense spike.",
+        "questionB": "Flowers white or yellow.",
+        "answerA": "Lavandula dentata",
+        "answerB": "21"
+      },
+      {
+        "-id": "21",
+        "questionA": "Bracteoles absent; calyx lobes five, spine-tipped.",
+        "questionB": "Bracteoles present; calyx lobes five to ten, not spine-tipped.",
+        "answerA": "Sideritis romana",
+        "answerB": "Marrubium vulgare"
+      },
+      {
+        "-id": "22",
+        "questionA": "Upper lip of corolla distinctly arched over stamens.",
+        "questionB": "Upper lip of corolla more or less flat.",
+        "answerA": "23",
+        "answerB": "32"
+      },
+      {
+        "-id": "23",
+        "questionA": "Calyx c. 25 mm long, campanulate, obliquely two-lipped, teeth spiny.",
+        "questionB": "Calyx much less than 25 mm long.",
+        "answerA": "Moluccella spinosa",
+        "answerB": "24"
+      },
+      {
+        "-id": "24",
+        "questionA": "Calyx two-lipped, or of five lobes separated into two lips.",
+        "questionB": "Calyx with five more or less equal lobes, not forming two lips.",
+        "answerA": "25",
+        "answerB": "27"
+      },
+      {
+        "-id": "25",
+        "questionA": "Lips of calyx closed after flowering.",
+        "questionB": "Lips of calyx not closed after flowering.",
+        "answerA": "26",
+        "answerB": "Prasium majus"
+      },
+      {
+        "-id": "26",
+        "questionA": "Calyx with a boss or ridge on the back; calyx lobes blunt.",
+        "questionB": "Calyx without a boss or ridge; calyx lobes acute.",
+        "answerA": "Scutellaria balearica",
+        "answerB": "Prunella laciniata"
+      },
+      {
+        "-id": "27",
+        "questionA": "Carpels flat-topped, as if cut off.",
+        "questionB": "Carpels rounded at the top.",
+        "answerA": "Lamium amplexicaule",
+        "answerB": "28"
+      },
+      {
+        "-id": "28",
+        "questionA": "Corolla tube shorter than calyx; flowers at least 20 mm long.",
+        "questionB": "Corolla tube at least as long as calyx; flowers 10-15 mm long.",
+        "answerA": "Phlomis italica",
+        "answerB": "29"
+      },
+      {
+        "-id": "29",
+        "questionA": "Calyx conical, conspicuously ten-veined.",
+        "questionB": "Calyx cylindrical or campanulate, usually with five veins.",
+        "answerA": "Ballota nigra",
+        "answerB": "30"
+      },
+      {
+        "-id": "30",
+        "questionA": "Flowers yellow.",
+        "questionB": "Flowers pink.",
+        "answerA": "Stachys ocymastrum",
+        "answerB": "31"
+      },
+      {
+        "-id": "31",
+        "questionA": "Annuals;  leaves broadly ovate, yellowish green;  flowers pale pink, lower lip of corolla with red spots.",
+        "questionB": "Perennials; leaves lanceolate, dark green; flowers pink or white, lower lip of corolla unspotted.",
+        "answerA": "Stachys arvensis",
+        "answerB": "Stachys germanica"
+      },
+      {
+        "-id": "32",
+        "questionA": "Calyx with five lobes, separated into two lips.",
+        "questionB": "Calyx with five more or less regular lobes or calyx entire.",
+        "answerA": "33",
+        "answerB": "34"
+      },
+      {
+        "-id": "33",
+        "questionA": "Calyx oval, strongly laterally compressed, thirteen-veined.",
+        "questionB": "Calyx cylindrical or campanulate, ten-veined.",
+        "answerA": "Coridothymus capitatus",
+        "answerB": "Thymus richardii"
+      },
+      {
+        "-id": "34",
+        "questionA": "Calyx ten-veined.",
+        "questionB": "Calyx thirteen- to fifteen-veined.",
+        "answerA": "35",
+        "answerB": "36"
+      },
+      {
+        "-id": "35",
+        "questionA": "Hairs in throat of corolla included; calyx teeth with long cilia; peduncles short or absent; leaves on main axis 2-4 cm.",
+        "questionB": "Hairs in throat of calyx exserted after flowering; calyx teeth shortly and sparsely ciliate; leaves on main axis 1-2 cm.",
+        "answerA": "Satureja ascendens",
+        "answerB": "Satureja calamintha"
+      },
+      {
+        "-id": "36",
+        "questionA": "Leaves up to 10 mm, ovate, lower leaves rounded at the base, upper leaves linear; calyx with long, dense spreading hairs.",
+        "questionB": "Leaves c. 5 mm; calyx glabrous.",
+        "answerA": "Micromeria nervosa",
+        "answerB": "37"
+      },
+      {
+        "-id": "37",
+        "questionA": "Lower leaves cordate; flowers white.",
+        "questionB": "Lower leaves rounded at the base or cuneate; flowers lilac.",
+        "answerA": "Micromeria filiformis",
+        "answerB": "Micromeria microphylla"
+      }
+    ]
+  }

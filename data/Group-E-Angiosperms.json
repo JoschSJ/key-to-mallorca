@@ -1,0 +1,326 @@
+{
+   "question": [
+      {
+        "-id": "1",
+        "questionA": "Petals more than twelve.",
+        "questionB": "Petals twelve or fewer.",
+        "answerA": "Family-Aizoaceae",
+        "answerB": "2"
+      },
+      {
+        "-id": "2",
+        "questionA": "Stamens more than twice as many as petals.",
+        "questionB": "Stamens not more than twice the number of petals.",
+        "answerA": "3",
+        "answerB": "12"
+      },
+      {
+        "-id": "3",
+        "questionA": "Filaments of stamens united into a tube.",
+        "questionB": "Filaments free or untied in bundles.",
+        "answerA": "Family-Malvaceae",
+        "answerB": "4"
+      },
+      {
+        "-id": "4",
+        "questionA": "Perianth segments persistent in fruit, two large, two small.",
+        "questionB": "Perianth segments not as above.",
+        "answerA": "Family-Polygonaceae",
+        "answerB": "5"
+      },
+      {
+        "-id": "5",
+        "questionA": "Ovary on a long stalk (in addition to pedicel).",
+        "questionB": "Ovary more or less sessile.",
+        "answerA": "Capparis spinosa",
+        "answerB": "6"
+      },
+      {
+        "-id": "6",
+        "questionA": "Flowers perigynous; ovule one.",
+        "questionB": "Flowers hypogynous; ovules two or more.",
+        "answerA": "Family-Rosaceae",
+        "answerB": "7"
+      },
+      {
+        "-id": "7",
+        "questionA": "Ovary of one carpel; leaves biternate; lower leaflets stalked.",
+        "questionB": "Ovary of more than one carpel; leaves not as above.",
+        "answerA": "Family-Ranunculaceae",
+        "answerB": "8"
+      },
+      {
+        "-id": "8",
+        "questionA": "Styles more than one, free.",
+        "questionB": "Style one or absent.",
+        "answerA": "9",
+        "answerB": "10"
+      },
+      {
+        "-id": "9",
+        "questionA": "All or most leaves alternate; outer perianth petaloid.",
+        "questionB": "All leaves opposite or in whorls; outer perianth sepaloid.",
+        "answerA": "Family-Ranunculaceae",
+        "answerB": "Family-Hypericaceae"
+      },
+      {
+        "-id": "10",
+        "questionA": "Petals four.",
+        "questionB": "Petals five.",
+        "answerA": "Family-Papaveraceae",
+        "answerB": "11"
+      },
+      {
+        "-id": "11",
+        "questionA": "Ovary single-celled, possibly with a cross-wall at the base; stamens numerous.",
+        "questionB": "Ovary three-celled; stamens fifteen.",
+        "answerA": "Family-Cistaceae",
+        "answerB": "Family-Zygophyllaceae"
+      },
+      {
+        "-id": "12",
+        "questionA": "Trees, shrubs or woody climbers.",
+        "questionB": "Herbs, occasionally woody at base.",
+        "answerA": "13",
+        "answerB": "25"
+      },
+      {
+        "-id": "13",
+        "questionA": "Flowers on cladodes.",
+        "questionB": "Flowers not on cladodes.",
+        "answerA": "Family-Liliaceae",
+        "answerB": "14"
+      },
+      {
+        "-id": "14",
+        "questionA": "Leaves small, scale-like or heather-like.",
+        "questionB": "Leaves neither scale-like nor heather-like.",
+        "answerA": "15",
+        "answerB": "16"
+      },
+      {
+        "-id": "15",
+        "questionA": "Leaves opposite.",
+        "questionB": "Leaves alternate.",
+        "answerA": "Family-Frankeniaceae",
+        "answerB": "Family-Tamaricaceae"
+      },
+      {
+        "-id": "16",
+        "questionA": "All leaves opposite.",
+        "questionB": "At least some leaves alternate.",
+        "answerA": "Acer opulus",
+        "answerB": "17"
+      },
+      {
+        "-id": "17",
+        "questionA": "Stamens three.",
+        "questionB": "Stamens more than three.",
+        "answerA": "Cneorum tricoccon",
+        "answerB": "18"
+      },
+      {
+        "-id": "18",
+        "questionA": "Stamens six.",
+        "questionB": "Stamens four, five, eight, ten or twelve.",
+        "answerA": "Family-Brassicaceae",
+        "answerB": "19"
+      },
+      {
+        "-id": "19",
+        "questionA": "Stamens four or five.",
+        "questionB": "Stamens eight, ten or twelve",
+        "answerA": "20",
+        "answerB": "23"
+      },
+      {
+        "-id": "20",
+        "questionA": "Stamens opposite petals.",
+        "questionB": "Stamens alternating with petals.",
+        "answerA": "21",
+        "answerB": "22"
+      },
+      {
+        "-id": "21",
+        "questionA": "Shrubs or small trees; petals shorter than sepals.",
+        "questionB": "Woody climbers; petals longer than sepals.",
+        "answerA": "Family-Rhamnaceae",
+        "answerB": "Vitis vinifera"
+      },
+      {
+        "-id": "22",
+        "questionA": "Bark resinous; ovule one.",
+        "questionB": "Bark not resinous; ovules several.",
+        "answerA": "Family-Anacardiaceae",
+        "answerB": "Pittosporum tobira"
+      },
+      {
+        "-id": "23",
+        "questionA": "Leaves entire.",
+        "questionB": "Leaves pinnate.",
+        "answerA": "Family-Ericaceae",
+        "answerB": "24"
+      },
+      {
+        "-id": "24",
+        "questionA": "Trees; flowers showy, lilac; petals and sepals five or six; stamens ten or twelve, more or less fused into a tube.",
+        "questionB": "Shrubs; flowers small, red, brown or reddish purple; stamens five or ten, free; ovary of five fused carpels, usually one-celled and oneseeded, seeds wingless.",
+        "answerA": "Melia azedarach",
+        "answerB": "Family-Anacardiaceae"
+      },
+      {
+        "-id": "25",
+        "questionA": "Sepals two; petals five.",
+        "questionB": "Sepals as many as petals.",
+        "answerA": "Portulaca oleracea",
+        "answerB": "26"
+      },
+      {
+        "-id": "26",
+        "questionA": "Receptacle deep, tubular or campanulate, encircling the ovary.",
+        "questionB": "Receptacle shallow or flat.",
+        "answerA": "Family-Lythraceae",
+        "answerB": "27"
+      },
+      {
+        "-id": "27",
+        "questionA": "Cauline leaves opposite or whorled.",
+        "questionB": "Leaves alternate or all radical.",
+        "answerA": "28",
+        "answerB": "35"
+      },
+      {
+        "-id": "28",
+        "questionA": "Leaves deeply divided, rarely only dentate.",
+        "questionB": "Leaves simple and entire.",
+        "answerA": "29",
+        "answerB": "31"
+      },
+      {
+        "-id": "29",
+        "questionA": "Petals four.",
+        "questionB": "Petals five.",
+        "answerA": "Family-Brassicaceae",
+        "answerB": "30"
+      },
+      {
+        "-id": "30",
+        "questionA": "Stamens without scales on the inner side of the filaments.",
+        "questionB": "Stamens with scales on the inner side of the filaments.",
+        "answerA": "Family-Geraniaceae",
+        "answerB": "Family-Zygophyllaceae"
+      },
+      {
+        "-id": "31",
+        "questionA": "Stipules present.",
+        "questionB": "Stipules absent.",
+        "answerA": "Family-Caryophyllaceae",
+        "answerB": "32"
+      },
+      {
+        "-id": "32",
+        "questionA": "Sepals united to more than half way.",
+        "questionB": "Sepals free or united only at base.",
+        "answerA": "33",
+        "answerB": "34"
+      },
+      {
+        "-id": "33",
+        "questionA": "Styles fused; placentation parietal.",
+        "questionB": "Styles free; placentation free-central.",
+        "answerA": "Family-Frankeniaceae",
+        "answerB": "Family-Caryophyllaceae"
+      },
+      {
+        "-id": "34",
+        "questionA": "Ovary one-celled; placentation free-central.",
+        "questionB": "Ovary four- to five-celled; placentation axile.",
+        "answerA": "Family-Caryophyllaceae",
+        "answerB": "Family-Linaceae"
+      },
+      {
+        "-id": "35",
+        "questionA": "Leaves ternate.",
+        "questionB": "Leaves not ternate.",
+        "answerA": "Family-Oxalidaceae",
+        "answerB": "36"
+      },
+      {
+        "-id": "36",
+        "questionA": "Sepals and petals two to three.",
+        "questionB": "Sepals and petals four to five.",
+        "answerA": "Family-Polygonaceae",
+        "answerB": "37"
+      },
+      {
+        "-id": "37",
+        "questionA": "Both whorls of perianth green.",
+        "questionB": "Inner whorl of perianth not green.",
+        "answerA": "Family-Rosaceae",
+        "answerB": "38"
+      },
+      {
+        "-id": "38",
+        "questionA": "Calyx spurred; stamens eight.",
+        "questionB": "Calyx not spurred; stamens fewer or more than eight.",
+        "answerA": "Tropaeolum majus ",
+        "answerB": "39"
+      },
+      {
+        "-id": "39",
+        "questionA": "Sepals and petals four; stamens four or six.",
+        "questionB": "Sepals and petals five; stamens five or ten.",
+        "answerA": "40",
+        "answerB": "41"
+      },
+      {
+        "-id": "40",
+        "questionA": "Stipules absent; stamens usually six.",
+        "questionB": "Stipules present; stamens four.",
+        "answerA": "Family-Brassicaceae",
+        "answerB": "Family-Caryophyllaceae"
+      },
+      {
+        "-id": "41",
+        "questionA": "Leaves with many transparent glands, scented when crushed.",
+        "questionB": "Leaves without transparent glands.",
+        "answerA": "Family-Rutaceae",
+        "answerB": "42"
+      },
+      {
+        "-id": "42",
+        "questionA": "Style one; stigma entire or shallowly lobed; anthers opening by pores.",
+        "questionB": "Style or stigma more than one; anthers opening by longitudinal slits.",
+        "answerA": "Monotropa hypopitys",
+        "answerB": "43"
+      },
+      {
+        "-id": "43",
+        "questionA": "Stigmas five.",
+        "questionB": "Stigmas two to four.",
+        "answerA": "44",
+        "answerB": "46"
+      },
+      {
+        "-id": "44",
+        "questionA": "Leaves lobed or pinnate.",
+        "questionB": "Leaves entire.",
+        "answerA": "Family-Geraniaceae",
+        "answerB": "45"
+      },
+      {
+        "-id": "45",
+        "questionA": "Sepals united; leaves radical.",
+        "questionB": "Sepals free; all leaves cauline.",
+        "answerA": "Family-Plumbaginaceae",
+        "answerB": "Family-Linaceae"
+      },
+      {
+        "-id": "46",
+        "questionA": "Stamens five.",
+        "questionB": "Stamens ten.",
+        "answerA": "Family-Caryophyllaceae",
+        "answerB": "Saxifraga tridactylites"
+      }
+    ]
+  }

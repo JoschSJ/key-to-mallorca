@@ -1,0 +1,74 @@
+{
+   "question": [
+      {
+        "-id": "1",
+        "questionA": "Twining plant; leaves cordate.",
+        "questionB": "Plant not twining; leaves not cordate.",
+        "answerA": "Fallopia convolvulus",
+        "answerB": "2"
+      },
+      {
+        "-id": "2",
+        "questionA": "Plants monoecious, male flowers in the upper part of the stem, female flowers below; the outer three perianth segments becoming spiny in fruit.",
+        "questionB": "Flowers  hermaphrodite  or  plants  dioecious;  perianth  segments  not becoming spiny in fruit.",
+        "answerA": "Emex spinosa",
+        "answerB": "3"
+      },
+      {
+        "-id": "3",
+        "questionA": "Perianth of  five equal segments, petal-like, pink or white, persistent in fruit.",
+        "questionB": "Perianth of six segments, the inner whorl of three larger than the outer and becoming  further  enlarged  in  fruit, often dentate and bearing a tubercle on the outside.",
+        "answerA": "4",
+        "answerB": "6"
+      },
+      {
+        "-id": "4",
+        "questionA": "Flowers  in racemes towards the top of the stem; racemes  exceeding  theleaves; leaves lanceolate.",
+        "questionB": "Flowers in axillary clusters, much shorter than the leaves; leaves ovate.",
+        "answerA": "Polygonum salicifolium",
+        "answerB": "5"
+      },
+      {
+        "-id": "5",
+        "questionA": "Woody perennials; internodes short; leaves overlapping.",
+        "questionB": "Herbaceous annuals or short-lived perennials; internodes long; leaves not overlapping.",
+        "answerA": "Polygonum maritimum",
+        "answerB": "Polygonum aviculare"
+      },
+      {
+        "-id": "6",
+        "questionA": "Annuals; leaves less than 2 cm, lanceolate; flowers in terminal  racemes; perianth segments with marginal teeth but no tubercles.",
+        "questionB": "Perennials;  leaves more than 5 cm; inflorescences axillary; perianth segments with tubercles.",
+        "answerA": "Rumex bucephalophorus",
+        "answerB": "7"
+      },
+      {
+        "-id": "7",
+        "questionA": "Flowers in short panicles; pedicels jointed at the middle, decurrent; outer perianth segments dentate with thick veins.",
+        "questionB": "Flowers  in  long  racemes; pedicels not jointed at the middle; outer perianth segments winged.",
+        "answerA": "Rumex pulcher",
+        "answerB": "8"
+      },
+      {
+        "-id": "8",
+        "questionA": "Leaves sagittate; inflorescence branched with filiform bracts; tubercles usually green.",
+        "questionB": "Leaves ovate or  lanceolate;  inflorescence unbranched with  leaf-like bracts; tubercles usually red.",
+        "answerA": "Rumex intermedius",
+        "answerB": "9"
+      },
+      {
+        "-id": "9",
+        "questionA": "Margins of leaves undulate; pedicels more than twice the length of the perianth, jointed below the middle; tubercles narrow.",
+        "questionB": "Margins of leaves not  undulate;  pedicels less than twice the length of the perianth; tubercles broad.",
+        "answerA": "Rumex crispus",
+        "answerB": "10"
+      },
+      {
+        "-id": "10",
+        "questionA": "Outer perianth segments ovate, entire, each bearing a large tubercle.",
+        "questionB": "Outer  perianth  segments  triangular,  dentate,  only  one  of  the  three bearing a large tubercle.",
+        "answerA": "Rumex conglomeratus",
+        "answerB": "Rumex obtusifolius"
+      }
+    ]
+  }

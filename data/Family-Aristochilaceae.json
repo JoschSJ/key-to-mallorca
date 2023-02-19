@@ -1,0 +1,19 @@
+{
+  
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Flowers in groups of two to eight in the leaf axils.",
+        "questionB": "Flowers solitary.",
+        "answerA": "Aristolochia clematitis",
+        "answerB": "2"
+      },
+      {
+        "-id": "2",
+        "questionA": "Flowers 3-6 cm; fruit oval, bright green.",
+        "questionB": "Flowers 1-3 cm; fruit globular, black.",
+        "answerA": "Aristolochia paucinervis",
+        "answerB": "Aristolochia bianorii"
+      }
+    ]
+  }

@@ -1,0 +1,144 @@
+{
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Florets bisexual; spikelets all similar; fruit not enclosed in a utricle.",
+        "questionB": "Florets  unisexual,  in  separate male  and  female  spikelets,  or  on different parts of the same spikelet; fruit enclosed in a utricle.",
+        "answerA": "2",
+        "answerB": "12"
+      },
+      {
+        "-id": "2",
+        "questionA": "Spikelets laterally compressed, florets and glumes in two ranks.",
+        "questionB": "Spikelets not laterally compressed, florets and glumes in three ranks or spirally arranged.",
+        "answerA": "3",
+        "answerB": "6"
+      },
+      {
+        "-id": "3",
+        "questionA": "Inflorescence subtended by one leafy bract; spikelets of one to four fertile florets.",
+        "questionB": "Inflorescence  subtended by  two  to  six  leafy bracts;  spikelets of twenty to thirty fertile florets.",
+        "answerA": "Schoenus nigricans",
+        "answerB": "4"
+      },
+      {
+        "-id": "4",
+        "questionA": "Stems up to 50 cm, often leafless; inflorescence a bundle of one to forty sessile spikelets; spikelets elongated and often curved.",
+        "questionB": "Stems  often  exceeding  50  cm,  leafy;  inflorescence a simple or compound umbel; spikelets straight.",
+        "answerA": "Cyperus laevigatus",
+        "answerB": "5"
+      },
+      {
+        "-id": "5",
+        "questionA": "Stems up to 150 cm; rhizomes 3-10 mm wide; spikelets radiating to form a globular cluster.",
+        "questionB": "Stems up to 60 cm; rhizomes c. 1 mm wide; spikelets more or less erect.",
+        "answerA": "Cyperus longus",
+        "answerB": "Cyperus rotundus"
+      },
+      {
+        "-id": "6",
+        "questionA": "Spikelets few-flowered, with five to seven glumes only the upper and longer one to three being fertile.",
+        "questionB": "Spikelets usually many-flowered; glumes usually all fertile  and equal, or the lower glumes longer than the upper.",
+        "answerA": "Cladium mariscus",
+        "answerB": "7"
+      },
+      {
+        "-id": "7",
+        "questionA": "Spikelets solitary, terminal; uppermost leaf  sheath without a green blade.",
+        "questionB": "Spikelets usually clustered, if   solitary  and  terminal   the uppermost leaf sheath with a green blade.",
+        "answerA": "Eleocharis palustris",
+        "answerB": "8"
+      },
+      {
+        "-id": "8",
+        "questionA": "Caespitose annuals; spikelets solitary, terminal; the uppermost leaf sheath bearing a green blade.",
+        "questionB": "Rhizomatous perennials; spikelets clustered.",
+        "answerA": "Scirpus cernuus",
+        "answerB": "9"
+      },
+      {
+        "-id": "9",
+        "questionA": "Spikelets globose.",
+        "questionB": "Spikelets ovoid.",
+        "answerA": "Scirpus holoschoenus",
+        "answerB": "10"
+      },
+      {
+        "-id": "10",
+        "questionA": "Stems terete.",
+        "questionB": "Stems trigonous.",
+        "answerA": "Scirpus lacustris",
+        "answerB": "11"
+      },
+      {
+        "-id": "11",
+        "questionA": "Stems  leafy; longest bracts much exceeding the terminal inflorescence; spikelets 8- 45 mm long.",
+        "questionB": "Stems  leaf less, or upper sheath with short blade; longest bracts equally  or  just  exceeding  the terminal   inflorescence;  spikelets 5-15 mm long.",
+        "answerA": "Scirpus maritimus",
+        "answerB": "Scirpus litoralis"
+      },
+      {
+        "-id": "12",
+        "questionA": "Spikes all similar, the upper part with male florets, the lower with female florets.",
+        "questionB": "Spikes dissimilar, the upper spikes usually entirely male and the lower spikes entirely female.",
+        "answerA": "13",
+        "answerB": "16"
+      },
+      {
+        "-id": "13",
+        "questionA": "Inflorescence lax, at least the lower spikes widely spaced and not overlapping.",
+        "questionB": "Inflorescence dense, most spikelets overlapping.",
+        "answerA": "14",
+        "answerB": "15"
+      },
+      {
+        "-id": "14",
+        "questionA": "Spikes few, widely spaced, each subtended by a leafy bract which exceeds the inflorescence.",
+        "questionB": "Spikes numerous, only the lowest subtended by a prominent bract and this not exceeding the inflorescence.",
+        "answerA": "Carex distachya",
+        "answerB": "Carex divulsa"
+      },
+      {
+        "-id": "15",
+        "questionA": "Tussock-forming perennials, up to 100 cm; spikes all similar; bracts linear, recurved; utricles yellowish green.",
+        "questionB": "Rhizomatous perennials,  up  to  80  cm; uppermost spike often entirely male; bracts lanceolate, erect; utricles reddish brown.",
+        "answerA": "Carex otrubae",
+        "answerB": "Carex divisa"
+      },
+      {
+        "-id": "16",
+        "questionA": "Rhizomatous perennials up to 100 cm; spikes more  than ten times as long as broad, cylindrical, the upper male the lower female but often with male florets towards the top; utricles plano-convex with bristly teeth on the margin.",
+        "questionB": "Plants not exceeding 50 cm; the female spikes less than five times as long as broad, normally without male florets at the top.",
+        "answerA": "Carex hispida",
+        "answerB": "17"
+      },
+      {
+        "-id": "17",
+        "questionA": "Inflorescence very compact, all florets overlapping.",
+        "questionB": "Inflorescence lax, at least the lower spikes widely spaced and not overlapping.",
+        "answerA": "18",
+        "answerB": "19"
+      },
+      {
+        "-id": "18",
+        "questionA": "Slender  caespitose  perennials;  lower  bract  not  exceeding  the inflorescence.",
+        "questionB": "Slender rhizomatous perennials; lower bract greatly exceeding the inflorescence.",
+        "answerA": "Carex hallerana",
+        "answerB": "Carex rorulenta"
+      },
+      {
+        "-id": "19",
+        "questionA": "Female  spikes  lax,  on  filiform  nodding  peduncles,  very widely spaced.",
+        "questionB": "Female  spikes dense, sessile or on stout erect peduncles, often overlapping.",
+        "answerA": "Carex distans",
+        "answerB": "20"
+      },
+      {
+        "-id": "20",
+        "questionA": "Leaves dark green above, glaucous below; female spikes dark brown, more than twice as long as wide, pedunculate.",
+        "questionB": "Leaves green; female spikes green, less than twice as long as wide, the lower pedunculate the upper sessile.",
+        "answerA": "Carex flacca",
+        "answerB": "Carex extensa"
+      }
+    ]
+  }

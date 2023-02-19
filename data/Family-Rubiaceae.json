@@ -1,0 +1,151 @@
+{
+   "question": [
+      {
+        "-id": "1",
+        "questionA": "Flowers sessile in elongated spikes.",
+        "questionB": "Flowers on pedicels in clusters or rounded heads.",
+        "answerA": "2",
+        "answerB": "6"
+      },
+      {
+        "-id": "2",
+        "questionA": "Flowers in dense, two- to four-ranked spikes; fruit smooth.",
+        "questionB": "Flowers in whorls, forming a leafy spike.",
+        "answerA": "3",
+        "answerB": "5"
+      },
+      {
+        "-id": "3",
+        "questionA": "Woody-based perennials; leaves and bracts glaucous, with white margins;  leaves  leathery,  spine-tipped;  bracts  overlapping,  forming quadrangular spikes; flowers bright yellow, exceeding the bracts.",
+        "questionB": "Herbaceous annuals; leaves green; flowers pale yellow, scarcely exceeding the bracts.",
+        "answerA": "Crucianella maritima",
+        "answerB": "4"
+      },
+      {
+        "-id": "4",
+        "questionA": "Upper leaves narrowly linear; spike lax; bracts not overlapping.",
+        "questionB": "Upper leaves lanceolate; spike dense; bracts overlapping.",
+        "answerA": "Crucianella angustifolia",
+        "answerB": "Crucianella latifolia"
+      },
+      {
+        "-id": "5",
+        "questionA": "Upper stem bristly; leaf tips acute; fruit bristly at the top.",
+        "questionB": "Upper stem softly hairy; leaf tips blunt; fruit beaked.",
+        "answerA": "Valantia hispida",
+        "answerB": "Valantia muralis"
+      },
+      {
+        "-id": "6",
+        "questionA": "Fruit a fleshy berry; corolla usually five-lobed.",
+        "questionB": "Fruit dry; seeds one or two; corolla four- or five-lobed.",
+        "answerA": "7",
+        "answerB": "8"
+      },
+      {
+        "-id": "7",
+        "questionA": "Stems tough; leaves ovate-elliptical, dark green, shining.",
+        "questionB": "Stems brittle; leaves narrowly linear, margins revolute, light green, not shining.",
+        "answerA": "Rubia peregrina",
+        "answerB": "Rubia angustifolia"
+      },
+      {
+        "-id": "8",
+        "questionA": "Corolla tube usually at least twice as long as lobes.",
+        "questionB": "Corolla tube shorter than lobes.",
+        "answerA": "9",
+        "answerB": "11"
+      },
+      {
+        "-id": "9",
+        "questionA": "Calyx teeth four to six, distinct, persistent in fruit.",
+        "questionB": "Calyx teeth four, very short, caducous.",
+        "answerA": "Sherardia arvensis",
+        "answerB": "10"
+      },
+      {
+        "-id": "10",
+        "questionA": "Involucral bracts inconspicuous; flowers pink.",
+        "questionB": "Involucral bracts exceeding inflorescence; flowers blue.",
+        "answerA": "Asperula laevigata",
+        "answerB": "Asperula arvensis"
+      },
+      {
+        "-id": "11",
+        "questionA": "Flowers purple or red.",
+        "questionB": "Flowers white or yellow.",
+        "answerA": "12",
+        "answerB": "13"
+      },
+      {
+        "-id": "12",
+        "questionA": "Stoloniferous perennials;  corolla  1-2 mm, purplish pink; fruit not bristly.",
+        "questionB": "Annuals; corolla minute, purple; fruit covered in fine bristles.",
+        "answerA": "Galium balearicum",
+        "answerB": "Galium setaceum"
+      },
+      {
+        "-id": "13",
+        "questionA": "Flowers yellow.",
+        "questionB": "Flowers white.",
+        "answerA": "14",
+        "answerB": "15"
+      },
+      {
+        "-id": "14",
+        "questionA": "Perennials, longest leaves exceeding internodes; inflorescence dense.",
+        "questionB": "Annuals, leaves much shorter than internodes; inflorescence lax.",
+        "answerA": "Galium crespianum",
+        "answerB": "Galium divaricatum"
+      },
+      {
+        "-id": "15",
+        "questionA": "Stoloniferous perennials.",
+        "questionB": "Non-stoloniferous annuals.",
+        "answerA": "16",
+        "answerB": "17"
+      },
+      {
+        "-id": "16",
+        "questionA": "Leaves yellowish green; petals beaked.",
+        "questionB": "Leaves glaucous; petals apiculate.",
+        "answerA": "Galium lucidum",
+        "answerB": "Galium cinereum"
+      },
+      {
+        "-id": "17",
+        "questionA": "Stems sparsely prickled; cymes three-flowered, lateral  male, central hermaphrodite; fruit warty.",
+        "questionB": "Stems markedly rough with recurved prickles on the angles; fruits not warty.",
+        "answerA": "Galium verrucosum",
+        "answerB": "18"
+      },
+      {
+        "-id": "18",
+        "questionA": "Fruits globular, wider than corolla, single-seeded, granular with soft papillae; peduncles strongly recurved in fruit.",
+        "questionB": "Fruits usually didymous, narrower than corolla, two-seeded, non-granular; peduncles erect in fruit.",
+        "answerA": "Galium tricornutum",
+        "answerB": "19"
+      },
+      {
+        "-id": "19",
+        "questionA": "Inflorescences many-flowered; corolla pure white.",
+        "questionB": "Inflorescences few-flowered; corolla greenish white.",
+        "answerA": "Galium elongatum",
+        "answerB": "20"
+      },
+      {
+        "-id": "20",
+        "questionA": "Petals greenish inside, reddish outside; fruit glabrous or finely papillose with curved hairs.",
+        "questionB": "Petals greenish white throughout; fruit with hooked bristles.",
+        "answerA": "Galium parisiense",
+        "answerB": "21"
+      },
+      {
+        "-id": "21",
+        "questionA": "Stems 15-120 cm; leaves 12-50 mm, six to eight in a whorl; fruits covered with hooked bristles.",
+        "questionB": "Stems up to 20 cm; leaves 4-8 mm, four to six in a whorl; fruits with hooked bristles at the apex and along the lower margins.",
+        "answerA": "Galium aparine",
+        "answerB": "Galium murale"
+      }
+    ]
+  }

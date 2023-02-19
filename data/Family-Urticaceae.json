@@ -1,0 +1,46 @@
+{
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Stems  creeping,  rooting  at  the nodes;  leaves less than 6 mm long; flowers solitary.",
+        "questionB": "Stems usually erect; leaves more than 6 mm long; flowers clustered.",
+        "answerA": "Soleirolia soleirolii",
+        "answerB": "2"
+      },
+      {
+        "-id": "2",
+        "questionA": "Leaves opposite with stinging hairs.",
+        "questionB": "Leaves alternate, without stinging hairs.",
+        "answerA": "3",
+        "answerB": "6"
+      },
+      {
+        "-id": "3",
+        "questionA": "Perennials.",
+        "questionB": "Annuals.",
+        "answerA": "Urtica atrovirens",
+        "answerB": "4"
+      },
+      {
+        "-id": "4",
+        "questionA": "Male and female flowers in the same raceme.",
+        "questionB": "Male and female flowers in separate inflorescences.",
+        "answerA": "Urtica urens",
+        "answerB": "5"
+      },
+      {
+        "-id": "5",
+        "questionA": "Two stipules at each node; lower racemes female, upper male  and  one-sided.",
+        "questionB": "Four  stipules  at  each node;  female  flowers with  inflated perianth  in globular heads, male flowers in erect branched clusters.",
+        "answerA": "Urtica dubia",
+        "answerB": "Urtica piluifera"
+      },
+      {
+        "-id": "6",
+        "questionA": "Perennials; bracts shorter than fruiting perianth.",
+        "questionB": "Annuals; bracts equalling or exceeding fruiting perianth.",
+        "answerA": "Parietaria judaica",
+        "answerB": "Parietaria lusitanica"
+      }
+    ]
+  }

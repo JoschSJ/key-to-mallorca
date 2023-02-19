@@ -1,0 +1,18 @@
+{
+  "question": [
+      {
+        "-id": "1",
+        "questionA": "Herbaceous annuals; leaves on short petioles, slightly curved, rounded or emarginate at the apex.",
+        "questionB": "Woody-based perennials; leaves sessile, falcate, acute.",
+        "answerA": "Frankenia pulverulenta",
+        "answerB": "2"
+      },
+      {
+        "-id": "2",
+        "questionA": "Internodes generally much shorter than the leaves; calyx hairy.",
+        "questionB": "Internodes much longer than the leaves; calyx glabrous.",
+        "answerA": "Frankenia hirsuta",
+        "answerB": "Frankenia laevis"
+      }
+    ]
+  }

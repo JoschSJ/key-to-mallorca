@@ -1,0 +1,19 @@
+{
+ 
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Pinnules without spines; indusium reniform",
+        "questionB": "Pinnules ending in spines; indusium peltate",
+        "answerA": "Dryopteris pallida",
+        "answerB": "2"
+      },
+      {
+        "-id": "2",
+        "questionA": "Fronds tough with a shiny adaxial surface; pinnules sessile, decurrent",
+        "questionB": "Fronds soft, not shiny; pinnules stalked",
+        "answerA": "Polystichum aculeatum",
+        "answerB": "Polystichum setiferum"
+      }
+    ]
+  }

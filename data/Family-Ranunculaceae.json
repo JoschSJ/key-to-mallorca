@@ -1,0 +1,200 @@
+﻿{
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Carpels few, usually one to seven, each a follicle or rarely a berry",
+        "questionB": "Carpels numerous, more than seven, each a one-seeded achene.",
+        "answerA": "2",
+        "answerB": "6"
+      },
+      {
+        "-id": "2",
+        "questionA": "Flowers without spur or hood, actinomorphic.",
+        "questionB": "Flowers with spur or hood, usually zygomorphic.",
+        "answerA": "3",
+        "answerB": "5"
+      },
+      {
+        "-id": "3",
+        "questionA": "Leaves finely divided into narrow segments; petals present.",
+        "questionB": "Leaves palmate or trifoliate; petals replaced by caducous tubular nectaries, sepals often petaloid.",
+        "answerA": "Nigella damascena",
+        "answerB": "4"
+      },
+      {
+        "-id": "4",
+        "questionA": "Leaves divided into seven to nine segments.",
+        "questionB": "Leaves trifoliate.",
+        "answerA": "Helleborus foetidus",
+        "answerB": "Helleborus lividus"
+      },
+      {
+        "-id": "5",
+        "questionA": "Flowers white.",
+        "questionB": "Flowers purple.",
+        "answerA": "Delphinium pictum",
+        "answerB": "Delphinium staphisagria"
+      },
+      {
+        "-id": "6",
+        "questionA": "Cauline leaves whorled or absent.",
+        "questionB": "Cauline leaves alternate or opposite.",
+        "answerA": "7",
+        "answerB": "8"
+      },
+      {
+        "-id": "7",
+        "questionA": "Leaves linear; flowers green.",
+        "questionB": "Leaves lobed; flowers not green.",
+        "answerA": "Myosurus minimus",
+        "answerB": "Anemone coronaria"
+      },
+      {
+        "-id": "8",
+        "questionA": "Woody climbers; leaves opposite; petals absent, sepals petaloid.",
+        "questionB": "Herbaceous plants; leaves alternate; petals present.",
+        "answerA": "9",
+        "answerB": "11"
+      },
+      {
+        "-id": "9",
+        "questionA": "Flowers solitary.",
+        "questionB": "Flowers in panicles.",
+        "answerA": "Clematis cirrhosa",
+        "answerB": "10"
+      },
+      {
+        "-id": "10",
+        "questionA": "Leaves irregularly pinnate; sepals greenish white.",
+        "questionB": "Leaves irregularly bipinnate; sepals creamy white.",
+        "answerA": "Clematis vitalba",
+        "answerB": "Clematis flammula"
+      },
+      {
+        "-id": "11",
+        "questionA": "Petals without a nectary; flowers red or yellow.",
+        "questionB": "Petals with a flap-like nectary at the base; flowers yellow or white.",
+        "answerA": "12",
+        "answerB": "13"
+      },
+      {
+        "-id": "12",
+        "questionA": "Flowers red; inner margin of achene straight.",
+        "questionB": "Flowers yellow;  inner margin  of achene with a projection near the beak.",
+        "answerA": "Adonis annua",
+        "answerB": "Adonis microcarpa"
+      },
+      {
+        "-id": "13",
+        "questionA": "Aquatic plants; flowers white.",
+        "questionB": "Terrestrial plants; flowers yellow.",
+        "answerA": "14",
+        "answerB": "15"
+      },
+      {
+        "-id": "14",
+        "questionA": "Trilobed laminate leaves present; petals 10 mm or more.",
+        "questionB": "Trilobed laminate leaves absent; petals rarely over 5 mm.",
+        "answerA": "Ranunculus  peltatus",
+        "answerB": "Ranunculus  trichophyllus"
+      },
+      {
+        "-id": "15",
+        "questionA": "Annuals.",
+        "questionB": "Perennials.",
+        "answerA": "16",
+        "answerB": "23"
+      },
+      {
+        "-id": "16",
+        "questionA": "Sepals reflexed; stem not bulbous at the base.",
+        "questionB": "Sepals not reflexed.",
+        "answerA": "17",
+        "answerB": "18"
+      },
+      {
+        "-id": "17",
+        "questionA": "Plant  hairy;  all  leaves  broad  and  deeply  tri lobed; upper leaves overlapping to form a ?ruff” around the stem; receptacle not elongated in fruit.",
+        "questionB": "Plant  glabrous;  upper  leaves  narrowly  spathulate  with prominent irregular teeth; receptacle elongated in fruit.",
+        "answerA": "Ranunculus  sardous",
+        "answerB": "Ranunculus sceleratus"
+      },
+      {
+        "-id": "18",
+        "questionA": "Upper leaves entire, tongue-shaped.",
+        "questionB": "Upper leaves divided.",
+        "answerA": "Ranunculus  ophiglossifolius",
+        "answerB": "19"
+      },
+      {
+        "-id": "19",
+        "questionA": "Upper leaves divided into linear segments; achenes with long curved spines on the border and shorter spines on ridges on the face.",
+        "questionB": "Segments of upper leaves not linear; borders of achenes without spines.",
+        "answerA": "Ranunculus  arvensis",
+        "answerB": "20"
+      },
+      {
+        "-id": "20",
+        "questionA": "Pedicels erect in fruit.",
+        "questionB": "Pedicels recurved in fruit.",
+        "answerA": "21",
+        "answerB": "22"
+      },
+      {
+        "-id": "21",
+        "questionA": "Lowest  leaves  simple,  other  three-lobed;  flowers  10-15  mm  in diameter; achenes 2 mm, with rounded tubercles and a short beak.",
+        "questionB": "All leaves shallowly lobed; flowers less than 10 mm; achenes 7-8 mm, with a spiny face and long beak.",
+        "answerA": "Ranunculus trilobus",
+        "answerB": "Ranunculus muricatus"
+      },
+      {
+        "-id": "22",
+        "questionA": "Plants hairy; pedicels only slightly thickened in fruit.",
+        "questionB": "Plants glabrous; pedicels strongly thickened in fruit.",
+        "answerA": "Ranunculus parviflorus",
+        "answerB": "Ranunculus chius"
+      },
+      {
+        "-id": "23",
+        "questionA": "Sepals reflexed; stem bulbous at the base.",
+        "questionB": "Sepals not reflexed; stem not bulbous at the base.",
+        "answerA": "Ranunculus bulbosus",
+        "answerB": "24"
+      },
+      {
+        "-id": "24",
+        "questionA": "Basal leaves up to 12 cm or more across.",
+        "questionB": "Basal leaves much less than 12 cm across.",
+        "answerA": "Ranunculus macrophyllus",
+        "answerB": "25"
+      },
+      {
+        "-id": "25",
+        "questionA": "Plants with stolons.",
+        "questionB": "Plants not stoloniferous.",
+        "answerA": "26",
+        "answerB": "27"
+      },
+      {
+        "-id": "26", 
+        "questionA": "Plants with fleshy tubers; pedicels not furrowed; receptacle elongated in fruit.",
+        "questionB": "Plants without tubers; pedicels furrowed; receptacle not elongated in fruit.",
+        "answerA": "Ranunculus paludosus",
+        "answerB": "Ranunculus repens"
+      },
+      {
+        "-id": "27",
+        "questionA": "Leaves entire, cordate; petals more than five.",
+        "questionB": "Leaves divided; petals five.",
+        "answerA": "Ranunculus ficaria",
+        "answerB": "28"
+      },
+      {
+        "-id": "28",
+        "questionA": "Plants with tubers; receptacle elongated in fruit",
+        "questionB": "Plants without tubers; receptacle not elongated in fruit.",
+        "answerA": "Ranunculus monspeliacus",
+        "answerB": "Ranunculus weyleri"
+      }
+    ]
+  }

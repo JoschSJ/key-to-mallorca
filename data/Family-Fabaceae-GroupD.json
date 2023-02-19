@@ -1,0 +1,319 @@
+{
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Leaflets with main lateral veins reaching the margin, often dentate.",
+        "questionB": "Leaflets  with  main  lateral   veins  branching  before  the  margin,  not dentate, sometimes very small or reduced to a spine.",
+        "answerA": "2",
+        "answerB": "28"
+      },
+      {
+        "-id": "2",
+        "questionA": "Plants glandular-hairy, at least above.",
+        "questionB": "Plants not glandular-hairy.",
+        "answerA": "3",
+        "answerB": "18"
+      },
+      {
+        "-id": "3",
+        "questionA": "Filaments of  stamens  all  fused  into  a  tube;  fruit straight or slightly curved.",
+        "questionB": "Nine filaments fused into tube, one free; fruit falcate or coiled.",
+        "answerA": "Back=Family Fabaceae-GroupC i=20",
+        "answerB": "4"
+      },
+      {
+        "-id": "4",
+        "questionA": "Perennials.",
+        "questionB": "Annuals.",
+        "answerA": "5",
+        "answerB": "6"
+      },
+      {
+        "-id": "5",
+        "questionA": "Plants almost hairless; flowers purple or blue.",
+        "questionB": "Plants covered in a dense white tomentum; flowers yellow.",
+        "answerA": "Medicago sativa-ssp.-sativa",
+        "answerB": "Medicago marina"
+      },
+      {
+        "-id": "6",
+        "questionA": "Pod sickle- or bean-shaped, black when ripe.",
+        "questionB": "Pod in a spiral of one or more turns.",
+        "answerA": "Medicago lupulina",
+        "answerB": "7"
+      },
+      {
+        "-id": "7",
+        "questionA": "Pod without spines.",
+        "questionB": "Pod with spines.",
+        "answerA": "8",
+        "answerB": "9"
+      },
+      {
+        "-id": "8",
+        "questionA": "Pod glandular-pubescent, not flattened.",
+        "questionB": "Pod glabrous, flattened.",
+        "answerA": "Medicago scutellata",
+        "answerB": "Medicago orbicularis"
+      },
+      {
+        "-id": "9",
+        "questionA": "Peduncles shorter than petioles.",
+        "questionB": "Peduncles equalling or exceeding petioles.",
+        "answerA": "10",
+        "answerB": "11"
+      },
+      {
+        "-id": "10",
+        "questionA": "Stipules deeply dentate.",
+        "questionB": "Stipules more or less entire.",
+        "answerA": "Medicago praecox",
+        "answerB": "Medicago minima"
+      },
+      {
+        "-id": "11",
+        "questionA": "Pod glabrous.",
+        "questionB": "Pod hairy.",
+        "answerA": "12",
+        "answerB": "16"
+      },
+      {
+        "-id": "12",
+        "questionA": "Fruit ellipsoid with short broad spines.",
+        "questionB": "Fruit globular or cylindrical with slender spines.",
+        "answerA": "Medicago turbinata",
+        "answerB": "13"
+      },
+      {
+        "-id": "13",
+        "questionA": "Fruit globular.",
+        "questionB": "Fruit cylindrical.",
+        "answerA": "14",
+        "answerB": "15"
+      },
+      {
+        "-id": "14",
+        "questionA": "Leaflets obcordate or triangular, unspotted, less than 10 mm wide.",
+        "questionB": "Leaflets obovate, each usually bearing a dark blotch, up to 25 mm wide.",
+        "answerA": "Medicago murex",
+        "answerB": "Medicago arabica"
+      },
+      {
+        "-id": "15",
+        "questionA": "Leaflets up to 25 mm wide; fruit 4-9 mm in diameter, bearing hooked spines.",
+        "questionB": "Leaflets no more than 10 mm wide; fruit 4-6 mm in diameter, spines if present slightly curved.",
+        "answerA": "Medicago polymorpha",
+        "answerB": "Medicago littoralis"
+      },
+      {
+        "-id": "16",
+        "questionA": "Peduncles aristate; fruit cylindrical, sparsely villous, spines curved.",
+        "questionB": "Peduncles not aristate; fruit globose to ellipsoid, glandular-hairy, spines straight.",
+        "answerA": "Medicago truncatula",
+        "answerB": "17"
+      },
+      {
+        "-id": "17",
+        "questionA": "Fruit 12 mm or more in diameter, ovoid; spines needle-like.",
+        "questionB": "Fruit 7-10 mm, globose to ellipsoid, spines broadly conical.",
+        "answerA": "Medicago ciliaris",
+        "answerB": "Medicago doliata"
+      },
+      {
+        "-id": "18",
+        "questionA": "At  least  some of  the petal   claws  fused  to  the  stamen  tube;  corolla persistent in fruit.",
+        "questionB": "Petal claws never fused to stamen tube; corolla not persistent in fruit.",
+        "answerA": "Back=Family Fabaceae-GroupC i=3",
+        "answerB": "19"
+      },
+      {
+        "-id": "19",
+        "questionA": "Filaments of at least five stamens swollen at apex.",
+        "questionB": "Filaments all slender.",
+        "answerA": "Back=Family Fabaceae-GroupC i=4",
+        "answerB": "20"
+      },
+      {
+        "-id": "20",
+        "questionA": "Pod coiled in one or more turns of a spiral.",
+        "questionB": "Pod straight or curved.",
+        "answerA": "4",
+        "answerB": "21"
+      },
+      {
+        "-id": "21",
+        "questionA": "Pod with a prominent beak at the tip.",
+        "questionB": "Pod not beaked.",
+        "answerA": "Trigonella monspeliaca",
+        "answerB": "22"
+      },
+      {
+        "-id": "22",
+        "questionA": "Pod oblong or curved.",
+        "questionB": "Pod oval to globular.",
+        "answerA": "4",
+        "answerB": "23"
+      },
+      {
+        "-id": "23",
+        "questionA": "Raceme shorter than subtending leaf.",
+        "questionB": "Raceme as long or longer than subtending leaf.",
+        "answerA": "Melilotus messanensis",
+        "answerB": "24"
+      },
+      {
+        "-id": "24",
+        "questionA": "Pod globose.",
+        "questionB": "Pod tapering to a point.",
+        "answerA": "Melilotus sulcata",
+        "answerB": "25"
+      },
+      {
+        "-id": "25",
+        "questionA": "Standard petal shorter than keel petal.",
+        "questionB": "Standard no shorter than keel.",
+        "answerA": "26",
+        "answerB": "27"
+      },
+      {
+        "-id": "26",
+        "questionA": "Pod transversely ridged.",
+        "questionB": "Pod concentrically striate.",
+        "answerA": "Melilotus elegans",
+        "answerB": "Melilotus segetalis"
+      },
+      {
+        "-id": "27",
+        "questionA": "Leaflets broad, rounded at the tip; racemes lax; corolla 6 mm or more; pod 5-6 mm, with prominent reticulate veins.",
+        "questionB": "Leaflets narrow, tapering to a point; racemes dense; corolla 2-3 mm; pod 2-3 mm, reticulate veins not prominent.",
+        "answerA": "Melilotus italica",
+        "answerB": "Melilotus indica"
+      },
+      {
+        "-id": "28",
+        "questionA": "Plant spiny.",
+        "questionB": "Plant not spiny.",
+        "answerA": "29",
+        "answerB": "33"
+      },
+      {
+        "-id": "29",
+        "questionA": "Calyx tubular with five short teeth, the upper portion breaking away and leaving a cup-like remnant.",
+        "questionB": "Upper part of calyx not breaking away.",
+        "answerA": "Calicotome spinosa",
+        "answerB": "30"
+      },
+      {
+        "-id": "30",
+        "questionA": "Calyx with five equal teeth or two-lipped and the upper lip not deeply divided.",
+        "questionB": "Calyx two-lipped, the upper lip deeply divided into two.",
+        "answerA": "Back=Family Fabaceae-GroupC i=30",
+        "answerB": "31"
+      },
+      {
+        "-id": "31",
+        "questionA": "Plant not spiny (appears in 37 below).",
+        "questionB": "Plant spiny.",
+        "answerA": "Genista majorica",
+        "answerB": "32"
+      },
+      {
+        "-id": "32",
+        "questionA": "Spines straight; wing petals narrow, at least as long as keel.",
+        "questionB": "Spines curved; wing petals broad, shorter than keel.",
+        "answerA": "Genista lucida",
+        "answerB": "Genista balearica"
+      },
+      {
+        "-id": "33",
+        "questionA": "Leaves simple or with one leaflet, sometimes very small.",
+        "questionB": "At least some leaves trifoliate.",
+        "answerA": "34",
+        "answerB": "38"
+      },
+      {
+        "-id": "34",
+        "questionA": "Annuals.",
+        "questionB": "Shrubs or woody based perennial herbs.",
+        "answerA": "35",
+        "answerB": "36"
+      },
+      {
+        "-id": "35",
+        "questionA": "Leaves linear, grass-like; pod splitting.",
+        "questionB": "Leaves obovate or elliptic; pod not splitting.",
+        "answerA": "Back=Family Fabaceae-GroupB i=7",
+        "answerB": "Scorpiurus muricatus"
+      },
+      {
+        "-id": "36",
+        "questionA": "Calyx spathe-like, split to the base.",
+        "questionB": "Calyx neither spathe-like nor split to the base.",
+        "answerA": "Spartium junceum",
+        "answerB": "37"
+      },
+      {
+        "-id": "37",
+        "questionA": "Calyx more or less tubular; pod included within persistent calyx.",
+        "questionB": "Calyx campanulate; pod longer than calyx or calyx not persisting.",
+        "answerA": "Back=Family Fabaceae-GroupC i=30",
+        "answerB": "31"
+      },
+      {
+        "-id": "38",
+        "questionA": "Leaflets dotted with conspicuous glands; plant smelling of tar.",
+        "questionB": "Leaflets without conspicuous glands; plant not smelling of tar.",
+        "answerA": "Psoralea bituminosa",
+        "answerB": "39"
+      },
+      {
+        "-id": "39",
+        "questionA": "Pod splitting at transverse joints.",
+        "questionB": "Pod not splitting transversely.",
+        "answerA": "Back=Family Fabaceae-GroupC i=38",
+        "answerB": "40"
+      },
+      {
+        "-id": "40",
+        "questionA": "Annual or perennial herbs.",
+        "questionB": "Trees or shrubs.",
+        "answerA": "41",
+        "answerB": "44"
+      },
+      {
+        "-id": "41",
+        "questionA": "Calyx  inflated, 4-6 mm wide  in  flower, up  to 12 mm wide  in  fruit, enclosing pod.",
+        "questionB": "Calyx less than 4 mm wide, not inflated.",
+        "answerA": "Back=Family Fabaceae-GroupC i=30",
+        "answerB": "42"
+      },
+      {
+        "-id": "42",
+        "questionA": "Keel petal dark red or black.",
+        "questionB": "Keel petal neither dark nor black.",
+        "answerA": "Back=Family Fabaceae-GroupC i=50",
+        "answerB": "43"
+      },
+      {
+        "-id": "43",
+        "questionA": "Stamens monadelphous; stipules not fused to petiole.",
+        "questionB": "Stamens diadelphous; stipules fused to base of petiole.",
+        "answerA": "Argyrolobium zanonii",
+        "answerB": "Back=Family Fabaceae-GroupC i=41"
+      },
+      {
+        "-id": "44",
+        "questionA": "Pod included in the persistent  calyx;  calyx teeth five, more or less equal.",
+        "questionB": "Pod longer than calyx or calyx deciduous; calyx two-lipped.",
+        "answerA": "Back=Family Fabaceae-GroupC i=30",
+        "answerB": "45"
+      },
+      {
+        "-id": "45",
+        "questionA": "Calyx tube distinctly shorter than lips.",
+        "questionB": "Calyx tube as long as or longer than the lips.",
+        "answerA": "Argyrolobium zanonii",
+        "answerB": "31"
+      }
+    ]
+  }

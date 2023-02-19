@@ -1,0 +1,25 @@
+{
+   "question": [
+      {
+        "-id": "1",
+        "questionA": "Leaves  petiolate; petals rounded; lobes of sepals reflexed, often caducous; petals and sepals forming a  hypanthium; pedicel at least half as long as capsule; seeds glabrous.",
+        "questionB": "Leaves  sessi le; petals notched; sepals erect, persistent; petals and sepals free; pedicel less than a quarter the length of the capsule; seeds with a plume of hairs.",
+        "answerA": "Oenothera rosea",
+        "answerB": "2"
+      },
+      {
+        "-id": "2",
+        "questionA": "Stem with two or four ridges or wings, without glandular hairs; stigma entire, club-shaped.",
+        "questionB": "Stem terete, bearing glandular hairs; stigma four-lobed.",
+        "answerA": "Epilobium tetragonum",
+        "answerB": "3"
+      },
+      {
+        "-id": "3",
+        "questionA": "Leaves 6-12 cm, somewhat  clasping  and  slightly  decurrent; petals more than 1 cm, deep pink.",
+        "questionB": "Leaves 3-7 cm, neither clasping nor decurrent; petals less than 1 cm, pale pink.",
+        "answerA": "Epilobium hirsutum",
+        "answerB": "Epilobium parviflorum"
+      }
+    ]
+  }

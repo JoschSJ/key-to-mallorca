@@ -1,0 +1,40 @@
+{
+  
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Corolla deeply five-lobed almost to the base.",
+        "questionB": "Corolla campanulate or conical, lobes usually less than half the length of the tube.",
+        "answerA": "2",
+        "answerB": "5"
+      },
+      {
+        "-id": "2",
+        "questionA": "Flowers actinomorphic.",
+        "questionB": "Flowers zygomorphic.",
+        "answerA": "3",
+        "answerB": "4"
+      },
+      {
+        "-id": "3",
+        "questionA": "Leaves  rough-hairy,  oblong,  margins  undulate; flowers violate or reddish purple; calyx lobes undulate,  ascending,  twice  as  long as corolla lobes.",
+        "questionB": "Leaves glabrous, obovate, margins entire; flowers violet; calyx lobes linear, recurved, three times as long as corolla lobes.",
+        "answerA": "Legousia falcata",
+        "answerB": "Legousia hybrida"
+      },
+      {
+        "-id": "4",
+        "questionA": "Perennials; leaves oblong, margins sinuous; flowers pink and white.",
+        "questionB": "Annuals; leaves ovate, entire; flowers blue and white.",
+        "answerA": "Solenopsis minuta",
+        "answerB": "Solenopsis laurentia"
+      },
+      {
+        "-id": "5",
+        "questionA": "Corolla tube slender, lobes spreading.",
+        "questionB": "Corolla campanulate or conical, lobes more or less erect.",
+        "answerA": "Trachelium caeruleum",
+        "answerB": "Campanula erinus"
+      }
+    ]
+  }

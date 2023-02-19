@@ -1,0 +1,26 @@
+{
+ 
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Leaves compound; spadix about as long as spathe.",
+        "questionB": "Leaves simple; spadix usually shorter than spathe.",
+        "answerA": "Dracunculus muscivorus",
+        "answerB": "2"
+      },
+      {
+        "-id": "2",
+        "questionA": "Spathe fused at the base, forming a funnel; spadix curved.",
+        "questionB": "Spathe overlapping at the base, not fused; spadix straight.",
+        "answerA": "Arisarum vulgare",
+        "answerB": "3"
+      },
+      {
+        "-id": "3",
+        "questionA": "Leaves sagittate, yellow-veined, withering at flowering time; spathe pale green; spadix yellow.",
+        "questionB": "Leaves obovate-hastate, white-veined, appearing at flowering time; spathe purple; spadix dark purple.",
+        "answerA": "Arum italicum",
+        "answerB": "Arum pictum"
+      }
+    ]
+  }
