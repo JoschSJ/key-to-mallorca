@@ -66,7 +66,7 @@ else
     protected override async Task OnInitializedAsync()
     {
         await QuestionService.LoadNextQuestionAsync();
-        lol = await DataService.LoadWikipediaPageAsync("Equisetum_telmateia");
+        // lol = await DataService.LoadWikipediaPageAsync("Equisetum_telmateia");
         Console.WriteLine();
         await base.OnInitializedAsync();
     }
