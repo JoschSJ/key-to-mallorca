@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "key-to-mallorca-wasm.dll": "sha256-+j6YXblDOOvwtZy6xuyAygCtL7hjXGt8awj8kmJsbM0=",
+      "key-to-mallorca-wasm.dll": "sha256-Lg6b0JiVdp9CNzW0sgGPdjxo+rkbKe1rCspClr7HgYM=",
       "Microsoft.AspNetCore.Components.dll": "sha256-5BzOmNq8TKf6xDns2rteHvs5U7L5GgbdbgjXztnxKr4=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-ITY9jR0xQAi62\/J+AwHwvd1cxeNWcmoOcAnkYqaH6HA=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-jj0gEWGz0IP5DtImmDS2JCnL7nDJvw39GXaOgt9q2BU=",
@@ -31,7 +31,7 @@
       "System.ComponentModel.dll": "sha256-btqatMrsfHuC\/bYU\/cdL\/+7tQdAiwwdulOc48U9VmTM=",
       "System.ComponentModel.Primitives.dll": "sha256-\/BYILJiaL33ceAQ9TKwmi+I2yvjnRAhMDgcfgTXT3KU=",
       "System.ComponentModel.TypeConverter.dll": "sha256-6oTOH3hSIOSpVYNR6s7K5S\/FhO7kij27z+y+cGUEHnc=",
-      "System.Console.dll": "sha256-X9VTeH4ugl1hubjOQ1VISB6nte22uf8XFyaKHIsfx\/s=",
+      "System.Console.dll": "sha256-ROu02kW4dEo2V9\/VDvrtlloot3UloTZpCxRRme\/0dP8=",
       "System.Data.Common.dll": "sha256-LEMvHRsI8rApsYRdVJ\/O9bkNZ3WGwf2BCrqNLIdrA5E=",
       "System.Diagnostics.TraceSource.dll": "sha256-f0XN8Qxc9+ynIg8ew35QIq8pGlj5hbHr2DhLKZDRrik=",
       "System.dll": "sha256-Oo8hLWf9Z\/q1FUCV05wglw1fSv+OjBZtPo8ts4UaFyo=",
