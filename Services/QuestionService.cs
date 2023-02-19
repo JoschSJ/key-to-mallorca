@@ -7,7 +7,7 @@ public class QuestionService
     private List<Question>? CurrentQuestionSet { get; set; }
     public Question? CurrentQuestion { get; set; }
 
-    private string _currentQuestionsSetName = "key-to-Families";
+    private string _currentQuestionsSetName = "Key-to-Families";
     private readonly QuestionHistory _questionHistory = new();
     private readonly DataService _dataService;
 
