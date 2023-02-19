@@ -1,11 +1,11 @@
 ﻿@page "/key"
-@inject QuestionService QuestionService
-@inject DataService DataService
+@inject KeyController KeyController
+@* @inject DataService DataService *@
 
 <PageTitle>Key to Mallorca</PageTitle>
 
 <h1>Key to Mallorca</h1>
-@if(QuestionService?.CurrentQuestion == null)
+@if(KeyController?.QuestionA == null)
 {
     <p><em>Loading...</em></p>
 }
@@ -13,59 +13,44 @@ else
 {
     <div class="question-button-container">
         <button class="question-button" @onclick="ClickHandlerA">
-            <span class="colourful">@QuestionService.CurrentQuestion.QuestionA</span>
+            <span class="colourful">@KeyController.QuestionA</span>
         </button>
         <button class="question-button" @onclick="ClickHandlerB">
-            <span class="colourful">@QuestionService.CurrentQuestion.QuestionB</span>
+            <span class="colourful">@KeyController.QuestionB</span>
         </button>
     </div>
-    <div class="question-button-container">
-        <button class="question-button" @onclick="QuestionService.GetPreviousQuestion">Back</button>
-        <button class="question-button" @onclick="QuestionService.GetNextQuestionFromHistory">Forward</button>
-    </div>
-    <button class="question-button" @onclick="QuestionService.Reset">Reset</button>
-    <p>@lol</p>
+    @* <div class="question-button-container"> *@
+    @*     <button class="question-button" @onclick="KeyController.GetPreviousQuestion">Back</button> *@
+    @*     <button class="question-button" @onclick="KeyController.GetNextQuestionFromHistory">Forward</button> *@
+    @* </div> *@
+    @* <button class="question-button" @onclick="KeyController.Reset">Reset</button> *@
+    @* <p></p> *@
 }
 
 
 @code{
 
-    private Question? Question { get; set; }
-    private string lol { get; set; }
 
     private async Task ClickHandlerA()
     {
-        Console.WriteLine(QuestionService.CurrentQuestion.AnswerA);
-        await AnswerClickHandler(QuestionService.CurrentQuestion.AnswerA);
+        await KeyController.GetNextQuestion('a');
     }
 
     private async Task ClickHandlerB()
     {
-        Console.WriteLine(QuestionService.CurrentQuestion.AnswerB);
-        await AnswerClickHandler(QuestionService.CurrentQuestion.AnswerB);
+        await KeyController.GetNextQuestion('b');
     }
 
-    private bool _isFinalAnswer(string answer)
-    {
-        return !int.TryParse(answer, out _) && !answer.StartsWith("Family") && !answer.StartsWith("Group");
-    }
+    // private bool _isFinalAnswer(string answer)
+    // {
+    //     return !int.TryParse(answer, out _) && !answer.StartsWith("Family") && !answer.StartsWith("Group");
+    // }
 
-    private async Task AnswerClickHandler(string answer)
-    {
-        if (_isFinalAnswer(answer))
-        {
-    // TODO get plant
-            Console.WriteLine($"Get plant: {answer}");
-        }
-        else
-        {
-            await QuestionService.LoadNextQuestionAsync(answer);
-        }
     }
 
     protected override async Task OnInitializedAsync()
     {
-        await QuestionService.LoadNextQuestionAsync();
+        await KeyController.LoadNextQuestionAsync();
         // lol = await DataService.LoadWikipediaPageAsync("Equisetum_telmateia");
         Console.WriteLine();
         await base.OnInitializedAsync();
