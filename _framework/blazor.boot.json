@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "key-to-mallorca-wasm.dll": "sha256-Xkz+Y7ZqmFNnUe\/F1dz7r8aBM6TJELk+QWk48Sv7uJE=",
+      "key-to-mallorca-wasm.dll": "sha256-+j6YXblDOOvwtZy6xuyAygCtL7hjXGt8awj8kmJsbM0=",
       "Microsoft.AspNetCore.Components.dll": "sha256-5BzOmNq8TKf6xDns2rteHvs5U7L5GgbdbgjXztnxKr4=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-ITY9jR0xQAi62\/J+AwHwvd1cxeNWcmoOcAnkYqaH6HA=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-jj0gEWGz0IP5DtImmDS2JCnL7nDJvw39GXaOgt9q2BU=",
