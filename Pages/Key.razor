@@ -19,12 +19,12 @@ else
             <span class="colourful">@KeyController.QuestionB</span>
         </button>
     </div>
-    @* <div class="question-button-container"> *@
-    @*     <button class="question-button" @onclick="KeyController.GetPreviousQuestion">Back</button> *@
-    @*     <button class="question-button" @onclick="KeyController.GetNextQuestionFromHistory">Forward</button> *@
-    @* </div> *@
-    @* <button class="question-button" @onclick="KeyController.Reset">Reset</button> *@
-    @* <p></p> *@
+    <div class="question-button-container">
+        <button class="question-button" @onclick="KeyController.HistoryBackward">Back</button>
+        <button class="question-button" @onclick="KeyController.HistoryForward">Forward</button>
+    </div>
+    <button class="question-button" @onclick="KeyController.ResetToStart">Reset To Start</button>
+    <p></p>
 }
 
 
@@ -40,11 +40,6 @@ else
     {
         await KeyController.GetNextQuestion('b');
     }
-
-    // private bool _isFinalAnswer(string answer)
-    // {
-    //     return !int.TryParse(answer, out _) && !answer.StartsWith("Family") && !answer.StartsWith("Group");
-    // }
 
     protected override async Task OnInitializedAsync()
     {

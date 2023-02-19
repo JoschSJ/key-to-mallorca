@@ -24,12 +24,17 @@ public class KeyController: IKey
     private List<Question>? CurrentQuestionSet { get; set; }
 
     private readonly HttpClient _http;
+    private readonly QuestionHistory _questionHistory = new();
 
     public async Task GetNextQuestion(char answer = '-')
     {
         CurrentQuestionSet ??= await _getQuestionsSet(_currentQuestionsSetName);
         CurrentQuestion ??= CurrentQuestionSet[0];
-        if (answer == '-') return;
+        if (answer == '-')
+        {
+            _questionHistory.AddQuestion(CurrentQuestion, _currentQuestionsSetName);
+            return;
+        }
 
         var answerText = answer == 'a' ?
             CurrentQuestion?.AnswerA : CurrentQuestion?.AnswerB;
@@ -43,33 +48,45 @@ public class KeyController: IKey
             // offset for json answer offset 🙄
             id--;
             CurrentQuestion = CurrentQuestionSet[id];
+            _questionHistory.AddQuestion(CurrentQuestion, _currentQuestionsSetName);
         }
         else if (answerText.StartsWith("Family") || answerText.StartsWith("Group"))
         {
             _currentQuestionsSetName = answerText;
             await _getQuestionsSet(answerText);
             CurrentQuestion = CurrentQuestionSet[0];
+            _questionHistory.AddQuestion(CurrentQuestion, _currentQuestionsSetName);
         }
+
+
         Console.WriteLine(answerText);
         //TODO: add question history call here once decided how that's going to work
     }
 
-    public Task HistoryForward()
+    private async Task RestoreQuestionFromQuestionHistory(QuestionHistoryEntry? questionEntry)
     {
-        //TODO
-        throw new NotImplementedException();
+        if (questionEntry == null) return;
+        if (questionEntry.QuestionSetName != _currentQuestionsSetName)
+        {
+            await _getQuestionsSet(questionEntry.QuestionSetName);
+        }
+
+        CurrentQuestion = questionEntry.Question;
+    }
+    public async Task HistoryBackward()
+    {
+        await RestoreQuestionFromQuestionHistory(_questionHistory.GetPreviousQuestion());
     }
 
-    public Task HistoryBackward()
+    public async Task HistoryForward()
     {
-        //TODO
-        throw new NotImplementedException();
+        await RestoreQuestionFromQuestionHistory(_questionHistory.GetNextQuestion());
     }
 
-    public Task Reset()
+
+    public async Task ResetToStart()
     {
-        //TODO
-        throw new NotImplementedException();
+        await RestoreQuestionFromQuestionHistory(_questionHistory.ClearHistory());
     }
 
     private async Task<List<Question>> _getQuestionsSet(string questionSetName)
@@ -85,4 +102,61 @@ public class KeyController: IKey
         var filePath = $"data/{fileName}.json";
         return (await _http.GetFromJsonAsync<QuestionsList>(filePath))!;
     }
+}
+
+internal class QuestionHistory
+{
+    private readonly List<QuestionHistoryEntry> _history = new();
+    private int _currentIndex = -1;
+    // private int? _markedIndex = null;
+
+    public void AddQuestion(Question question, string fileName)
+    {
+        // Handle rewriting history
+        if (_currentIndex < _history.Count - 1)
+        {
+            var countToRemove = _history.Count - 1 - _currentIndex;
+            _history.RemoveRange(_currentIndex + 1, countToRemove);
+        }
+
+        var entry = new QuestionHistoryEntry(question, fileName);
+        _history.Add(entry);
+        _currentIndex = _history.Count - 1;
+    }
+
+    public QuestionHistoryEntry? GetPreviousQuestion()
+    {
+        if (_currentIndex <= 0) return null;
+        _currentIndex--;
+        return _history[_currentIndex];
+    }
+
+    public QuestionHistoryEntry? GetNextQuestion()
+    {
+        if (_currentIndex >= _history.Count - 1) return null;
+        _currentIndex++;
+        return _history[_currentIndex];
+    }
+
+    public QuestionHistoryEntry? ClearHistory()
+    {
+        if (_currentIndex == -1 || _history.Count <= 1) return null;
+
+        _history.RemoveRange(1, _history.Count - 1);
+        _currentIndex = 0;
+        // _markedIndex = null;
+        return _history[0];
+    }
+}
+
+internal class QuestionHistoryEntry
+{
+    public QuestionHistoryEntry(Question question, string questionSetName)
+    {
+        Question = question;
+        QuestionSetName = questionSetName;
+    }
+
+    public Question Question { get; }
+    public string QuestionSetName { get; }
 }

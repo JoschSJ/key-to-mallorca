@@ -7,9 +7,9 @@ public interface IKey
     string QuestionB { get; }
 
     Task GetNextQuestion(char answer);
-    Task HistoryForward();
     Task HistoryBackward();
-    Task Reset();
+    Task HistoryForward();
+    Task ResetToStart();
     // Task MarkQuestion();
     // Task GetMarkedQuestion();
 }
