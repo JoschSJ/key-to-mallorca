@@ -46,13 +46,9 @@ else
     //     return !int.TryParse(answer, out _) && !answer.StartsWith("Family") && !answer.StartsWith("Group");
     // }
 
-    }
-
     protected override async Task OnInitializedAsync()
     {
-        await KeyController.LoadNextQuestionAsync();
-        // lol = await DataService.LoadWikipediaPageAsync("Equisetum_telmateia");
-        Console.WriteLine();
+        await KeyController.GetNextQuestion();
         await base.OnInitializedAsync();
     }
 

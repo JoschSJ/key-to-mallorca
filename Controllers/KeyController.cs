@@ -25,9 +25,12 @@ public class KeyController: IKey
 
     private readonly HttpClient _http;
 
-    public async Task GetNextQuestion(char answer)
+    public async Task GetNextQuestion(char answer = '-')
     {
         CurrentQuestionSet ??= await _getQuestionsSet(_currentQuestionsSetName);
+        CurrentQuestion ??= CurrentQuestionSet[0];
+        if (answer == '-') return;
+
         var answerText = answer == 'a' ?
             CurrentQuestion?.AnswerA : CurrentQuestion?.AnswerB;
 
@@ -47,7 +50,7 @@ public class KeyController: IKey
             await _getQuestionsSet(answerText);
             CurrentQuestion = CurrentQuestionSet[0];
         }
-
+        Console.WriteLine(answerText);
         //TODO: add question history call here once decided how that's going to work
     }
 
