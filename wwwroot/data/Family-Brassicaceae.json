@@ -1,0 +1,33 @@
+{
+  
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Fruit with transverse joints, often separating into sections on ripening.",
+        "questionB": "Fruit without transverse joints but splitting into valves from the base.",
+        "answerA": "Family-Brassicaceae-GroupA",
+        "answerB": "2"
+      },
+      {
+        "-id": "2",
+        "questionA": "Fruit a siliqua, more than three times as long as wide.",
+        "questionB": "Fruit a silicula, less than three times as long as wide.",
+        "answerA": "Family-Brassicaceae-GroupB",
+        "answerB": "3"
+      },
+      {
+        "-id": "3",
+        "questionA": "Fruit not splitting into valves.",
+        "questionB": "Fruit splitting into two valves.",
+        "answerA": "Family-Brassicaceae-GroupC",
+        "answerB": "4"
+      },
+      {
+        "-id": "4",
+        "questionA": "Silicula latiseptate.",
+        "questionB": "Silicula angustiseptate.",
+        "answerA": "Family-Brassicaceae-GroupD",
+        "answerB": "Family-Brassicaceae-GroupE"
+      }
+    ]
+  }

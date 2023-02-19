@@ -1,0 +1,46 @@
+{
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Leaves glaucous, perfoliate; corolla with six to twelve lobes, yellow.",
+        "questionB": "Leaves light green, not perfoliate; corolla five-lobed, pink, white or yellow.",
+        "answerA": "Blackstonia perfoliata",
+        "answerB": "2"
+      },
+      {
+        "-id": "2",
+        "questionA": "Flowers yellow.",
+        "questionB": "Flowers pink or red.",
+        "answerA": "Centaurium maritimum",
+        "answerB": "3"
+      },
+      {
+        "-id": "3",
+        "questionA": "Stems quadrangular, winged; flowers yellowish pink.",
+        "questionB": "Stems terete, wingless; flowers white or pink.",
+        "answerA": "Centaurium bianoris",
+        "answerB": "4"
+      },
+      {
+        "-id": "4",
+        "questionA": "Basal rosette absent; flowers deep pink or white.",
+        "questionB": "Basal rosette usually present; flowers pink.",
+        "answerA": "Centaurium pulchellum",
+        "answerB": "5"
+      },
+      {
+        "-id": "5",
+        "questionA": "Inflorescence a spike (flowers sessile) or raceme with short pedicels.",
+        "questionB": "Inflorescence a corymbiform cyme.",
+        "answerA": "Centaurium spicatum",
+        "answerB": "6"
+      },
+      {
+        "-id": "6",
+        "questionA": "Basal   rosettes  weak,  often  absent;  leaves  ovate; branches of inflorescence strict.",
+        "questionB": "Basal rosettes persistent; leaves spathulate; branches of inflorescence spreading.",
+        "answerA": "Centaurium tenuiflorum",
+        "answerB": "Centaurium erythraea"
+      }
+    ]
+  }

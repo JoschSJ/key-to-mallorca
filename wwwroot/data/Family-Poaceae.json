@@ -1,0 +1,900 @@
+{
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Plants monoecious; male  florets  forming branched terminal panicles (tassels); female florets in axillary spikes (cobs), enclosed in a large bract.",
+        "questionB": "Plants  hermaphrodite  or monoecious  with  similar male  and  female florets.",
+        "answerA": "Zea mays",
+        "answerB": "2"
+      },
+      {
+        "-id": "2",
+        "questionA": "Spikelets arranged in spikes or racemes, which either constitute the whole inflorescence or modules of it.",
+        "questionB": "Spikelets  arranged  on branched stalks, forming a spike-like or expanded panicle.",
+        "answerA": "3",
+        "answerB": "35"
+      },
+      {
+        "-id": "3",
+        "questionA": "Spikes solitary, terminal.",
+        "questionB": "Spikes in several, often terminal clusters.",
+        "answerA": "4",
+        "answerB": "30"
+      },
+      {
+        "-id": "4",
+        "questionA": "Spikelets in groups of up to three, arising from each tooth or cavity on the rachis.",
+        "questionB": "All spikelets solitary, each arising from a tooth or cavity on the rachis.",
+        "answerA": "5",
+        "answerB": "9"
+      },
+      {
+        "-id": "5",
+        "questionA": "Spikelets paired,  similar in the lower part of the raceme, awnless; dissimilar in the upper part, one stalked and awnless, the other sessile with a very long thick hairy awn.",
+        "questionB": "Spikelets in groups of one to three, not varying in different regions of the raceme.",
+        "answerA": "Heteropogon contortus",
+        "answerB": "6"
+      },
+      {
+        "-id": "6",
+        "questionA": "Spikelets in groups of one to three, arising from each cavity on the rachis; one-flowered; lemmas awnless.",
+        "questionB": "Spikelets in threes, arising from each tooth on the rachis;  one-flowered; lemmas with long awns.",
+        "answerA": "Stenotaphrum secundatum",
+        "answerB": "7"
+      },
+      {
+        "-id": "7",
+        "questionA": "Spikes not disarticulating at maturity.",
+        "questionB": "Spikes disarticulating into triads of spikelets at maturity.",
+        "answerA": "Hordeum vulgare",
+        "answerB": "8"
+      },
+      {
+        "-id": "8",
+        "questionA": "Glumes of central spikelet ciliate.",
+        "questionB": "Glumes of central spikelet scabrid.",
+        "answerA": "Hordeum murinum",
+        "answerB": "Hordeum maritmum"
+      },
+      {
+        "-id": "9",
+        "questionA": "Spikelets one-flowered; inflorescence very slender.",
+        "questionB": "Spikelets several-flowered.",
+        "answerA": "10",
+        "answerB": "14"
+      },
+      {
+        "-id": "10",
+        "questionA": "Spikelets awned.",
+        "questionB": "Spikelets awnless.",
+        "answerA": "Psilurus incurvus",
+        "answerB": "11"
+      },
+      {
+        "-id": "11",
+        "questionA": "Lateral spikelets with an upper but no lower glume.",
+        "questionB": "Lateral spikelets with both upper and lower glumes.",
+        "answerA": "Hainardia cylindrica",
+        "answerB": "12"
+      },
+      {
+        "-id": "12",
+        "questionA": "Spikes straight; spikelets fifteen to  thirty.",
+        "questionB": "Spikes curved; spikelets ten to twenty.",
+        "answerA": "Parapholis pycnantha",
+        "answerB": "13"
+      },
+      {
+        "-id": "13",
+        "questionA": "Spikes usually at least twice the length of the subtending internodes.",
+        "questionB": "Spikes only just exceeding the lengths of the subtending internodes.",
+        "answerA": "Parapholis incurva",
+        "answerB": "Parapholis filiformis"
+      },
+      {
+        "-id": "14",
+        "questionA": "Spikelets  placed  edgeways to the rachis; axillary spikelets with  only  one glume (the upper G2); terminal spikelets with both glumes.",
+        "questionB": "Spikelets placed broadside to the rachis; all spikelets with two glumes.",
+        "answerA": "15",
+        "answerB": "18"
+      },
+      {
+        "-id": "15",
+        "questionA": "Glumes equalling or exceeding the spikelets.",
+        "questionB": "Glumes usually distinctly shorter than the spikelets.",
+        "answerA": "16",
+        "answerB": "17"
+      },
+      {
+        "-id": "16",
+        "questionA": "Lemmas awned.",
+        "questionB": "Lemmas awnless.",
+        "answerA": "Lolium temulentum",
+        "answerB": "Lolium rigidum"
+      },
+      {
+        "-id": "17",
+        "questionA": "Spikelets of eight to fourteen florets; lemmas usually awned.",
+        "questionB": "Spikelets of eight to eleven florets; lemmas awnless.",
+        "answerA": "Lolium multiflorum",
+        "answerB": "Lolium perenne"
+      },
+      {
+        "-id": "18",
+        "questionA": "Lemma with a geniculate awn arising from the middle.",
+        "questionB": "Lemma awnless or with a straight terminal awn.",
+        "answerA": "Gaudinia fragilis",
+        "answerB": "19"
+      },
+      {
+        "-id": "19",
+        "questionA": "Spikelets in two ranks on opposite sides of the rachis.",
+        "questionB": "Spikelets spirally arranged.",
+        "answerA": "20",
+        "answerB": "27"
+      },
+      {
+        "-id": "20",
+        "questionA": "Spikelets 2-4 cm long.",
+        "questionB": "Spikelets less than 2 cm long.",
+        "answerA": "21",
+        "answerB": "24"
+      },
+      {
+        "-id": "21",
+        "questionA": "Annuals; spikelets few, laterally compressed; flag-leaf twisted.",
+        "questionB": "Perennials; spikelets terete; flag-leaf straight or curved, not twisted.",
+        "answerA": "Brachypodium distachyon",
+        "answerB": "22"
+      },
+      {
+        "-id": "22",
+        "questionA": "Leaves green, hairy; awns at least 7 mm long.",
+        "questionB": "Leaves glabrous; awns up to 4 mm, or lemmas awnless.",
+        "answerA": "Brachypodium sylvaticum",
+        "answerB": "23"
+      },
+      {
+        "-id": "23",
+        "questionA": "Leaves glaucous; spikelets one to seven, straight and rigid; lemmas awned.",
+        "questionB": "Leaves green; spikelets six to thirteen, often curved; awns less than 3 mm or lemmas awnless.",
+        "answerA": "Brachypodium retusum",
+        "answerB": "Brachypodium phoenicoides"
+      },
+      {
+        "-id": "24",
+        "questionA": "Rachis disarticulating on maturity, at predestined locations above each spikelet.",
+        "questionB": "Rachis not disarticulating at maturity.",
+        "answerA": "Elymus farctus",
+        "answerB": "25"
+      },
+      {
+        "-id": "25",
+        "questionA": "Plants caespitose, not rhizomatous.",
+        "questionB": "Plants spreading by rhizomes.",
+        "answerA": "Elymus elongatus",
+        "answerB": "26"
+      },
+      {
+        "-id": "26",
+        "questionA": "Leaves glaucous with sharp, hard-pointed tips.",
+        "questionB": "Leaves green, finely pointed but points not hard and sharp.",
+        "answerA": "Elymus pungens",
+        "answerB": "Elymus repens"
+      },
+      {
+        "-id": "27",
+        "questionA": "Rachis not disarticulating at maturity; glumes keeled at the back, blunt or with a short point; lemmas awnless or with a single long awn.",
+        "questionB": "Rachis  disarticulating  at maturity; glumes rounded on the back, with  two to four awns or teeth; lemmas with three to five awns or teeth.",
+        "answerA": "Triticum aestivum",
+        "answerB": "28"
+      },
+      {
+        "-id": "28",
+        "questionA": "Spike cylindrical, more than ten times as long as wide; glumes with teeth or very short awns.",
+        "questionB": "Spike conical  or ovate, less than ten times as long as wide; glumes with prominent awns.",
+        "answerA": "Aegilops ventricosa",
+        "answerB": "29"
+      },
+      {
+        "-id": "29",
+        "questionA": "Spike conical, about five times as long as wide, one or two vestigial spikelets at the base; awns of lemma shorter than awns of glumes.",
+        "questionB": "Spike ovate,, about twice as long as wide; awns of lemma more or less equal to awns of glumes.",
+        "answerA": "Aegilops triuncialis",
+        "answerB": "Aegilops geniculata"
+      },
+      {
+        "-id": "30",
+        "questionA": "Spike-like clusters alternate or spirally arranged.",
+        "questionB": "Spike-like clusters opposite or in a  terminal whorl.",
+        "answerA": "31",
+        "answerB": "32"
+      },
+      {
+        "-id": "31",
+        "questionA": "Caespitose annuals; leaf sheaths not overlapping; racemes up to 3 cm, four-rowed, unilateral.",
+        "questionB": "Creeping perennials; leaf  sheaths overlapping; racemes up to 2 cm, nether four-rowed nor unilateral.",
+        "answerA": "Echinochloa colonum",
+        "answerB": "Sporobolus pungens"
+      },
+      {
+        "-id": "32",
+        "questionA": "Bracts leafy conspicuous.",
+        "questionB": "Bracts not conspicuous.",
+        "answerA": "33",
+        "answerB": "34"
+      },
+      {
+        "-id": "33",
+        "questionA": "Spikes in pairs at the ends of branches off the main rachis; spikelets inserted singly.",
+        "questionB": "Spikes opposite, on either side of the main rachis; spikelets in pairs, one pedicel longer than the other.",
+        "answerA": "Hyparrhenia hirta",
+        "answerB": "Digitaria sanguinalis"
+      },
+      {
+        "-id": "34",
+        "questionA": "Panicle of three to five spikes arising from the top of the stem; leaf sheaths not ciliate on the margin; turf-forming perennials.",
+        "questionB": "Panicle of two spikes; leaf sheaths ciliate on the margin; creeping stoloniferous annuals.",
+        "answerA": "Cynodon dactylon",
+        "answerB": "Paspalum paspalodes"
+      },
+      {
+        "-id": "35",
+        "questionA": "Spikelets  in  short-stalked  branched clusters, closely grouped and forming a spike-like panicle.",
+        "questionB": "Spikelets long-stalked, forming an obvious spreading panicle.",
+        "answerA": "36",
+        "answerB": "75"
+      },
+      {
+        "-id": "36",
+        "questionA": "Spikelets of two kinds, sterile and fertile.",
+        "questionB": "Spikelets all similar, fertile.",
+        "answerA": "37",
+        "answerB": "39"
+      },
+      {
+        "-id": "37",
+        "questionA": "Sterile spikelets with oval, blunt, awnless glumes.",
+        "questionB": "Sterile spikelets linear lanceolate, acute or awned glumes.",
+        "answerA": "Lamarckia aurea",
+        "answerB": "38"
+      },
+      {
+        "-id": "38",
+        "questionA": "Leaves 3-9 mm wide; upper lemmas of sterile spikelets much the same shape as the lower lemmas.",
+        "questionB": "Leaves up to 3 mm wide; upper lemmas of sterile spikelets shorter and wider than the lower lemmas.",
+        "answerA": "Cynosurus echinatus",
+        "answerB": "Cynosurus elegans"
+      },
+      {
+        "-id": "39",
+        "questionA": "Glumes whitish with long silky hairs.",
+        "questionB": "Glumes glabrous, finely hairy or ciliate on keel.",
+        "answerA": "40",
+        "answerB": "44"
+      },
+      {
+        "-id": "40",
+        "questionA": "Leaves stiff, in-rolled; spikelets awnless.",
+        "questionB": "Leaves flexible, flat; spikelets awned.",
+        "answerA": "Imperata cylindrica",
+        "answerB": "41"
+      },
+      {
+        "-id": "41",
+        "questionA": "Leaves softly hairy; ligule short; inflorescence oval.",
+        "questionB": "Leaves glabrous; ligule elongated; inflorescence elongated.",
+        "answerA": "Lagurus ovatus",
+        "answerB": "42"
+      },
+      {
+        "-id": "42",
+        "questionA": "Stoloniferous perennials; panicle dense, interrupted, not silky; glumes and lemmas awnless.",
+        "questionB": "Annuals; panicle continuous, silky; glumes awned.",
+        "answerA": "Polypogon viridis",
+        "answerB": "43"
+      },
+      {
+        "-id": "43",
+        "questionA": "Glumes shortly ciliate, awned; lemma with apical awn.",
+        "questionB": "Glumes lengthily ciliate, awned; lemma awnless.",
+        "answerA": "Polypogon monspeliensis",
+        "answerB": "Polypogon maritimus"
+      },
+      {
+        "-id": "44",
+        "questionA": "Lemmas with white or grey silky hairs; spikelets awnless.",
+        "questionB": "Lemmas without silky hairs.",
+        "answerA": "45",
+        "answerB": "47"
+      },
+      {
+        "-id": "45",
+        "questionA": "Panicle distinctly branched, obvious; spikelets often purplish, up to 4 mm; lemmas hairless.",
+        "questionB": "Panicle with short branches, spike-like; spikelets greenish or straw-coloured, more than 4 mm; lemmas hairy.",
+        "answerA": "Melica minuta",
+        "answerB": "46"
+      },
+      {
+        "-id": "46",
+        "questionA": "Spikelets 4-8 mm; lemmas of fertile florets with long hairs on the margin and veins.",
+        "questionB": "Spikelets 8-10 mm; distal third of lemma glabrous.",
+        "answerA": "Melica ciliata",
+        "answerB": "Melica bauhinii"
+      },
+      {
+        "-id": "47",
+        "questionA": "Spikelets surrounded by a few bristle-like hairs.",
+        "questionB": "Spikelets not surrounded by hairs.",
+        "answerA": "48",
+        "answerB": "51"
+      },
+      {
+        "-id": "48",
+        "questionA": "Plants up to 100 cm; panicle lobed, 20-30 cm long, 2-3 cm wide; bristles one to three, green, barbs forward pointing, up to twice as long as the spikelets; spikelets disarticulating above the lower lemma at maturity; grains falling free from the spikelet at maturity.",
+        "questionB": "Plants up  to 50 cm; panicle cylindrical, 10-100 mm by 4-10 mm; bristles two to four times as long as the spikelets.",
+        "answerA": "Setaria italica",
+        "answerB": "49"
+      },
+      {
+        "-id": "49",
+        "questionA": "Panicle  interrupted;  bristles  green,  one  or  two  per  spikelet,  barbs backward pointing.",
+        "questionB": "Panicle continuous; bristles four to twelve per spikelet, barbs forward pointing.",
+        "answerA": "Setaria verticillata",
+        "answerB": "50"
+      },
+      {
+        "-id": "50",
+        "questionA": "Bristles pink or ginger.",
+        "questionB": "Bristles green.",
+        "answerA": "Setaria pumila",
+        "answerB": "Setaria viridis"
+      },
+      {
+        "-id": "51",
+        "questionA": "Spikelets with only one fertile floret.",
+        "questionB": "Spikelets with two or more fertile florets.",
+        "answerA": "52",
+        "answerB": "64"
+      },
+      {
+        "-id": "52",
+        "questionA": "Spikelets few, linear, 1-11 cm including the awn.",
+        "questionB": "Spikelets numerous, oval-lanceolate, less than 1 cm.",
+        "answerA": "53",
+        "answerB": "55"
+      },
+      {
+        "-id": "53",
+        "questionA": "Spikelets with awn 15-25 mm; awns straight, not twisted.",
+        "questionB": "Spikelets with  awn 7-11  cm;  awns bent,  twisted below the bend, straight above.",
+        "answerA": "Stipa bromoides",
+        "answerB": "54"
+      },
+      {
+        "-id": "54",
+        "questionA": "Panicle dense, resembling unbrushed hair.",
+        "questionB": "Panicle lax, not resembling unbrushed hair.",
+        "answerA": "Stipa capensis",
+        "answerB": "Stipa offneri"
+      },
+      {
+        "-id": "55",
+        "questionA": "Glumes with a distinctly winged keel.",
+        "questionB": "Glumes with a wingless keel.",
+        "answerA": "56",
+        "answerB": "61"
+      },
+      {
+        "-id": "56",
+        "questionA": "Perennials, with rhizomes or swollen stem bases.",
+        "questionB": "Annuals, without rhizomes or swollen stem bases.",
+        "answerA": "57",
+        "answerB": "58"
+      },
+      {
+        "-id": "57",
+        "questionA": "Plants with  rhizomes,  stems not  swollen  at  the base; panicle lobed towards the base; wings of glumes narrowed towards the tip.",
+        "questionB": "Plants without rhizomes, stems swollen at the base; panicle not lobed; wings of glumes dentate towards the tip.",
+        "answerA": "Phalaris aquatica",
+        "answerB": "Phalaris coerulescens"
+      },
+      {
+        "-id": "58",
+        "questionA": "Stems often branched  at  the base; panicle often partly enclosed in sheath of flag-leaf; groups of five to seven spikelets falling away at maturity exposing the rachis; wings of glumes with scabrid margin and single tooth towards the apex.",
+        "questionB": "Stems  usually  unbranched;  panicle  free  of  leaf   sheath;  spikelets persistent.",
+        "answerA": "Phalaris paradoxa",
+        "answerB": "59"
+      },
+      {
+        "-id": "59",
+        "questionA": "Spikelets 7-9 mm long; sterile lemmas at least as long as fertile lemmas; wings on glumes entire.",
+        "questionB": "Spikelets  4-6 mm long; sterile lemmas much shorter than fertile  lemmas.",
+        "answerA": "Phalaris canariensis",
+        "answerB": "60"
+      },
+      {
+        "-id": "60",
+        "questionA": "Wings on glumes dentate.",
+        "questionB": "Wings on glumes entire.",
+        "answerA": "Phalaris minor",
+        "answerB": "Phalaris brachystachys"
+      },
+      {
+        "-id": "61",
+        "questionA": "Glumes four, the outer two very unequal; stamens two.",
+        "questionB": "Glumes two; stamens three.",
+        "answerA": "Anthoxanthum odoratum",
+        "answerB": "62"
+      },
+      {
+        "-id": "62",
+        "questionA": "Panicles 10-25 cm long; spikelets c. 10 mm.",
+        "questionB": "Panicles usually less than 10 cm; spikelets 2-4 mm.",
+        "answerA": "Ammophila arenaria",
+        "answerB": "63"
+      },
+      {
+        "-id": "63",
+        "questionA": "Glumes fused at the base, tapering to an incurved apex; awn of lemma bent, rarely absent.",
+        "questionB": "Glumes not  fused, usually  abruptly  contracted  towards an outward curving tip; lemma awnless.",
+        "answerA": "Alopecurus myosuroides",
+        "answerB": "Phleum arenarium"
+      },
+      {
+        "-id": "64",
+        "questionA": "Lemma awnless or very short.",
+        "questionB": "Lemma with a long awn.",
+        "answerA": "65",
+        "answerB": "68"
+      },
+      {
+        "-id": "65",
+        "questionA": "Panicle one-sided; rachis wavy.",
+        "questionB": "Panicle not one-sided; cylindrical; rachis straight.",
+        "answerA": "Dactylis glomerata",
+        "answerB": "66"
+      },
+      {
+        "-id": "66",
+        "questionA": "Rhizomatous perennials; spikelets sessile, on spikes arranged in two ranks on either side of the rachis, awnless.",
+        "questionB": "Spikelets spirally arranged around the rachis.",
+        "answerA": "Aeluropus littoralis",
+        "answerB": "67"
+      },
+      {
+        "-id": "67",
+        "questionA": "Annuals; inflorescence lobed, not shining; lemmas bifid with a short straight awn from the apex.; glumes and palea awnless.",
+        "questionB": "Caespitose perennials; inflorescence shining, not lobed; glumes, lemma and palea all with very short awns.",
+        "answerA": "Lophochloa cristata",
+        "answerB": "Sesleria insularis"
+      },
+      {
+        "-id": "68",
+        "questionA": "Awn geniculate, arising from the back of the lemma.",
+        "questionB": "Awn straight, arising from the tip of the lemma.",
+        "answerA": "Trisetum aureum",
+        "answerB": "69"
+      },
+      {
+        "-id": "69",
+        "questionA": "Panicles highly branched, expanded; flowers chasmogamous; anthers 2-4 mm.",
+        "questionB": "Panicles  slightly branched, usually compact; flowers cleistogamous, anthers less than 2 mm.",
+        "answerA": "Vulpia geniculata",
+        "answerB": "70"
+      },
+      {
+        "-id": "70",
+        "questionA": "Pedicels dilated distally.",
+        "questionB": "Pedicels not dilated distally.",
+        "answerA": "71",
+        "answerB": "72"
+      },
+      {
+        "-id": "71",
+        "questionA": "Ovary pubescent at apex; culm rigid scarcely emergent from flag leaf.",
+        "questionB": "Ovary glabrous; culm slender well extended from flag leaf.",
+        "answerA": "Vulpia fasciculata",
+        "answerB": "Vulpia membranacea"
+      },
+      {
+        "-id": "72",
+        "questionA": "Culm distinctly ridged; upper glume lanceolate with prominent nerves.",
+        "questionB": "Culm  more  or  less  smooth;  upper  glume  setaceous or subulate, obscurely nerved.",
+        "answerA": "Vulpia bromoides",
+        "answerB": "73"
+      },
+      {
+        "-id": "73",
+        "questionA": "Distal three to seven lemmas sterile with long cilia.",
+        "questionB": "Distal one or two lemmas sterile at most, usually glabrous.",
+        "answerA": "Vulpia ciliata",
+        "answerB": "74"
+      },
+      {
+        "-id": "74",
+        "questionA": "Panicle normally well exserted from upper leaf-sheath; upper glume up to four times the length of the lower.",
+        "questionB": "Panicle normally partly included in the upper leaf-sheath; upper glume up to ten times the length of the upper.",
+        "answerA": "Vulpia muralis",
+        "answerB": "Vulpia myuros"
+      },
+      {
+        "-id": "75",
+        "questionA": "Spikelets with one fertile floret and often with sterile or rudimentary florets.",
+        "questionB": "Spikelets with two or more fertile florets.",
+        "answerA": "76",
+        "answerB": "90"
+      },
+      {
+        "-id": "76",
+        "questionA": "Spikelets in clusters of two to three, dissimilar, the fertile sessile, the sterile stalked; ligule replaced by hairs.",
+        "questionB": "Spikelets all similar, stalked, solitary or clustered.",
+        "answerA": "77",
+        "answerB": "78"
+      },
+      {
+        "-id": "77",
+        "questionA": "Spikelets surrounded by long plumose bristles which fall with the spikelet on maturity.",
+        "questionB": "Spikelets not surrounded by hairs or bristles.",
+        "answerA": "Pennisetum villosum",
+        "answerB": "Sorghum halepense"
+      },
+      {
+        "-id": "78",
+        "questionA": "Spikelets always containing one or two sterile male florets, as well as the fertile florets.",
+        "questionB": "Sterile florets absent or inconspicuous.",
+        "answerA": "79",
+        "answerB": "83"
+      },
+      {
+        "-id": "79",
+        "questionA": "Spikelets awnless.",
+        "questionB": "Spikelets awned, laterally compressed.",
+        "answerA": "80",
+        "answerB": "82"
+      },
+      {
+        "-id": "80",
+        "questionA": "Branches of panicle bearing one to three spikelets only.",
+        "questionB": "Branches of panicle bearing more than three spikelets.",
+        "answerA": "45",
+        "answerB": "81"
+      },
+      {
+        "-id": "81",
+        "questionA": "Robust annuals to 100 cm; leaves  green,  10-20 mm wide; spikelets 3-4 mm, often purplish.",
+        "questionB": "Rhizomatous perennials, stems to 80 cm; leaves glaucous, stiff, 3-6 mm wide; spikelets 2 mm, whitish.",
+        "answerA": "Panicum miliaceum",
+        "answerB": "Panicum repens"
+      },
+      {
+        "-id": "82",
+        "questionA": "Spikelets glabrous, 7-10 mm long.",
+        "questionB": "Spikelets softly hairy, 3-6 mm long.",
+        "answerA": "Arrhenatherum elatius",
+        "answerB": "Holcus lanatus"
+      },
+      {
+        "-id": "83",
+        "questionA": "Lemmas leathery, margins in-rolled; awns 2-30 cm.",
+        "questionB": "Lemmas not leathery, margins not in-rolled; awns less than 2 cm",
+        "answerA": "53",
+        "answerB": "84"
+      },
+      {
+        "-id": "84",
+        "questionA": "Spikelets rounded on the back; lemma awned",
+        "questionB": "Spikelets keeled.",
+        "answerA": "85",
+        "answerB": "86"
+      },
+      {
+        "-id": "85",
+        "questionA": "Perennials up to 150 cm; panicle up to 40 cm, branches four to eight at each node; spikelets 3-4 mm, often purplish.",
+        "questionB": "Perennials up to 70 cm; panicle up to 20 cm, branches one to two at each node; spikelets 6-8 mm.",
+        "answerA": "Piptatherum miliaceum",
+        "answerB": "Piptatherum coerulescens"
+      },
+      {
+        "-id": "86",
+        "questionA": "Glumes with a winged keel; leaves 8-16 mm wide.",
+        "questionB": "Glumes lacking a winged keel; leaves usually 1-6 mm wide.",
+        "answerA": "56",
+        "answerB": "87"
+      },
+      {
+        "-id": "87",
+        "questionA": "Panicles dense, spike-like.",
+        "questionB": "Panicles expanded, not spike-like; pedicels not enlarged and flattened at the top; spikelets not swollen and nit-like.",
+        "answerA": "88",
+        "answerB": "89"
+      },
+      {
+        "-id": "88",
+        "questionA": "Panicles shining; pedicels enlarged and flattened at the top; spikelets swollen and nit-like below.",
+        "questionB": "Panicles not shining; pedicels not enlarged and flattened at the top; spikelets not swollen or nit-like below.",
+        "answerA": "Gastridium ventricosum",
+        "answerB": "Triplachne nitens"
+      },
+      {
+        "-id": "89",
+        "questionA": "Caespitose perennials with leafy stolons; lemma usually awnless.",
+        "questionB": "Annuals; lemma with a 3 mm awn.",
+        "answerA": "Agrostis stolonifera",
+        "answerB": "Agrostis pourretii"
+      },
+      {
+        "-id": "90",
+        "questionA": "Glumes at least as long as the florets.",
+        "questionB": "Glumes much shorter than the florets.",
+        "answerA": "91",
+        "answerB": "99"
+      },
+      {
+        "-id": "91",
+        "questionA": "Florets surrounded by long white hairs; panicle silky haired.",
+        "questionB": "Florets not surrounded by long hairs.",
+        "answerA": "Arundo donax",
+        "answerB": "92"
+      },
+      {
+        "-id": "92",
+        "questionA": "Spikelets awnless.",
+        "questionB": "Spikelets awned.",
+        "answerA": "45",
+        "answerB": "93"
+      },
+      {
+        "-id": "93",
+        "questionA": "Spikelets two-flowered, 2-6 mm long; awn scarcely projecting.",
+        "questionB": "Spikelets two- to six-flowered, usually more than 5 mm long; awn, geniculate, prominent.",
+        "answerA": "Aira cupaniana",
+        "answerB": "94"
+      },
+      {
+        "-id": "94",
+        "questionA": "Panicles, dense,  elongated,  ovoid,  spike-like;  annuals; stems numerous, puberulent; glumes very unequal, the lower minute, the upper almost as long as the spikelet, mucronate.",
+        "questionB": "Panicles lax, not spike-like.",
+        "answerA": "Avellinia michelii",
+        "answerB": "95"
+      },
+      {
+        "-id": "95",
+        "questionA": "Spikelets 5-7 mm; lemma keeled.",
+        "questionB": "Spikelets 8-25 mm; lemma rounded at the back.",
+        "answerA": "Trisetum aureum",
+        "answerB": "96"
+      },
+      {
+        "-id": "96",
+        "questionA": "Spikelets always erect.",
+        "questionB": "Spikelets nodding at maturity.",
+        "answerA": "Avenula bromoides",
+        "answerB": "97"
+      },
+      {
+        "-id": "97",
+        "questionA": "Spikelets not disarticulating at maturity; lemmas without two bristles at the tip.",
+        "questionB": "Spikelets disarticulating at maturity; lemmas with two bristles at the tip.",
+        "answerA": "Avena sativa",
+        "answerB": "98"
+      },
+      {
+        "-id": "98",
+        "questionA": "Spikelets 18-30 mm long,  disarticulating  above  the  glumes  and between florets; lemma coated with wooly hairs at the back; bristles 3-12 mm long.",
+        "questionB": "Spikelets 25-45 mm long, disarticulating above the glumes; lemma with rigid hairs in the lower two-thirds of the back;  ristles 1-2 mm long.",
+        "answerA": "Avena barbata",
+        "answerB": "Avena sterilis"
+      },
+      {
+        "-id": "99",
+        "questionA": "Florets surrounded by long white silky hairs.",
+        "questionB": "Florets not surrounded by long hairs.",
+        "answerA": "100",
+        "answerB": "102"
+      },
+      {
+        "-id": "100",
+        "questionA": "Leaves narrow,  less  than 1  cm wide, margin  in-rolled;  l igule long, membranous.",
+        "questionB": "Leaves broad, 1-5 cm wide, margin in-rolled; ligule replaced by hairs.",
+        "answerA": "Ampelodesmos mauritanica",
+        "answerB": "101"
+      },
+      {
+        "-id": "101",
+        "questionA": "Stems robust, 2 cm or more across; rachilla and lemma with long hairs.",
+        "questionB": "Stems slender, c. 1 cm across; rachilla with long hairs; lemma glabrous.",
+        "answerA": "Arundo donax",
+        "answerB": "Phragmites australis"
+      },
+      {
+        "-id": "102",
+        "questionA": "Spikelets with only two fertile florets.",
+        "questionB": "Spikelets with three to thirty fertile florets.",
+        "answerA": "45",
+        "answerB": "103"
+      },
+      {
+        "-id": "103",
+        "questionA": "Spikelets nearly as broad as long, with a cordate base, on maturity trembling on slender stalks.",
+        "questionB": "Spikelets distinctly longer than broad, neither cordate at the base nor trembling.",
+        "answerA": "104",
+        "answerB": "105"
+      },
+      {
+        "-id": "104",
+        "questionA": "Spikelets 10-20 mm; silvery-white turning brownish-purple.",
+        "questionB": "Spikelets 2-4 mm, green.",
+        "answerA": "Briza maxima",
+        "answerB": "Briza minor"
+      },
+      {
+        "-id": "105",
+        "questionA": "Spikelets with overlapping florets arranged in two conspicuous ranks, awnless; ligule replaced by hairs.",
+        "questionB": "Spikelets  not conspicuously two-ranked, or if  two-ranked then awned; ligule membranous.",
+        "answerA": "106",
+        "answerB": "107"
+      },
+      {
+        "-id": "106",
+        "questionA": "Leaves eglandular.",
+        "questionB": "Leaves glandular on the margin and midrib.",
+        "answerA": "Eragrostis barrelieri",
+        "answerB": "Eragrostis cilianensis"
+      },
+      {
+        "-id": "107",
+        "questionA": "Panicles, dense, lobed, one-sided; rachis wavy.",
+        "questionB": "Panicles lax, usually not one-sided; rachis straight.",
+        "answerA": "Dactylis glomerata",
+        "answerB": "108"
+      },
+      {
+        "-id": "108",
+        "questionA": "Awn inserted near the middle of the back of the lemma.",
+        "questionB": "Awn more or less apical or absent.",
+        "answerA": "97",
+        "answerB": "109"
+      },
+      {
+        "-id": "109",
+        "questionA": "Lemma  finely notched,  awn  arising  from  the base of the notch or absent.",
+        "questionB": "Lemma not notched, awnless or with an apical awn.",
+        "answerA": "110",
+        "answerB": "117"
+      },
+      {
+        "-id": "110",
+        "questionA": "Spikelets closed, oval, longer than the awns.",
+        "questionB": "Spikelets expanded, triangular.",
+        "answerA": "111",
+        "answerB": "112"
+      },
+      {
+        "-id": "111",
+        "questionA": "Awns straight.",
+        "questionB": "Awns geniculate.",
+        "answerA": "Bromus hordeaceus",
+        "answerB": "Bromus lanceolatus"
+      },
+      {
+        "-id": "112",
+        "questionA": "Panicles lax, lower branches more than twice the length of  the  spikelets.",
+        "questionB": "Panicles compact, lower branches much shorter than the spikelets.",
+        "answerA": "113",
+        "answerB": "114"
+      },
+      {
+        "-id": "113",
+        "questionA": "Lower branches bearing up to two spikelets; spikelets including awns 7-9 cm, five- to eight-flowered.",
+        "questionB": "Lower branches bearing up to three spikelets; spikelets including awns 4-6 cm, four- to ten-flowered.", 
+        "answerA": "Bromus diandrus",
+        "answerB": "Bromus sterilis"
+      },
+      {
+        "-id": "114",
+        "questionA": "Panicles dense, individual spikelets difficult to discern.",
+        "questionB": "Panicles lax, individual spikelets easily discernable.",
+        "answerA": "115",
+        "answerB": "116"
+      },
+      {
+        "-id": "115",
+        "questionA": "Panicles 4-5 cm, usually green.",
+        "questionB": "Panicles 8 cm or more, usually reddish; culms densely pubescent beneath the panicles.",
+        "answerA": "Bromus fasciculatus",
+        "answerB": "Bromus rubens"
+      },
+      {
+        "-id": "116",
+        "questionA": "Branches up to a quarter the length of the spikelets, lowest spikelets sessile; spikelets 3-5 cm, erect, purplish-green.",
+        "questionB": "Longest branches as long as the spikelets, lowest spikelets stalked; spikelets 4-6 cm, spreading, purplish-green.",
+        "answerA": "Broums rigidus",
+        "answerB": "Bromus madritensis"
+      },
+      {
+        "-id": "117",
+        "questionA": "Spikelets rounded on the back.",
+        "questionB": "Spikelets keeled.",
+        "answerA": "118",
+        "answerB": "119"
+      },
+      {
+        "-id": "118",
+        "questionA": "Caespitose perennials 60-200 cm; leaves glabrous, blades flat, up to 10 mm wide, serrate, auricles ciliate; spikelets 10-15 mm.",
+        "questionB": "Caespitose perennials 5-50 cm; leaves rolled when fresh, less than 3 mm wide, apiculate; spikelets 4-7 mm.",
+        "answerA": "Festuca arundinacea",
+        "answerB": "Puccinellia fasciculata"
+      },
+      {
+        "-id": "119",
+        "questionA": "Lemma with an awn as long as itself.",
+        "questionB": "Lemmas awnless.",
+        "answerA": "69",
+        "answerB": "120"
+      },
+      {
+        "-id": "120",
+        "questionA": "Spikelets on slender, flexible stalks.",
+        "questionB": "Spikelets on robust, rigid stalks.",
+        "answerA": "121",
+        "answerB": "126"
+      },
+      {
+        "-id": "121",
+        "questionA": "Branching more or  less  strictly divaricate; paired  spikelets  each on pedicels which gradually become thickened towards the spikelet.",
+        "questionB": "Branching  irregular;  pedicels not becoming thickened towards the spikelet.",
+        "answerA": "Sphenopus divaricatus",
+        "answerB": "122"
+      },
+      {
+        "-id": "122",
+        "questionA": "Caespitose  annuals or  short-lived perennials; leaf blades flat, often transversely wrinkled, ligule 2-3 mm; panicle 1-8 cm, branches one or  two together, spreading or deflexed after flowering.",
+        "questionB": "Caespitose  perennials;  branches of panicle not deflexed after  flowering.",
+        "answerA": "Poa annua",
+        "answerB": "123"
+      },
+      {
+        "-id": "123",
+        "questionA": "Stems bulbous at the base, tapering above.",
+        "questionB": "Stems terete, not bulbous.",
+        "answerA": "Poa bulbosa",
+        "answerB": "124"
+      },
+      {
+        "-id": "124",
+        "questionA": "Branches of panicle minutely scabrid, one or two together; lemmas lanate at base.",
+        "questionB": "Branches of panicle smooth, three to five together; lemmas not lanate at base.",
+        "answerA": "Poa flaccidula",
+        "answerB": "125"
+      },
+      {
+        "-id": "125",
+        "questionA": "Plants stoloniferous; ligule 4-10 mm, acute; culms scabrid below the panicle.",
+        "questionB": "Plants not stoloniferous; ligule 1-3 mm, truncate; culms smooth.",
+        "answerA": "Poa trivialis",
+        "answerB": "Poa angustifolia"
+      },
+      {
+        "-id": "126",
+        "questionA": "Panicles with divaricate branches; spikelets 9-15 mm long, four- to seven-flowered; plants turning blackish purple under dry conditions.",
+        "questionB": "Spikes or panicles without  divaricate  branching; spikelets 4-9 mm long, four-  to  twelve-flowered;  plants  turning  range-red under dry conditions.",
+        "answerA": "Cutandia maritima",
+        "answerB": "127"
+      },
+      {
+        "-id": "127",
+        "questionA": "Inflorescence a spike, rarely branching below; lower glume acute, upper blunt.",
+        "questionB": "Inflorescence  a  panicle,  usually  branching below; both glumes acuminate.",
+        "answerA": "Desmazeria marina",
+        "answerB": "128"
+      },
+      {
+        "-id": "128",
+        "questionA": "Inflorescence spike-like above, branching below.",
+        "questionB": "Inflorescence branching at all levels.",
+        "answerA": "Desmazeria rigida",
+        "answerB": "Desmazeria balearica"
+      }
+    ]
+  }

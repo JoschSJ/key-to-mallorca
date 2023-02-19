@@ -1,0 +1,88 @@
+{
+  "question": [
+    {
+      "-id": "1",
+      "questionA": "Plant reproducing by spores.",
+      "questionB": "Plant not reproducing by spores.",
+      "answerA": "Group-A-Pteridophytes",
+      "answerB": "2"
+    },
+    {
+      "-id": "2",
+      "questionA": "Cone-bearing trees and shrubs; seeds not enclosed in an ovary; leaves needle-like or scale-like.",
+      "questionB": "Flower-bearing trees, shrubs or herbs; seeds enclosed in an ovary; leaves usually broad and flattened.",
+      "answerA": "Group-B-Gymnosperms",
+      "answerB": "3"
+    },
+    {
+      "-id": "3",
+      "questionA": "Plants free-floating on or below surface of water, not rooted in mud.",
+      "questionB": "Land plants or aquatic plants, rooted in mud.",
+      "answerA": "Group-C-Angiosperms",
+      "answerB": "4"
+    },
+    {
+      "-id": "4",
+      "questionA": "Perianth of two (rarely more) whorls, differing markedly from each other in shape, size or colour.",
+      "questionB": "Perianth not of two or more distinct whorls",
+      "answerA": "5",
+      "answerB": "10"
+    },
+    {
+      "-id": "5",
+      "questionA": "Petals normally free, never forming a basal tube, rarely cohering at apex.",
+      "questionB": "Petals united at base to form a tube.",
+      "answerA": "6",
+      "answerB": "9"
+    },
+    {
+      "-id": "6",
+      "questionA": "Flowers hypogynous or perigynous.",
+      "questionB": "Flowers epigynous.",
+      "answerA": "7",
+      "answerB": "Group-G-Angiosperms"
+    },
+    {
+      "-id": "7",
+      "questionA": "Carpels two or more, free or united only at the base.",
+      "questionB": "Ovary of one carpel or carpels obviously united.",
+      "answerA": "Group-D-Angiosperms",
+      "answerB": "8"
+    },
+    {
+      "-id": "8",
+      "questionA": "Flowers actinomorphic.",
+      "questionB": "Flowers zygomorphic.",
+      "answerA": "Group-E-Angiosperms",
+      "answerB": "Group-F-Angiosperms"
+    },
+    {
+      "-id": "9",
+      "questionA": "Flowers hypogynous.",
+      "questionB": "Flowers epigynous.",
+      "answerA": "Group-H-Angiosperms",
+      "answerB": "Group-I-Angiosperms"
+    },
+    {
+      "-id": "10",
+      "questionA": "Perianth entirely petaloid and brightly coloured.",
+      "questionB": "Perianth not petaloid, often absent, if brightly coloured then scarious.",
+      "answerA": "Group-J-Angiosperms",
+      "answerB": "11"
+    },
+    {
+      "-id": "11",
+      "questionA": "Trees or shrubs, sometimes small.",
+      "questionB": "Herbs.",
+      "answerA": "Group-K-Angiosperms",
+      "answerB": "12"
+    },
+    {
+      "-id": "12",
+      "questionA": "Aquatic plants; leaves submerged or floating; flowers usually submerged, occasionally above the surface.",
+      "questionB": "Terrestrial plants or, if aquatic, then with inflorescence and either stems or leaves above the surface.",
+      "answerA": "Group-L-Angiosperms",
+      "answerB": "Group-M-Angiosperms"
+    }
+  ]
+}

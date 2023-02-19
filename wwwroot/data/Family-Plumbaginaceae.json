@@ -1,0 +1,32 @@
+{
+     "question": [
+      {
+        "-id": "1",
+        "questionA": "Much branched annual herbs; spikelets of one flower, curved; inner bract tuberculate.",
+        "questionB": "Woody-based perennials; spikelets of several flowers; inner bract not tuberculate.",
+        "answerA": "Limonium echioides",
+        "answerB": "2"
+      },
+      {
+        "-id": "2",
+        "questionA": "Leaves  small, papillose, forming cushion-like rosettes at the top  of  short woody branches; inflorescence zig-zag in form, with some short sterile branches at the base.",
+        "questionB": "Leaves not forming a cushion-like rosette; inflorescence not in the form of a zig-zag.",
+        "answerA": "Limonium minutum",
+        "answerB": "3"
+      },
+      {
+        "-id": "3",
+        "questionA": "All branches of inflorescence fertile.",
+        "questionB": "Several branches of inflorescence sterile.",
+        "answerA": "Limonium camposanum",
+        "answerB": "4"
+      },
+      {
+        "-id": "4",
+        "questionA": "Sterile branches many; inner bract with brownish margin and hyaline tip; calyx teeth short and blunt.",
+        "questionB": "Sterile branches few; inner bract with wide hyaline margin; calyx teeth prominent, uncinate.",
+        "answerA": "Limonium virgatum",
+        "answerB": "Limonium connivens"
+      }
+    ]
+  }

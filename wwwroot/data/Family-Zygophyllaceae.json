@@ -1,0 +1,18 @@
+{
+   "question": [
+      {
+        "-id": "1",
+        "questionA": "Leaves pinnate with five or more pairs of leaflets; flowers yellow; fruit globular, spiny.",
+        "questionB": "Leaves with two to three leaflets; flowers white or pink; fruit not spiny.",
+        "answerA": "Tribulus terrestris",
+        "answerB": "2"
+      },
+      {
+        "-id": "2",
+        "questionA": "Leaves ternate; petals deep pink; fruit globular, hairy",
+        "questionB": "Leaves of two leaflets; petals white; fruit ellipsoid, glabrous.",
+        "answerA": "Fagonia cretica",
+        "answerB": "Zygophyllum fabago"
+      }
+    ]
+  }

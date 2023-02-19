@@ -1,0 +1,19 @@
+{
+  
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Carpels six to ten, long-beaked and spreading to form a star.",
+        "questionB": "Carpels numerous, not beaked.",
+        "answerA": "Damasonium alisma",
+        "answerB": "2"
+      },
+      {
+        "-id": "2",
+        "questionA": "Leaves mainly  cordate  or  truncate  at  base,  occasionally cuneate; flowers white or lilac, opening a.m.; style arising below the middle of the fruit.",
+        "questionB": "Leaves always cuneate at base;  flowers  pink, opening  p.m.; style arising near top of fruit.",
+        "answerA": "Alisma plantago-aquatica",
+        "answerB": "Alisma lanceolatum"
+      }
+    ]
+  }

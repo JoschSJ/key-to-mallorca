@@ -1,0 +1,312 @@
+{
+   "question": [
+      {
+        "-id": "1",
+        "questionA": "Perianth absent or represented by minutes scales or bristles; flowers in the axils of bracts, often arranged in spikelets; leaves usually linear, sheathing below.",
+        "questionB": "Perianth present or flowers not arranged in spikelets.",
+        "answerA": "2",
+        "answerB": "3"
+      },
+      {
+        "-id": "2",
+        "questionA": "Flowers usually with a bract above and below; leaf sheaths usually open; stems usually with hollow internodes.",
+        "questionB": "Flowers with only a lower bract; leaf sheaths usually closed; stems usually with solid internodes.",
+        "answerA": "Family-Poaceae",
+        "answerB": "Family-Cyperaceae"
+      },
+      {
+        "-id": "3",
+        "questionA": "Climbing plants with unisexual flowers.",
+        "questionB": "Non-climbers unless with hermaphrodite flowers.",
+        "answerA": "Tamus communis",
+        "answerB": "4"
+      },
+      {
+        "-id": "4",
+        "questionA": "Leaves linear.",
+        "questionB": "Leaves never linear.",
+        "answerA": "5",
+        "answerB": "14"
+      },
+      {
+        "-id": "5",
+        "questionA": "Flowers unisexual.",
+        "questionB": "Flowers hermaphrodite.",
+        "answerA": "6",
+        "answerB": "9"
+      },
+      {
+        "-id": "6",
+        "questionA": "Flowers in axillary clusters; male flowers with ten to thirty stamens.",
+        "questionB": "Flowers not in axillary clusters; male flowers with up to eight stamens.",
+        "answerA": "Theligonum cynocrambe",
+        "answerB": "7"
+      },
+      {
+        "-id": "7",
+        "questionA": "Female flowers solitary, male flowers solitary or in short cymes.",
+        "questionB": "Male and female flowers numerous, in dense heads or spikes.",
+        "answerA": "Family-Chenopodiaceae",
+        "answerB": "8"
+      },
+      {
+        "-id": "8",
+        "questionA": "Male and female flowers in separate globose heads.",
+        "questionB": "Flowers in a dense cylindrical spike, male above, female below.",
+        "answerA": "Sparganium erectum",
+        "answerB": "Family-Typhaceae"
+      },
+      {
+        "-id": "9",
+        "questionA": "Plant densely hairy.",
+        "questionB": "Plant glabrous or sparsely hairy.",
+        "answerA": "Family-Chenopodiaceae",
+        "answerB": "10"
+      },
+      {
+        "-id": "10",
+        "questionA": "Flowers in a dense spike (spadix) surrounded by a leaf-like stem (spathe).",
+        "questionB": "Inflorescence not as above.",
+        "answerA": "Family-Araceae",
+        "answerB": "11"
+      },
+      {
+        "-id": "11",
+        "questionA": "Carpel one.",
+        "questionB": "Carpels more than one.",
+        "answerA": "12",
+        "answerB": "13"
+      },
+      {
+        "-id": "12",
+        "questionA": "Leaves not in whorls, stipules absent.",
+        "questionB": "Leaves more or less in whorls, stipules minute.",
+        "answerA": "Family-Chenopodiaceae",
+        "answerB": "Family-Caryophyllaceae"
+      },
+      {
+        "-id": "13",
+        "questionA": "Leaves with a conspicuous apical pore; carpels free above the base.",
+        "questionB": "Leaves lacking an apical pore; carpels fused.",
+        "answerA": "Triglochin bulbosa",
+        "answerB": "Family-Juncaceae"
+      },
+      {
+        "-id": "14",
+        "questionA": "Leaves compound.",
+        "questionB": "Leaves simple or apparently absent.",
+        "answerA": "15",
+        "answerB": "18"
+      },
+      {
+        "-id": "15",
+        "questionA": "Flowers in compound umbels.",
+        "questionB": "Flowers not in compound umbels.",
+        "answerA": "Family-Apiaceae",
+        "answerB": "16"
+      },
+      {
+        "-id": "16",
+        "questionA": "Flowers in dense heads.",
+        "questionB": "Flowers not in dense heads.",
+        "answerA": "Family-Rosaceae",
+        "answerB": "17"
+      },
+      {
+        "-id": "17",
+        "questionA": "Epicalyx absent; stamens numerous.",
+        "questionB": "Epicalyx present; stamens four, or five to ten.",
+        "answerA": "Family-Ranunculaceae",
+        "answerB": "Family-Rosaceae"
+      },
+      {
+        "-id": "18",
+        "questionA": "Flowers numerous, small, crowded on an axis (spadix), subtended and often more or less enclosed by bract (spathe).",
+        "questionB": "Inflorescence not as above.",
+        "answerA": "Family-Araceae",
+        "answerB": "19"
+      },
+      {
+        "-id": "19",
+        "questionA": "Inflorescence of severalmale flowers, each of one stamen, and a female flower, appearing as a stalked ovary, all surrounded by four or five conspicuous glands; plants with milky latex.",
+        "questionB": "Inflorescence not as above; latex absent.",
+        "answerA": "Family-Euphorbiaceae",
+        "answerB": "20"
+      },
+      {
+        "-id": "20",
+        "questionA": "Stem green and succulent; leaves apparently absent.",
+        "questionB": "Stem not succulent; leaves conspicuous.",
+        "answerA": "Family-Chenopodiaceae",
+        "answerB": "21"
+      },
+      {
+        "-id": "21",
+        "questionA": "Plant densely clothed with star-shaped hairs; ovary three-celled with one ovule in each cell.",
+        "questionB": "Plants not as above.",
+        "answerA": "Family-Euphorbiaceae",
+        "answerB": "22"
+      },
+      {
+        "-id": "22",
+        "questionA": "Annuals coated with dense papillae.",
+        "questionB": "Annuals without papillae.",
+        "answerA": "Family-Aizoaceae",
+        "answerB": "23"
+      },
+      {
+        "-id": "23",
+        "questionA": "Leaves alternate or radical (the lower leaves rarely opposite).",
+        "questionB": "Leaves opposite (a few upper leaves rarely alternate).",
+        "answerA": "24",
+        "answerB": "36"
+      },
+      {
+        "-id": "24",
+        "questionA": "Stamens numerous; carpels free except sometimes at the base.",
+        "questionB": "Stamens twelve or fewer; carpels united on a central axis, fused or ovary of one carpel.",
+        "answerA": "Family-Ranunculaceae",
+        "answerB": "25"
+      },
+      {
+        "-id": "25",
+        "questionA": "Carpels attached to a central axis, otherwise free.",
+        "questionB": "Carpels fused or ovary of one carpel.",
+        "answerA": "Phytolacca americana",
+        "answerB": "26"
+      },
+      {
+        "-id": "26",
+        "questionA": "Stamens twelve.",
+        "questionB": "Stamens ten or fewer.",
+        "answerA": "Family-Aristolochiaceae",
+        "answerB": "27"
+      },
+      {
+        "-id": "27",
+        "questionA": "Stipules united into a sheath.",
+        "questionB": "Stipules free or absent.",
+        "answerA": "Family-Polygonaceae",
+        "answerB": "28"
+      },
+      {
+        "-id": "28",
+        "questionA": "Stipules leaf-like; epicalyx present.",
+        "questionB": "Stipules small or absent; epicalyx absent.",
+        "answerA": "Family-Rosaceae",
+        "answerB": "29"
+      },
+      {
+        "-id": "29",
+        "questionA": "Flowers hypogynous.",
+        "questionB": "Flowers epigynous.",
+        "answerA": "30",
+        "answerB": "35"
+      },
+      {
+        "-id": "30",
+        "questionA": "Perianth tubular below.",
+        "questionB": "Perianth segments more or less free, rarely absent in female flowers.",
+        "answerA": "31",
+        "answerB": "32"
+      },
+      {
+        "-id": "31",
+        "questionA": "Ovule attached at base to ovary wall.",
+        "questionB": "Ovule attached above and hanging.",
+        "answerA": "Family-Chenopodiaceae",
+        "answerB": "Family-Thymelaeaceae"
+      },
+      {
+        "-id": "32",
+        "questionA": "Perianth segments four.",
+        "questionB": "Perianth segments five.",
+        "answerA": "33",
+        "answerB": "34"
+      },
+      {
+        "-id": "33",
+        "questionA": "Flowers in elongated spike-like inflorescences without bracts.",
+        "questionB": "Flowers in axillary clusters.",
+        "answerA": "Family-Brassicaceae",
+        "answerB": "Family-Urticaceae"
+      },
+      {
+        "-id": "34",
+        "questionA": "Perianth green leaf-like.",
+        "questionB": "Perianth dry, rigid, not green.",
+        "answerA": "Family-Chenopodiaceae",
+        "answerB": "Family-Amaranthaceae"
+      },
+      {
+        "-id": "35",
+        "questionA": "Leaves reniform.",
+        "questionB": "Leaves subulate to linear-lanceolate.",
+        "answerA": "Saxifraga tridactylites",
+        "answerB": "Family-Santalaceae"
+      },
+      {
+        "-id": "36",
+        "questionA": "Leaves dentate or lobed.",
+        "questionB": "Leaves entire.",
+        "answerA": "37",
+        "answerB": "40"
+      },
+      {
+        "-id": "37",
+        "questionA": "Flowers hermaphrodite.",
+        "questionB": "Flowers unisexual.",
+        "answerA": "38",
+        "answerB": "39"
+      },
+      {
+        "-id": "38",
+        "questionA": "Flowers epigynous; stigmas two.",
+        "questionB": "Flowers hypogynous; stigmas five.",
+        "answerA": "Saxifraga tridactylites",
+        "answerB": "Family-Geraniaceae"
+      },
+      {
+        "-id": "39",
+        "questionA": "Perianth segments two or four; style one.",
+        "questionB": "Perianth segments three; styles two.",
+        "answerA": "Family-Urticaceae",
+        "answerB": "Family-Euphorbiaceae"
+      },
+      {
+        "-id": "40",
+        "questionA": "Perianth absent; ovary compressed, four-lobed.",
+        "questionB": "Perianth present; ovary not compressed and four-lobed.",
+        "answerA": "Family-Callitrichaceae",
+        "answerB": "41"
+      },
+      {
+        "-id": "41",
+        "questionA": "Perianth segments three.",
+        "questionB": "Perianth segments four or more.",
+        "answerA": "Family-Polygonaceae",
+        "answerB": "42"
+      },
+      {
+        "-id": "42",
+        "questionA": "Flowers epigynous.",
+        "questionB": "Flowers hypogynous.",
+        "answerA": "Family-Onagraceae",
+        "answerB": "43"
+      },
+      {
+        "-id": "43",
+        "questionA": "Perianth segments six or twelve; style and stigma one.",
+        "questionB": "Perianth segments four or five; styles or stigmas two or more.",
+        "answerA": "Family-Lythraceae",
+        "answerB": "44"
+      },
+      {
+        "-id": "44",
+        "questionA": "Leaves with a long spiny apex; fruit transversely winged.",
+        "questionB": "Leaves without a long spiny apex; fruit wingless.",
+        "answerA": "Family-Chenopodiaceae",
+        "answerB": "Family-Caryophyllaceae"
+      }
+    ]
+  }

@@ -1,0 +1,165 @@
+{
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Trees or shrubs.",
+        "questionB": "Herbs.",
+        "answerA": "2",
+        "answerB": "21"
+      },
+      {
+        "-id": "2",
+        "questionA": "Leaves compound.",
+        "questionB": "Leaves simple.",
+        "answerA": "3",
+        "answerB": "14"
+      },
+      {
+        "-id": "3",
+        "questionA": "Carpels free, exposed over the surface of the receptacle.",
+        "questionB": "Carpels enclosed in a fleshy receptacle.",
+        "answerA": "4",
+        "answerB": "7"
+      },
+      {
+        "-id": "4",
+        "questionA": "Non-spiny shrubs; petals yellow.",
+        "questionB": "Spiny shrubs; petals white or purple.",
+        "answerA": "5",
+        "answerB": "6"
+      },
+      {
+        "-id": "5",
+        "questionA": "Herbaceous  perennials with creeping stems, rooting at the nodes; flowers yellow (see below).",
+        "questionB": "Erect shrubs; flowers white.",
+        "answerA": "Potentilla reptans",
+        "answerB": "Potentilla caulescens"
+      },
+      {
+        "-id": "6",
+        "questionA": "Stems strong, arching; leaflets three to five, broad, dark green above, white tomentose below; petals lilac; druplets more than twenty.",
+        "questionB": "Stems weak, straggling; leaflets three; narrow, light green above and below; petals white; druplets fewer than twenty, especially in axillary fruits.",
+        "answerA": "Rubus ulmifolius",
+        "answerB": "Rubus caesius"
+      },
+      {
+        "-id": "7",
+        "questionA": "Non-spiny trees; carpels fused to receptacle.",
+        "questionB": "Spiny shrubs; carpels free within receptacle.",
+        "answerA": "8",
+        "answerB": "9"
+      },
+      {
+        "-id": "8",
+        "questionA": "Leaves pinnate; inflorescence dense, many-flowered; fruits 20-50 mm, orange-red.",
+        "questionB": "Leaves simple; inflorescence lax, few-flowered; fruits 8-15 mm, scarlet.",
+        "answerA": "Sorbus domestica",
+        "answerB": "Sorbus aria"
+      },
+      {
+        "-id": "9",
+        "questionA": "Sepals usually entire; styles fused.",
+        "questionB": "Sepals with lateral lobes; styles free.",
+        "answerA": "10",
+        "answerB": "11"
+      },
+      {
+        "-id": "10",
+        "questionA": "Trailing shrubs; leaves deciduous; petioles with stalked glands; column of fused styles as long as shortest stamen, styles glabrous.",
+        "questionB": "Erect shrubs; leaves evergreen; petioles eglandular; column of fused styles shorter than smallest stamen, styles hairy.",
+        "answerA": "Rosa arvensis",
+        "answerB": "Rosa sempervirens"
+      },
+      {
+        "-id": "11",
+        "questionA": "Abaxial surface either eglandular or with glands restricted to the veins; sepals reflexed, caducous.",
+        "questionB": "Abaxial surface of leaves coated with conspicuous brown, viscid fruit-scented glands.",
+        "answerA": "Rosa canina",
+        "answerB": "12"
+      },
+      {
+        "-id": "12",
+        "questionA": "Leaves cuneate at base; pedicels glabrous.",
+        "questionB": "Leaflets rounded at the base; pedicels glandular-hispid.",
+        "answerA": "Rosa agrestis",
+        "answerB": "13"
+      },
+      {
+        "-id": "13",
+        "questionA": "Stems erect; prickles usually unequal; styles pilose; sepals not reflexed persistent in fruit.",
+        "questionB": "Stems  arching; prickles more or  less  equal;  styles glabrous;  sepals reflexed, caducous.",
+        "answerA": "Rosa rubiginosa",
+        "answerB": "Rosa micrantha"
+      },
+      {
+        "-id": "14",
+        "questionA": "Carpels free, exposed over surface of receptacle.",
+        "questionB": "Carpels enclosed in a fleshy receptacle.",
+        "answerA": "15",
+        "answerB": "16"
+      },
+      {
+        "-id": "15",
+        "questionA": "Spiny shrub; flowers appearing before the leaves; pericarp softly fleshy with a waxy bloom, not splitting on ripening.",
+        "questionB": "Small tree; flowers appearing after the leaves; pericarp firmly fleshy densely hairy, splitting on ripening to release large seed.",
+        "answerA": "Prunus spinosa",
+        "answerB": "Prunus dulcis"
+      },
+      {
+        "-id": "16",
+        "questionA": "Flowers solitary.",
+        "questionB": "Flowers in clusters of two or more.",
+        "answerA": "17",
+        "answerB": "18"
+      },
+      {
+        "-id": "17",
+        "questionA": "Sepals dentate, blunt, shorter than petals.",
+        "questionB": "Sepals entire, long pointed, longer than petals.",
+        "answerA": "Cydonia oblonga",
+        "answerB": "Mespilus germanica"
+      },
+      {
+        "-id": "18",
+        "questionA": "Pericarp (n.b. not receptacle) hard and stone-like in fruit.",
+        "questionB": "Pericarp fleshy in fruit but test sometimes hard.",
+        "answerA": "Crataegus monogyna",
+        "answerB": "19"
+      },
+      {
+        "-id": "19",
+        "questionA": "Inflorescence a simple umbel, or few-flowered.",
+        "questionB": "Inflorescence compound, made up of smaller clusters.",
+        "answerA": "Amelanchier ovalis",
+        "answerB": "20"
+      },
+      {
+        "-id": "20",
+        "questionA": "Leaves deciduous.",
+        "questionB": "Leaves evergreen.",
+        "answerA": "8",
+        "answerB": "Eriobotrya japonica"
+      },
+      {
+        "-id": "21",
+        "questionA": "Petals absent.",
+        "questionB": "Petals present.",
+        "answerA": "22",
+        "answerB": "Agrimonia eupatoria"
+      },
+      {
+        "-id": "22",
+        "questionA": "Leaves pinnate; stamens four or many.",
+        "questionB": "Leaves simple or palmately divided; stamens one or two.",
+        "answerA": "Sanguisorba minor",
+        "answerB": "23"
+      },
+      {
+        "-id": "23",
+        "questionA": "Procumbent annual; all leaves petiolate; sepals erect in fruit.",
+        "questionB": "Erect annual; upper leaves sessile; sepals spreading in fruit.",
+        "answerA": "Aphanes arvensis",
+        "answerB": "Aphanes floribunda"
+      }
+    ]
+  }

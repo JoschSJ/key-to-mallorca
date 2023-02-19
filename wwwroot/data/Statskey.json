@@ -1,0 +1,93 @@
+{
+	"question": [{
+		"-id": "0",
+		"questionA": "Data are <b>measurements</b> e.g length, height, area etc.",
+		"questionB": "Data are <b>frequencies</b> e.g. number of males vs females in a sample",
+		"questionC": "Data are <b>ranks</b> e.g. fast, medium slow",
+		"answerA": "1",
+		"answerB": "13",
+		"answerC": "8"
+	}, {
+		"-id": "1",
+		"questionA": "Data are known (or thought) to be normally distributed (includes data which can be transformed to become approx. normal)",
+		"questionB": "Data are not normally distributed",
+		"answerA": "2",
+		"answerB": "8"
+	}, {
+		"-id": "2",
+		"questionA": "I am looking for differences between datasets or between a dataset and an expected value",
+		"questionB": "I am looking for an assocation between datasets",
+		"answerA": "3",
+		"answerB": "7"
+	}, {
+		"-id": "3",
+		"questionA": "I have one dataset, which I wish to compare with an expected value",
+		"questionB": "I have two datasets, which I wish to compare to one another",
+		"questionC": "I have more than two datasets which I wish to compare",
+		"answerA": "You need a <b>single sample t-test</b>.  See section on t-tests in the drop down menu above",
+		"answerB": "4",
+		"answerC": "5"
+	}, {
+		"-id": "4",
+		"questionA": "The datasets I wish to compare are made up of paired values (e.g. the same parameter measured on an individula before and after a treatment.",
+		"questionB": "The datasets I wish to compare are not made up of matched pairs.",
+		"answerA": "You need a <b>paired t-test</b>.  See section on t-tests using the drop down menu above",
+		"answerB": "You need a <b>two sample t-test</b>.  See section on t-tests using the drop down menu above"
+	}, {
+		"-id": "5",
+		"questionA": "The data I wish to compare are measuring a single parameter across different samples or populations",
+		"questionB": "The data I wish to compare are measuring multiple parameters across different samples or populations and I am looking for interactions between those parameters.",
+		"answerA": "6",
+		"answerB": "The test you require is a <b>2-way Analysis of Variance (ANOVA)</b>.  Further information about this test can be obtained from any good statistics text or from your data handling course."
+	}, {
+		"-id": "6",
+		"questionA": "The datasets I wish to compare are made up or paired values, e.g. the same parameter measured on sets of individuals across different timepoints.",
+		"questionB": "The datasets I wish to compare are not made up of paired values",
+		"answerA": "The test you require is a <b>Repeated Measures Analysis of Variance (ANOVA)</b>.  Further information about this test can be obtained from any good statistics text or from your data handling course",
+		"answerB": "The test you require is a <b>1-way Analysis of Variance (ANOVA)</b>.  Further information about this test can be obtained from any good statistics text or from your data handling course"
+	}, {
+		"-id": "7",
+		"questionA": "I expect one of the parameters I am measuring to be unaffected by the other, e.g. time of day, is unaffected by temperature",
+		"questionB": "There is no parameters I am measuring that is clearly known to be unaffected by the other. They may interact, or both respond to another factor.",
+		"answerA": "The test you need to perform is <b>regression analysis</b>, which allows you to examine how one parameter changes in response to chnages in another.  Further information about this test can be obtained from any good statistics text or from your data handling course",
+		"answerB": "You need to estimate a <b>correlation coefficient</b> which will allow you to determine whether 2 parameters are related. Further information about this test can be obtained from any good statistics text or from your data handling course"
+	}, {
+		"-id": "8",
+		"questionA": "I am looking for differences between datasets or between a dataset and an expected value",
+		"questionB": "I am looking for an assocation between datasets",
+		"answerA": "9",
+		"answerB": "You can examine these data using <b>rank correlation</b>. Further information about this test can be obtained from any good statistics text or from your data handling course."
+	}, {
+		"-id": "9",
+		"questionA": "I have one dataset, which I wish to compare with an expected value",
+		"questionB": "I have 2 datasets, which I wish to compare to one another",
+		"questionC": "I have more than 2 datasets which I wish to compare",
+		"answerA": "You need a <b>one sample sign test</b>.  Further information about this test can be obtained from any good statistics text or from your data handling course",
+		"answerB": "10",
+		"answerC": "11"
+	}, {
+		"-id": "10",
+		"questionA": "The datasets I wish to compare are made up of paired values (e.g. the same parameter measured on an individula before and after a treatment.",
+		"questionB": "The datasets I wish to compare are not made up of matched pairs.",
+		"answerA": "You need a <b>Wilcoxon matched pair test</b>.  Further information about this test can be obtained from any good statistics text or from your data handling course",
+		"answerB": "You need a <b>Mann-Whitney U test</b>.  Further information about this test can be obtained from any good statistics text or from your data handling course"
+	}, {
+		"-id": "11",
+		"questionA": "The data I wish to compare are measuring a single parameter across different samples or populations",
+		"questionB": "The data I wish to compare are measuring multiple parameters across different samples or populations and I am looking for interactions between those parameters.",
+		"answerA": "6",
+		"answerB": "This is a really tricky one.  You may need to talk to Bob.  Further information can always be obtained from any good statistics text or from your data handling course."
+	}, {
+		"-id": "12",
+		"questionA": "The datasets I wish to compare are made up or paired values, e.g. the same parameter measured on sets of individuals across different timepoints.",
+		"questionB": "The datasets I wish to compare are not made up of paired values",
+		"answerA": "The test you require is the <b>Friedman test</b>.  Further information about this test can be obtained from any good statistics text or from your data handling course",
+		"answerB": "The test you require is the <b>Kruskall-Wallis test</b>.  Further information about this test can be obtained from any good statistics text or from your data handling course"
+	}, {
+		"-id": "13",
+		"questionA": "I have a single dataset and I wish to compare it to an expected value.",
+		"questionB": "I have two datasets and I wish to determine whether the patterns of these are related to one another",
+		"answerA": "You need to carry out a <b>&chi;<sup>2</sup> test for differences</b>.  Further information about this test can be obtained from any good statistics text or from your data handling course.",
+		"answerB": "You need to carry out a <b>&chi;<sup>2</sup> test for association</b>. Further information is available from the drop-down menu above."
+	}]
+}

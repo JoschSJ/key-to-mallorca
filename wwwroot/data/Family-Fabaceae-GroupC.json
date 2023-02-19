@@ -1,0 +1,410 @@
+{
+    "question": [
+        {
+            "-id": "1",
+            "questionA": "Principal lateral veins of leaflets terminating at the margin, leaflets often dentate.",
+            "questionB": "Lateral veins branching and not reaching the margin.",
+            "answerA": "2",
+            "answerB": "28"
+        },
+        {
+            "-id": "2",
+            "questionA": "Plants without glands; petals usually persistent in fruit.",
+            "questionB": "Plants glandular; petals rarely persistent in fruit.",
+            "answerA": "3",
+            "answerB": "19"
+        },
+        {
+            "-id": "3",
+            "questionA": "Flowers yellow.",
+            "questionB": "Flowers purple, pink or white.",
+            "answerA": "4",
+            "answerB": "5"
+        },
+        {
+            "-id": "4",
+            "questionA": "Inflorescences globular, many-flowered.",
+            "questionB": "Inflorescences with only one to six flowers.",
+            "answerA": "Trifolium campestre",
+            "answerB": "Trifolium filiforme"
+        },
+        {
+            "-id": "5",
+            "questionA": "Inflorescences at least twice as long as broad; leaflets long and narrow.",
+            "questionB": "Inflorescences globular; leaflets not long and narrow.",
+            "answerA": "Trifolium angustifolium",
+            "answerB": "6"
+        },
+        {
+            "-id": "6",
+            "questionA": "Peduncles absent or much shorter than petioles.",
+            "questionB": "Peduncles at least as long as petioles.",
+            "answerA": "7",
+            "answerB": "11"
+        },
+        {
+            "-id": "7",
+            "questionA": "Calyx inflated in fruit and covered by a dense white tomentum, giving the inflorescence a woolly appearance.",
+            "questionB": "Calyx not covered by a dense tomentum.",
+            "answerA": "Trifolium tomentosum",
+            "answerB": "8"
+        },
+        {
+            "-id": "8",
+            "questionA": "Corolla less than twice the length of the calyx.",
+            "questionB": "Corolla at least twice the length of the calyx.",
+            "answerA": "9",
+            "answerB": "10"
+        },
+        {
+            "-id": "9",
+            "questionA": "Plant hairy; calyx teeth spiny, recurved in fruit; leaflets with terminal veins curving backwards and thickening at the margin.",
+            "questionB": "Plant glabrous; calyx teeth not spiny; leaflets without recurving veins.",
+            "answerA": "Trifolium scabrum",
+            "answerB": "Trifolium glomeratum"
+        },
+        {
+            "-id": "10",
+            "questionA": "Internodes usually less than 5 mm so that inflorescences are confluent; calyx not ribbed, teeth spreading in fruit.",
+            "questionB": "Internodes  considerably  longer  than  5  mm;  inflorescences  never confluent; calyx ribbed, teeth bristle-pointed erect in fruit.",
+            "answerA": "Trifolium suffocatum",
+            "answerB": "Trifolium striatum"
+        },
+        {
+            "-id": "11",
+            "questionA": "Inflorescences axillary.",
+            "questionB": "Inflorescences terminal.",
+            "answerA": "12",
+            "answerB": "17"
+        },
+        {
+            "-id": "12",
+            "questionA": "Only two to five elongated flowers fertile in each inflorescence, the remainder  with  persistent  bristly  calyces;  as  the fruits mature, the peduncle becomes deflexed towards the ground where the pods are anchored by the sterile calyces.",
+            "questionB": "Most flowers fertile; peduncle not deflexed in fruit.",
+            "answerA": "Trifolium subterraneum",
+            "answerB": "13"
+        },
+        {
+            "-id": "13",
+            "questionA": "Flowers pink.",
+            "questionB": "Flowers white.",
+            "answerA": "14",
+            "answerB": "16"
+        },
+        {
+            "-id": "14",
+            "questionA": "Calyx  covered  by  long  white  hairs;  teeth dark red, prominent, spreading and star-like in fruit.",
+            "questionB": "Calyx with short hairs; teeth green, not star-like in fruit.",
+            "answerA": "Trifolium stellatum",
+            "answerB": "15"
+        },
+        {
+            "-id": "15",
+            "questionA": "Standard  petal   upper-most;  upper  lip  of  calyx  strongly  inflated, downward curved and pubescent; peduncle erect in fruit.",
+            "questionB": "Keel  petal uppermost; calyx tube inflated in fruit, sparsely hairy; peduncle recurved in fruit.",
+            "answerA": "Trifolium fragiferum",
+            "answerB": "Trifolium resupinatum"
+        },
+        {
+            "-id": "16",
+            "questionA": "Perennials rooting at the nodes; leaflets emarginate.",
+            "questionB": "Annuals not rooting at the nodes; leaflets pointed at the tip.",
+            "answerA": "Trifolium repens",
+            "answerB": "Trifolium nigrescens"
+        },
+        {
+            "-id": "17",
+            "questionA": "Ends of stipules linear, spreading; inflorescences not embedded within a panoply of  prominent calyx teeth.",
+            "questionB": "Ends  of  stipules  acute;  inflorescences embedded within protective panoply of prominent calyx teeth.",
+            "answerA": "Trifolium squamosum",
+            "answerB": "18"
+        },
+        {
+            "-id": "18",
+            "questionA": "Calyx  teeth  dark  purple;  inflorescence  not  subtended by enlarged stipules.",
+            "questionB": "Calyx  teeth  green;  inflorescence  subtended by several  enlarged  stipules.",
+            "answerA": "Trifolium lappaceum",
+            "answerB": "Trifolium cherleri"
+        },
+        {
+            "-id": "19",
+            "questionA": "Calyx swollen at the base; stipules free of petiole.",
+            "questionB": "Calyx not swollen at the base; stipules fused to petiole.",
+            "answerA": "Cicer arietinum",
+            "answerB": "20"
+        },
+        {
+            "-id": "20",
+            "questionA": "Flowers pink, purple or white.",
+            "questionB": "Flowers yellow.",
+            "answerA": "21",
+            "answerB": "23"
+        },
+        {
+            "-id": "21",
+            "questionA": "Woody-based perennial; stems spiny.",
+            "questionB": "Herbaceous annuals; stems not spiny.",
+            "answerA": "Ononis spinosa",
+            "answerB": "22"
+        },
+        {
+            "-id": "22",
+            "questionA": "Stems slender, viscid; leaves trifoliate; flowers concentrated towards the tip of the stem; pedicels strongly reflexed in fruit.",
+            "questionB": "Stems stout, pubescent; some leaves entire, others trifoliate; flowers distributed along the stem; pedicels not strongly reflexed in fruit.",
+            "answerA": "Ononis reclinata",
+            "answerB": "Ononis alopecuroides"
+        },
+        {
+            "-id": "23",
+            "questionA": "Pedicels with aristate projections,  25-30 mm.",
+            "questionB": "Pedicels not aristate.",
+            "answerA": "Ononis viscosa",
+            "answerB": "24"
+        },
+        {
+            "-id": "24",
+            "questionA": "Shrublets.",
+            "questionB": "Annual herbs.",
+            "answerA": "25",
+            "answerB": "27"
+        },
+        {
+            "-id": "25",
+            "questionA": "Pod 6-7 mm partly concealed by the calyx.",
+            "questionB": "Pod 10-25 mm greatly exceeding calyx.",
+            "answerA": "Ononis minutissima",
+            "answerB": "26"
+        },
+        {
+            "-id": "26",
+            "questionA": "Leaflets narrowly ovate to linear, margins not undulate.",
+            "questionB": "Leaflets broadly ovate, margins undulate.",
+            "answerA": "Ononis natrix",
+            "answerB": "Ononis crispa"
+        },
+        {
+            "-id": "27",
+            "questionA": "Leaves trifoliate; pod torulose.",
+            "questionB": "Middle leaves trifoliate, upper and lower leaves with a single leaflet; pod not torulose.",
+            "answerA": "Ononis ornithopodioides",
+            "answerB": "Ononis pubescens"
+        },
+        {
+            "-id": "28",
+            "questionA": "At least some flowers in terminal clusters.",
+            "questionB": "All flowers axillary or in axillary clusters",
+            "answerA": "29",
+            "answerB": "32"
+        },
+        {
+            "-id": "29",
+            "questionA": "Inflorescences subtended by a pinnate bract; pods conspicuously flattened.",
+            "questionB": "Inflorescences not subtended by pinnate bracts; pods not flattened.",
+            "answerA": "Ornithopus compressus",
+            "answerB": "30"
+        },
+        {
+            "-id": "30",
+            "questionA": "Small shrubs; stems and leaves white-felted.",
+            "questionB": "Herbs; stems and leaves not white-felted.",
+            "answerA": "Anthyllis cytisoides",
+            "answerB": "31"
+        },
+        {
+            "-id": "31",
+            "questionA": "Leaves with one to six pairs of leaflets; flowers pink, in dense paired inflorescences; calyx not inflated in fruit.",
+            "questionB": "Leaves with one or  two  pairs of leaflets, terminal  leaflet much larger and broader than the rest; flowers yellow; inflorescences not paired; calyx inflated in fruit.",
+            "answerA": "Anthyllis vulneraria",
+            "answerB": "Anthyllis tetraphylla"
+        },
+        {
+            "-id": "32",
+            "questionA": "Flowers in umbels or umbel-like clusters",
+            "questionB": "Inflorescences  neither  umbels  nor  umbel-like  clusters  or  flowers solitary.",
+            "answerA": "33",
+            "answerB": "55"
+        },
+        {
+            "-id": "33",
+            "questionA": "Fruit splitting at transverse joints.",
+            "questionB": "Fruit not splitting or splitting longitudinally.",
+            "answerA": "34",
+            "answerB": "40"
+        },
+        {
+            "-id": "34",
+            "questionA": "Segments of fruit horseshoe-shaped or half-moon shaped.",
+            "questionB": "Segments of fruit straight or slightly curved.",
+            "answerA": "35",
+            "answerB": "38"
+        },
+        {
+            "-id": "35",
+            "questionA": "Peduncle much shorter than the leaves.",
+            "questionB": "Peduncle more than half the length of the leaves.",
+            "answerA": "36",
+            "answerB": "37"
+        },
+        {
+            "-id": "36",
+            "questionA": "Bushy perennial; flowers up to 15 mm, in heads of ten or more.",
+            "questionB": "Prostrate annual; flowers less than 10 mm, solitary or in pairs.",
+            "answerA": "Hippocrepis balearica",
+            "answerB": "Hippocrepis biflora"
+        },
+        {
+            "-id": "37",
+            "questionA": "Pod with long papillae, sinuses opening on concave edge.",
+            "questionB": "Papillae absent or short, sinuses opening on convex edge.",
+            "answerA": "Hippocrepis ciliata",
+            "answerB": "Hippocrepis multisiliquosa"
+        },
+        {
+            "-id": "38",
+            "questionA": "Glaucous annuals; leaves trifoliate, the terminal  leaflet much larger than the laterals.",
+            "questionB": "Green or glaucous shrubs leaves pinnate.",
+            "answerA": "Coronilla scorpioides",
+            "answerB": "39"
+        },
+        {
+            "-id": "39",
+            "questionA": "Leaflets green, narrow and rush-like.",
+            "questionB": "Leaflets glaucous, broad and emarginate.",
+            "answerA": "Coronilla juncea",
+            "answerB": "Coronilla valentina"
+        },
+        {
+            "-id": "40",
+            "questionA": "Keel petal prolonged into a beak.",
+            "questionB": "Keel petal not beaked.",
+            "answerA": "41",
+            "answerB": "49"
+        },
+        {
+            "-id": "41",
+            "questionA": "Annuals.",
+            "questionB": "Perennials.",
+            "answerA": "42",
+            "answerB": "46"
+        },
+        {
+            "-id": "42",
+            "questionA": "Flowers red.",
+            "questionB": "Flowers yellow.",
+            "answerA": "43",
+            "answerB": "44"
+        },
+        {
+            "-id": "43",
+            "questionA": "Pods winged on all four angles.",
+            "questionB": "Pods winged on two adjacent angles.",
+            "answerA": "Lotus tetragonolobus",
+            "answerB": "Lotus conjugatus"
+        },
+        {
+            "-id": "44",
+            "questionA": "Flowers small, shorter than bracts.",
+            "questionB": "Flowers much longer than bracts.",
+            "answerA": "Lotus ornithopodioides",
+            "answerB": "45"
+        },
+        {
+            "-id": "45",
+            "questionA": "Wing  petals  positioned  either  side  of  keel;  pod  long  and  narrow, constricted between seeds.",
+            "questionB": "Wing petals often twisted to lie above and below  keel;  pod inflated with dorsal grove.",
+            "answerA": "Lotus angustissimus",
+            "answerB": "Lotus edulis"
+        },
+        {
+            "-id": "46",
+            "questionA": "Leaves with only one stipule; flowers solitary.",
+            "questionB": "Leaves with two stipules; flowers in umbels.",
+            "answerA": "Lotus tetraphyllus",
+            "answerB": "47"
+        },
+        {
+            "-id": "47",
+            "questionA": "Plant densely silvery-haired.",
+            "questionB": "Plant hairless or nearly so.",
+            "answerA": "Lotus cytisoides",
+            "answerB": "48"
+        },
+        {
+            "-id": "48",
+            "questionA": "Leaflets and stipules ovate, less than three times as long as wide.",
+            "questionB": "Leaflets and stipules linear-lanceolate, more than three times as long as broad.",
+            "answerA": "Lotus corniculatus",
+            "answerB": "Lotus glaber"
+        },
+        {
+            "-id": "49",
+            "questionA": "Keel petal dark red or black.",
+            "questionB": "Keel petal neither dark red nor black.",
+            "answerA": "50",
+            "answerB": "53"
+        },
+        {
+            "-id": "50",
+            "questionA": "Shrublets with spiny leaves; flowers 4 mm or less.",
+            "questionB": "Woody based perennials or dwarf  shrubs, without  spines; flowers greater than 4 mm.",
+            "answerA": "Dorycnium fulgurans",
+            "answerB": "51"
+        },
+        {
+            "-id": "51",
+            "questionA": "Petiole absent so that the linear stipules and leaflets all arise from the same point.",
+            "questionB": "Petiole present; stipules and leaflets ovate.",
+            "answerA": "Dorycnium pentaphyllum",
+            "answerB": "52"
+        },
+        {
+            "-id": "52",
+            "questionA": "Stipules  and  leaflets  with  acute  tips;  inflorescences  of  four to ten flowers; flowers 10-20 mm.",
+            "questionB": "Stipules and leaflets with mucronate tips; inflorescences of twenty to forty flowers; flowers 4-6 mm.",
+            "answerA": "Dorycnium hirsutum",
+            "answerB": "Dorycnium rectum"
+        },
+        {
+            "-id": "53",
+            "questionA": "Shrublets with spiny leaves; flowers solitary.",
+            "questionB": "Erect or spreading annuals, up to 50 cm or more; inflorescences of three or more flowers.",
+            "answerA": "Astragalus balearicus",
+            "answerB": "54"
+        },
+        {
+            "-id": "54",
+            "questionA": "Flowers yellowish white, numerous on long-stalked racemes; pods short broad and hairy.",
+            "questionB": "Flowers white,  three  to twelve in stalked globular heads; pods  elongate, glabrous and falcate.",
+            "answerA": "Astragalus boeticus",
+            "answerB": "Astragalus hamosus"
+        },
+        {
+            "-id": "55",
+            "questionA": "Fruit splitting at transverse joints.",
+            "questionB": "Fruit not splitting at transverse joints.",
+            "answerA": "56",
+            "answerB": "58"
+        },
+        {
+            "-id": "56",
+            "questionA": "Flowers yellow, solitary or few; pods with horseshoe- or half moon-shaped segments.",
+            "questionB": "Flowers pink, red or purple, in clusters of eight or more; pods with rounded segments.",
+            "answerA": "35",
+            "answerB": "57"
+        },
+        {
+            "-id": "57",
+            "questionA": "Leafy  bushy  perennials to 1 m; flowers red or white, c. 20 mm, numerous in long-stalked racemes; fruit glabrous, covered with sharp projections.",
+            "questionB": "Slender annuals to 35 cm; flowers pink or purple, 8-11 mm, four to ten in long-stalked clusters; fruit hairy, covered with hooked spines.",
+            "answerA": "Hedysarum coronarium",
+            "answerB": "Hedysarum spinosissimum"
+        },
+        {
+            "-id": "58",
+            "questionA": "Keel petal prolonged into a beak.",
+            "questionB": "Keel petal not beaked.",
+            "answerA": "41",
+            "answerB": "53"
+        }
+    ]
+}

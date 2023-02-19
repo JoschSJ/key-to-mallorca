@@ -1,0 +1,32 @@
+{
+   "question": [
+      {
+        "-id": "1",
+        "questionA": "Buds with one outer scale; bracts of catkins entire.",
+        "questionB": "Buds with several outer scales; bracts of catkins dentate or fringed.",
+        "answerA": "Salix spp.",
+        "answerB": "2"
+      },
+      {
+        "-id": "2",
+        "questionA": "Bark fissured and black.",
+        "questionB": "Bark smooth and grey.",
+        "answerA": "Populus nigra",
+        "answerB": "3"
+      },
+      {
+        "-id": "3",
+        "questionA": "Leaves on main tree (i.e. not suckers) glabrous; catkin scales divided to more  than halfway; stigmas purple; petiole strongly compressed laterally.",
+        "questionB": "At least leaves at the ends of the main shoots persistently tomentose beneath; catkin scales not divided to halfway; stigmas green; petiole scarcely compressed laterally.",
+        "answerA": "Populus tremula",
+        "answerB": "4"
+      },
+      {
+        "-id": "4",
+        "questionA": "Leaves of sucker-shoots and ends of long  shoots  deeply  palmately  five-lobed,  leaves of short shoots persistently tomentose; catkin scales dentate.",
+        "questionB": "Leaves of  sucker-shoots not deeply  lobed,  leaves of  short shoots becoming more or less glabrous; catkin scales laciniate.",
+        "answerA": "Populus alba",
+        "answerB": "Populus canescens"
+      }
+    ]
+  }

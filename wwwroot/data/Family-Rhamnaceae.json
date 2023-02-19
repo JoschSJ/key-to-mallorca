@@ -1,0 +1,18 @@
+{
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Spiny shrubs; leaves narrowly lanceolate.",
+        "questionB": "Non-spiny shrubs; leaves broadly ovate.",
+        "answerA": "Rhamnus lycioides",
+        "answerB": "2"
+      },
+      {
+        "-id": "2",
+        "questionA": "Shrubs  to 5 m;  leaves  entire or  slightly dentate, glossy, dark green above, yellow-green below.",
+        "questionB": "Shrubs to 1 m; leaves serrulate, glaucous above, yellow-green below.",
+        "answerA": "Rhamnus alaternus",
+        "answerB": "Rhamnus ludovici-salvatoris"
+      }
+    ]
+  }

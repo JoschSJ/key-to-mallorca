@@ -1,0 +1,47 @@
+{
+
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Fruit paired, reniform or cordate.",
+        "questionB": "Fruit neither paired, reniform nor cordate.",
+        "answerA": "6",
+        "answerB": "2"
+      },
+      {
+        "-id": "2",
+        "questionA": "Valves of fruit winged or strongly keeled.",
+        "questionB": "Valves of fruit not winged or keeled.",
+        "answerA": "3",
+        "answerB": "5"
+      },
+      {
+        "-id": "3",
+        "questionA": "Seeds solitary, pendent from the apex of each cell.",
+        "questionB": "Seeds one to eight in each cell.",
+        "answerA": "Lepidium graminifolium",
+        "answerB": "4"
+      },
+      {
+        "-id": "4",
+        "questionA": "Cauline leaves sessile, with pointed amplexicaul lobes; fruit almost circular with broad wings and narrow notch around the style.",
+        "questionB": "Cauline leaves with rounded amplexicaul lobes; fruit cordate, wings narrowed towards the base, with a wide notch around the style.",
+        "answerA": "Thlaspi arvense",
+        "answerB": "Thlaspi perfoliatum"
+      },
+      {
+        "-id": "5",
+        "questionA": "Petals white, longer than sepals; lateral margins of fruit concave.",
+        "questionB": "Petals white, not exceeding sepals, petals and sepals occasionally red-tipped; lateral margins of fruit straight or convex.",
+        "answerA": "Capsella bursa-pastoris",
+        "answerB": "Capsella rubella"
+      },
+      {
+        "-id": "6",
+        "questionA": "Fruit beaked, with prominent irregular ridges.",
+        "questionB": "Fruit not beaked, notched, slightly ridged.",
+        "answerA": "Coronopus squamatus",
+        "answerB": "Coronopus didymus"
+      }
+    ]
+  }

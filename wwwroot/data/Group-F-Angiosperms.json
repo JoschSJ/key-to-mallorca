@@ -1,0 +1,102 @@
+{
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Corolla saccate or spurred.",
+        "questionB": "Corolla neither saccate nor spurred.",
+        "answerA": "2",
+        "answerB": "4"
+      },
+      {
+        "-id": "2",
+        "questionA": "Sepals two, small.",
+        "questionB": "Sepals five.",
+        "answerA": "Family-Papaveraceae",
+        "answerB": "3"
+      },
+      {
+        "-id": "3",
+        "questionA": "Leaves alternate.",
+        "questionB": "Leaves opposite.",
+        "answerA": "Family-Violaceae",
+        "answerB": "Family-Geraniaceae"
+      },
+      {
+        "-id": "4",
+        "questionA": "All or all but one of the stamens united into a tube.",
+        "questionB": "All stamens free.",
+        "answerA": "5",
+        "answerB": "6"
+      },
+      {
+        "-id": "5",
+        "questionA": "Anthers opening by pores.",
+        "questionB": "Anthers opening by slits.",
+        "answerA": "Family-Polygalaceae",
+        "answerB": "Family-Fabaceae"
+      },
+      {
+        "-id": "6",
+        "questionA": "Trees or shrubs.",
+        "questionB": "Herbs.",
+        "answerA": "7",
+        "answerB": "10"
+      },
+      {
+        "-id": "7",
+        "questionA": "Leaves simple.",
+        "questionB": "Leaves compound, trifoliate or pinnate.",
+        "answerA": "8",
+        "answerB": "Family-Fabaceae"
+      },
+      {
+        "-id": "8",
+        "questionA": "Ovary on a long stalk (in addition to pedicel).",
+        "questionB": "Ovary sessile.",
+        "answerA": "Capparis spinosa",
+        "answerB": "9"
+      },
+      {
+        "-id": "9",
+        "questionA": "Petals four.",
+        "questionB": "Petals five.",
+        "answerA": "Family-Brassicaceae",
+        "answerB": "Family-Fabaceae"
+      },
+      {
+        "-id": "10",
+        "questionA": "Ovary and fruit deeply five-lobed.",
+        "questionB": "Ovary and fruit not deeply five-lobed.",
+        "answerA": "11",
+        "answerB": "12"
+      },
+      {
+        "-id": "11",
+        "questionA": "Flowers in umbel-like clusters; fruit with a long beak.",
+        "questionB": "Flowers in elongated, spike-like clusters; fruit not beaked.",
+        "answerA": "Family-Geraniaceae",
+        "answerB": "Family-Rutaceae"
+      },
+      {
+        "-id": "12",
+        "questionA": "Petals cut into narrow, fringe-like segments, or lobed.",
+        "questionB": "Petals entire or notched.",
+        "answerA": "Family-Resedaceae",
+        "answerB": "13"
+      },
+      {
+        "-id": "13",
+        "questionA": "Stamens ten.",
+        "questionB": "Stamens not more than six.",
+        "answerA": "Family-Fabaceae",
+        "answerB": "14"
+      },
+      {
+        "-id": "14",
+        "questionA": "Sepals free; ovary two-celled.",
+        "questionB": "Sepals inserted on a cup-like flange of the receptacle; ovary one-celled.",
+        "answerA": "Family-Brassicaceae",
+        "answerB": "Family-Caryophyllaceae"
+      }
+    ]
+  }

@@ -1,0 +1,18 @@
+{
+   "question": [
+      {
+        "-id": "1",
+        "questionA": "Woody dioecious plants; perianth not fused below.",
+        "questionB": "Herbaceous hermaphrodite plants; perianth fused, campanulate or tubular.",
+        "answerA": "Osyris alba",
+        "answerB": "2"
+      },
+      {
+        "-id": "2",
+        "questionA": "Leaves linear; fruit longitudinally veined.",
+        "questionB": "Leaves lanceolate; fruit reticulately veined",
+        "answerA": "Thesium divaricatum",
+        "answerB": "Thesium humile"
+      }
+    ]
+  }

@@ -1,0 +1,19 @@
+{
+ 
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Upper segment of fruit globose or ovoid, shortly beaked.",
+        "questionB": "Upper segment of fruit cylindrical or oblong-ovoid.",
+        "answerA": "Rapistrum rugosum",
+        "answerB": "2"
+      },
+      {
+        "-id": "2",
+        "questionA": "Leaves fleshy, glabrous; upper segment of fruit not more than three times as long as wide, mitre-shaped, usually one-seeded.",
+        "questionB": "Leaves not fleshy, hispid; upper segment of fruit at least five times as long as wide, cylindrical and often constricted between the seeds.",
+        "answerA": "Cakile maritima",
+        "answerB": "Raphanus raphanistrum"
+      }
+    ]
+  }

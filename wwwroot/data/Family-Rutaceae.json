@@ -1,0 +1,74 @@
+{
+   "question": [
+      {
+        "-id": "1",
+        "questionA": "Trees with evergreen leaves; fruit large and fleshy.",
+        "questionB": "Herbs or small shrubs; fruit a dry capsule.",
+        "answerA": "2",
+        "answerB": "8"
+      },
+      {
+        "-id": "2",
+        "questionA": "Fruit globular.",
+        "questionB": "Fruit oval.",
+        "answerA": "3",
+        "answerB": "6"
+      },
+      {
+        "-id": "3",
+        "questionA": "Leaf margin wavy; flowers 10-15 mm; fruit 5-7 cm, globular, strongly flattened  at  each end; rind easily detachable and strongly aromatic;  flesh very sweet.",
+        "questionB": "Leaf margin entire; flowers 20-25 mm; fruit 7 cm or more, globular, not strongly flattened at either end; rind not easily detachable.",
+        "answerA": "Citrus deliciosa",
+        "answerB": "4"
+      },
+      {
+        "-id": "4",
+        "questionA": "Fruits pale yellow or pinkish yellow, more than 10 cm in diameter.",
+        "questionB": "Fruits deep orange, 7-8 cm in diameter.",
+        "answerA": "Citrus paradisi",
+        "answerB": "5"
+      },
+      {
+        "-id": "5",
+        "questionA": "Petiole broadly winged; fruit  reddish orange; rind very bitter; flesh sour.",
+        "questionB": "Petiole narrowly winged; fruit yellowish orange; rind only slightly bitter; flesh sweet.",
+        "answerA": "Citrus aurantium",
+        "answerB": "Citrus sinensis"
+      },
+      {
+        "-id": "6",
+        "questionA": "Fruits green, without nipple-like swelling at the end.",
+        "questionB": "Fruits yellow, with nipple-like swelling at the end.",
+        "answerA": "Citrus limetta",
+        "answerB": "7"
+      },
+      {
+        "-id": "7",
+        "questionA": "Petiole wingless; flowers 2-3 cm; petals white, often flushed with pink on the outside; fruit 13-25 cm, pale yellow; rind rough; flesh mildly acidic.",
+        "questionB": "Petiole narrowly winged; flowers 2 cm; petals white, flushed with red outside; fruit 5-10 cm, yellow; rind smooth; flesh sour.",
+        "answerA": "Citrus medica",
+        "answerB": "Citrus limon"
+      },
+      {
+        "-id": "8",
+        "questionA": "Margins of petals entire or denticulate.",
+        "questionB": "Margins of petals conspicuously fringed.",
+        "answerA": "9",
+        "answerB": "10"
+      },
+      {
+        "-id": "9",
+        "questionA": "Leaf segments linear; flowers 10 mm in dense, terminal clusters; petals with denticulate, undulate margins.",
+        "questionB": "Leaf segments ovate or lanceolate; flowers 15-25 mm in spreading terminal clusters; petals with entire or denticulate margins.",
+        "answerA": "Ruta montana",
+        "answerB": "Ruta graveolens"
+      },
+      {
+        "-id": "10",
+        "questionA": "Inflorescence  glandular,  puberulent;  bracts scarcely broader than subtended branch; petals fringed with cilia longer than the width of the petal.",
+        "questionB": "Inflorescence more or less eglandular; bracts distinctly broader than subtended branch; petals fringed with cilia shorter than the width of the petal.",
+        "answerA": "Ruta angustifolia",
+        "answerB": "Ruta chalepensis"
+      }
+    ]
+  }

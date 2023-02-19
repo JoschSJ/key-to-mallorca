@@ -1,0 +1,33 @@
+{
+
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Corolla with a crown-like projection or corona.",
+        "questionB": "Corolla without a corona.",
+        "answerA": "2",
+        "answerB": "4"
+      },
+      {
+        "-id": "2",
+        "questionA": "Corona deeply and regularly dentate; stamens exserted.",
+        "questionB": "Corona entire or shallowly and irregularly dentate; stamens not exserted.",
+        "answerA": "Pancratium maritimum",
+        "answerB": "3"
+      },
+      {
+        "-id": "3",
+        "questionA": "Flowers solitary, appearing in the autumn before the leaves; free perianth segments lanceolate; corona 2-3 mm.",
+        "questionB": "Flowers in clusters ofthree to eighteen, appearing in the spring after the leaves; free perianth segments ovate; corona 4-7 mm.",
+        "answerA": "Narcissus serotinus",
+        "answerB": "Narcissus tazetta"
+      },
+      {
+        "-id": "4",
+        "questionA": "Flowers erect, yellow.",
+        "questionB": "Flowers drooping, white.",
+        "answerA": "Sternbergia lutea",
+        "answerB": "Leucojum aestivum"
+      }
+    ]
+  }

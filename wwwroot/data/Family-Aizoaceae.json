@@ -1,0 +1,47 @@
+{
+  
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Papillose  annuals; perianth  segments  five, greenish white, sepaloid; stamens ten.",
+        "questionB": "Annuals or perennials; petals and stamens numerous.",
+        "answerA": "Aizoon hispanicum",
+        "answerB": "2"
+      },
+      {
+        "-id": "2",
+        "questionA": "Stigmas eight to twenty.",
+        "questionB": "Stigmas five.",
+        "answerA": "3",
+        "answerB": "4"
+      },
+      {
+        "-id": "3",
+        "questionA": "Leaves green, gradually tapering to a point; flowers to 10 cm across;petals pale lilac, yellow or orange; stamens yellow.",
+        "questionB": "Leaves glaucous, broadest towards the tip, abruptly narrowed to an acute  apex;  flowers  to 12  cm  across; petals  brilliant red-carmine; stamens purple.",
+        "answerA": "Carpobrotus edulis",
+        "answerB": "Carpobrotus acinaciformis"
+      },
+      {
+        "-id": "4",
+        "questionA": "Stigmas surrounded by a raised ring.",
+        "questionB": "Stigmas not surrounded by a raised ring.",
+        "answerA": "5",
+        "answerB": "6"
+      },
+      {
+        "-id": "5",
+        "questionA": "Leaves green; petals pink.",
+        "questionB": "Leaves glaucous; petals yellow",
+        "answerA": "Lampranthus roseus",
+        "answerB": "Lampranthus multiradiatus"
+      },
+      {
+        "-id": "6",
+        "questionA": "Plants covered with transparent glossy swellings (resembling hoar frost); leaves green oval, flattened, fleshy; flowers 2-3 cm across.",
+        "questionB": "Plants not covered with glossy swellings; leaves green,  often turning red towards the tip, oblong-cylindrical, fleshy; flowers c. 1 cm across.",
+        "answerA": "Mesembryanthemum crystallinum",
+        "answerB": "Mesembryanthemum nodiflorum"
+      }
+    ]
+  }

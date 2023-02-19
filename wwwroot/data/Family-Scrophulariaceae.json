@@ -1,0 +1,263 @@
+{
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Fertile stamens two.",
+        "questionB": "Stamens four or five.",
+        "answerA": "2",
+        "answerB": "10"
+      },
+      {
+        "-id": "2",
+        "questionA": "Flowers in a terminal spike or cluster.",
+        "questionB": "Flowers solitary or in axillary spikes.",
+        "answerA": "3",
+        "answerB": "4"
+      },
+      {
+        "-id": "3",
+        "questionA": "Leaves ovate, crenate, upper sessile, lower shortly petiolate; corolla 2-3 mm, deep blue, equalling calyx; capsule more or less glabrous.",
+        "questionB": "Lower leaves lanceolate or ovate, shortly petiolate; upper leaves sessile, pinnatifid; corolla 3 mm, deep blue, much shorter than calyx; capsule glandular hairy.",
+        "answerA": "Veronica arvensis",
+        "answerB": "Veronica verna"
+      },
+      {
+        "-id": "4",
+        "questionA": "Flowers solitary, axillary.",
+        "questionB": "Flowers numerous, in axillary spikes or clusters.",
+        "answerA": "5",
+        "answerB": "8"
+      },
+      {
+        "-id": "5",
+        "questionA": "Flowers white, 3-4 mm across; calyx lobes rounded.",
+        "questionB": "Flowers blue, more than 5 mm across; calyx lobes acute.",
+        "answerA": "Veronica cymbalaria",
+        "answerB": "6"
+      },
+      {
+        "-id": "6",
+        "questionA": "Leaves with  five  to  seven  large  teeth or  small  lobes near  the base; sepals cordate.",
+        "questionB": "Leaves regularly crenate-serrate; sepals cuneate.",
+        "answerA": "Veronica hederifolia",
+        "answerB": "7"
+      },
+      {
+        "-id": "7",
+        "questionA": "Flowers 8-12 mm across; corolla darker blue towards the base, lower lobe paler than the rest; calyx lobes divergent in fruit.",
+        "questionB": "Flowers  4-8  mm  across;  corolla  uniformly  blue;  calyx  lobes  not divergent in fruit.",
+        "answerA": "Veronica persica",
+        "answerB": "Veronica polita"
+      },
+      {
+        "-id": "8",
+        "questionA": "Annuals; calyx lobes adpressed to capsule.",
+        "questionB": "Perennials; calyx lobes not adpressed to capsule.",
+        "answerA": "Veronica anagalloides",
+        "answerB": "9"
+      },
+      {
+        "-id": "9",
+        "questionA": "Bracts  linear  not  exceeding  pedicels; corolla pale blue; pedicels ascending after flowering.",
+        "questionB": "Bracts lanceolate usually exceeding pedicels; corolla pinkish; pedicels spreading after flowering.",
+        "answerA": "Veronica anagallis-aquatica",
+        "answerB": "Veronica catenata"
+      },
+      {
+        "-id": "10",
+        "questionA": "Stamens four or five, some or all filaments densely hairy.",
+        "questionB": "Stamens four, filaments not hairy.",
+        "answerA": "11",
+        "answerB": "14"
+      },
+      {
+        "-id": "11",
+        "questionA": "Flowers solitary in the axil of each bract; upper petals with red blotches at the base; stamens four, unequal, filaments with violet hairs.",
+        "questionB": "At least the lower bracts with clusters of several flowers; upper petals not distinguished by red blotches; stamens five.",
+        "answerA": "Verbascum creticum",
+        "answerB": "12"
+      },
+      {
+        "-id": "12",
+        "questionA": "Filaments of upper stamens with white hairs, filaments of lower stamens glabrous.",
+        "questionB": "Filaments of all stamens with violet hairs.",
+        "answerA": "Verbascum thapsus",
+        "answerB": "13"
+      },
+      {
+        "-id": "13",
+        "questionA": "Basal  leaves ovate; inflorescence usually unbranched; calyx 6-9 mm, lobes oblong.",
+        "questionB": "Basal leaves pinnatifid; inflorescence usually branched; calyx 2-4 mm, lobes acute.",
+        "answerA": "Verbascum boerhavii",
+        "answerB": "Verbascum sinuatum"
+      },
+      {
+        "-id": "14",
+        "questionA": "Corolla neither spurred nor saccate.",
+        "questionB": "Corolla either spurred or saccate.",
+        "answerA": "15",
+        "answerB": "24"
+      },
+      {
+        "-id": "15",
+        "questionA": "Calyx four lobed; corolla two-lipped.",
+        "questionB": "Calyx five lobed.",
+        "answerA": "16",
+        "answerB": "18"
+      },
+      {
+        "-id": "16",
+        "questionA": "Calyx inflated, campanulate, deeply divided into two dentate lobes.",
+        "questionB": "Calyx not inflated, cylindrical, with four acute lobes.",
+        "answerA": "Bellardia trixago",
+        "answerB": "17"
+      },
+      {
+        "-id": "17",
+        "questionA": "Non-viscid annuals; flowers c. 10 mm long, reddish purple with a white tube, rarely white or yellow.",
+        "questionB": "Viscid annuals; flowers 15-20 mm long, bright yellow.",
+        "answerA": "Parentucellia latifolia",
+        "answerB": "Parentucellia viscosa"
+      },
+      {
+        "-id": "18",
+        "questionA": "Leaves alternate or in a basal rosette.",
+        "questionB": "Leaves opposite.",
+        "answerA": "19",
+        "answerB": "21"
+      },
+      {
+        "-id": "19",
+        "questionA": "Plants up to 50 cm or more; flowers drooping, tubular; corolla lobes erect, unequal.",
+        "questionB": "Plants up to 15 cm; flowers erect; corolla lobes spreading, equal.",
+        "answerA": "Digitalis minor",
+        "answerB": "20"
+      },
+      {
+        "-id": "20",
+        "questionA": "Leaves spathulate; flowers strongly zygomorphic, pale pink.",
+        "questionB": "Leaves reniform; flowers almost actinomorphic, bright yellow",
+        "answerA": "Erinus alpinus",
+        "answerB": "Sibthorpia africana"
+      },
+      {
+        "-id": "21",
+        "questionA": "Annuals;  leaves  ovate,  irregularly  serrate;  flowers  in  long-stalked axillary clusters.",
+        "questionB": "Perennials;  leaves divided or regularly serrate; in terminal leafless pyramidal clusters.",
+        "answerA": "Scrophularia peregrina",
+        "answerB": "22"
+      },
+      {
+        "-id": "22",
+        "questionA": "Shrubby,  woody-based  perennials,  up  to  30 cm; leaves dentate, pinnate or bipinnate;  flowers up  to 4 mm,  crimson or crimson and white.",
+        "questionB": "Herbaceous perennials, more than 40 cm.",
+        "answerA": "Scrophularia ramosissima",
+        "answerB": "23"
+      },
+      {
+        "-id": "23",
+        "questionA": "Stems winged; leaves ovate, regularly serrate; corolla red.",
+        "questionB": "Stems not winged; leaves deeply divided; corolla red with broad white margins, rarely white.",
+        "answerA": "Scrophularia auriculata",
+        "answerB": "Scrophularia canina"
+      },
+      {
+        "-id": "24",
+        "questionA": "Corolla saccate.",
+        "questionB": "Corolla spurred.",
+        "answerA": "25",
+        "answerB": "26"
+      },
+      {
+        "-id": "25",
+        "questionA": "Calyx much shorter than corolla.",
+        "questionB": "Calyx at least as long as corolla.",
+        "answerA": "Antirrhinum majus",
+        "answerB": "Misopates orontium"
+      },
+      {
+        "-id": "26",
+        "questionA": "Leaves at least twice as long as broad, usually linear or oblong, sessile or on short petioles.",
+        "questionB": "Leaves  less  than  twice  as  long  as broad,  rounded at the base or cordate, petiolate.",
+        "answerA": "27",
+        "answerB": "33"
+      },
+      {
+        "-id": "27",
+        "questionA": "Flowers axillary; bracts similar to the leaves; capsule opening by pores.",
+        "questionB": "Flowers  in  terminal   clusters;  bracts much  shorter  than the leaves; capsule opening by valves.",
+        "answerA": "28",
+        "answerB": "29"
+      },
+      {
+        "-id": "28",
+        "questionA": "Corolla blue, lower lip blue; capsule ovoid, horizontally ridged.",
+        "questionB": "Corolla blue, lower lip yellow and white; capsule globular, smooth.",
+        "answerA": "Chaenorrhinum rubrifolium",
+        "answerB": "Chaenorrhinum origanifolium"
+      },
+      {
+        "-id": "29",
+        "questionA": "Perennials; leaves glaucous; corolla orange-red; calyx with reddish stalked glands.",
+        "questionB": "Annuals or perennials; flowers purple, lilac or white.",
+        "answerA": "Linaria aeruginea",
+        "answerB": "30"
+      },
+      {
+        "-id": "30",
+        "questionA": "Flowers predominantly lilac or purple.",
+        "questionB": "Flowers predominantly white or variegated.",
+        "answerA": "31",
+        "answerB": "32"
+      },
+      {
+        "-id": "31",
+        "questionA": "Perennials; leaves linear-lanceolate, green or glaucous; upper leaves alternate, lower leaves in whorls; spur less than half the length of the corolla; corolla pale lilac or white striped with lilac.",
+        "questionB": "Annuals; upper leaves linear, alternate; lower leaves elliptic, in whorls of three; spur more than half the length of the corolla; corolla violet, throat boss white.",
+        "answerA": "Linaria repens",
+        "answerB": "Linaria pelisseriana"
+      },
+      {
+        "-id": "32",
+        "questionA": "Erect  unbranched annuals; leaves linear, green, mostly alternate; flowers pure white, spur curved, twice as long as corolla.",
+        "questionB": "Erect annuals; leaves ovate, glaucous, slightly fleshy, mostly in whorls of three; flowers yellowish white, throat-boss orange, spur violet, curved and pointed.",
+        "answerA": "Linaria chalepensis",
+        "answerB": "Linaria triphylla"
+      },
+      {
+        "-id": "33",
+        "questionA": "Leaves palmately lobed.",
+        "questionB": "Leaves sagittate or ovate-cordate.",
+        "answerA": "34",
+        "answerB": "35"
+      },
+      {
+        "-id": "34",
+        "questionA": "Leaves with five to nine lobes, glabrous at maturity; throat-boss usually yellow.",
+        "questionB": "Leaves with three to five lobes, hairy at maturity; throat-boss white or lilac.",
+        "answerA": "Cymbalaria muralis",
+        "answerB": "Cymbalaria aequitriloba"
+      },
+      {
+        "-id": "35",
+        "questionA": "Leaves sagittate.",
+        "questionB": "Leaves ovate-cordate.",
+        "answerA": "36",
+        "answerB": "37"
+      },
+      {
+        "-id": "36",
+         "questionA": "Erect annuals, up to 90 cm; leaves linear-sagittate; corolla violet.",
+        "questionB": "Procumbent  perennials, up to 70 cm long; leaves ovate-sagittate; corolla pale lilac; lip white, purple-spotted.",
+        "answerA": "Kickxia cirrhosa",
+        "answerB": "Kickxia commutata"
+      },
+      {
+        "-id": "37",
+        "questionA": "Flowers very pale lilac, upper lips purple.",
+        "questionB": "Flowers bright yellow, upper lips dark brownish-purple.",
+        "answerA": "Kickxia lanigera",
+        "answerB": "Kickxia spuria"
+      }
+    ]
+  }

@@ -1,0 +1,95 @@
+{
+   "question": [
+      {
+        "-id": "1",
+        "questionA": "Corolla with spreading lobes, very much longer than the short tube.",
+        "questionB": "Corolla tubular, campanulate or conical, lobes usually shorter than the tube.",
+        "answerA": "2",
+        "answerB": "10"
+      },
+      {
+        "-id": "2",
+        "questionA": "Anthers projecting forwards into a cone surrounding the style.",
+        "questionB": "Anthers not forming a cone around the style.",
+        "answerA": "3",
+        "answerB": "Capsicum annuum"
+      },
+      {
+        "-id": "3",
+        "questionA": "Flowers yellow.",
+        "questionB": "Flowers white, lilac or purple.",
+        "answerA": "Lycopersicon esculentum",
+        "answerB": "4"
+      },
+      {
+        "-id": "4",
+        "questionA": "Shrubs.",
+        "questionB": "Annual or perennial herbs, sometimes with a woody base.",
+        "answerA": "5",
+        "answerB": "6"
+      },
+      {
+        "-id": "5",
+        "questionA": "Spiny shrubs with stellate hairs; leaves pinnatifid.",
+        "questionB": "Non-spiny shrubs; leaves lanceolate.",
+        "answerA": "Solanum linneanum",
+        "answerB": "Solanum bonariense"
+      },
+      {
+        "-id": "6",
+        "questionA": "Flowers usually purple, sometimes white.",
+        "questionB": "Flowers usually white, sometimes lilac.",
+        "answerA": "7",
+        "answerB": "8"
+      },
+      {
+        "-id": "7",
+        "questionA": "Calyx non-spiny; fruits c. 1 cm long, scarlet when ripe.",
+        "questionB": "Calyx spiny; fruits 5-30 cm long, purple, white or yellow.",
+        "answerA": "Solanum dulcamara",
+        "answerB": "Solanum melongena"
+      },
+      {
+        "-id": "8",
+        "questionA": "Plants with underground stoloniferous tubers; leaves pinnate; fruit globular, green.",
+        "questionB": "Plants without underground tubers; leaves simple, entire or lobed.",
+        "answerA": "Solanum tuberosum",
+        "answerB": "9"
+      },
+      {
+        "-id": "9",
+        "questionA": "Leaves entire or shallowly lobed; fruits black, occasionally green or yellow.",
+        "questionB": "Leaves deeply lobed; fruits orange or brownish yellow.",
+        "answerA": "Solanum nigrum",
+        "answerB": "Solanum luteum"
+      },
+      {
+        "-id": "10",
+        "questionA": "Herbs.",
+        "questionB": "Shrubs.",
+        "answerA": "11",
+        "answerB": "12"
+      },
+      {
+        "-id": "11",
+        "questionA": "Flowers in terminal branched clusters.",
+        "questionB": "Flowers axillary, solitary.",
+        "answerA": "Nicotiana glauca",
+        "answerB": "Hyoscyamus albus"
+      },
+      {
+        "-id": "12",
+        "questionA": "Flowers dull purple; stamens usually exserted.",
+        "questionB": "Flowers yellow or white; stamens not exserted.",
+        "answerA": "Lycium intricatum",
+        "answerB": "13"
+      },
+      {
+        "-id": "13",
+        "questionA": "Plants grey, stellate-tomentose; flowers in clusters of four to six.",
+        "questionB": "Plants glabrous or sparsely hairy; flowers usually solitary.",
+        "answerA": "Withania somnifera",
+        "answerB": "Withania frutescens"
+      }
+    ]
+  }

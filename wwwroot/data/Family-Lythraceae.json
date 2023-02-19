@@ -1,0 +1,18 @@
+{
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Petals inconspicuous and fugaceous; calyx campanulate.",
+        "questionB": "Petals conspicuous, persistent; calyx conical.",
+        "answerA": "Lythrum borysthenicum",
+        "answerB": "2"
+      },
+      {
+        "-id": "2",
+        "questionA": "Perennials; petals 5-6 mm; stamens twelve, some exceeding sepals.",
+        "questionB": "Annuals; petals 2-3 mm; stamens usually four to six, not exceeding sepals.",
+        "answerA": "Lythrum junceum",
+        "answerB": "Lythrum hyssopifolia"
+      }
+    ]
+  }

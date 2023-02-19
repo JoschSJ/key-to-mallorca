@@ -1,0 +1,179 @@
+{
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Leaves flattened, thin-bladed or only slightly fleshy.",
+        "questionB": "Leaves thick, fleshy or minute on fleshy stems.",
+        "answerA": "2",
+        "answerB": "18"
+      },
+      {
+        "-id": "2",
+        "questionA": "Leaves ciliate, lanceolate eglandular.",
+        "questionB": "Leaves usually glabrous, if pubescent then lobed and glandular.",
+        "answerA": "Bassia hyssopifolia",
+        "answerB": "3"
+      },
+      {
+        "-id": "3",
+        "questionA": "Flowers mostly hermaphrodite; fruit surrounded by two to five persistent perianth segments.",
+        "questionB": "Flowers  all  unisexual;  fruit enclosed in two conspicuous enlarged flattened bracteoles.",
+        "answerA": "4",
+        "answerB": "13"
+      },
+      {
+        "-id": "4",
+        "questionA": "Leaves not more than 5 cm, some lobed or dentate.",
+        "questionB": "Some leaves more than 5 cm, all entire.",
+        "answerA": "5",
+        "answerB": "12"
+      },
+      {
+        "-id": "5",
+        "questionA": "Perennial herbs; leaves hastate.",
+        "questionB": "Annual herbs; leaves not hastate.",
+        "answerA": "Chenopodium bonus-henricus",
+        "answerB": "6"
+      },
+      {
+        "-id": "6",
+        "questionA": "Leaves pubescent glandular, aromatic.",
+        "questionB": "Leaves neither pubescent nor glandular.",
+        "answerA": "Chenopodium ambrosioides",
+        "answerB": "7"
+      },
+      {
+        "-id": "7",
+        "questionA": "Plant smelling of bad fish; leaves rhomboid 5-25 mm, without teeth, grey-green above, mealy grey beneath.",
+        "questionB": "Plant not foul smelling; leaves variously shaped, often dentate.",
+        "answerA": "Chenopodium vulvaria",
+        "answerB": "8"
+      },
+      {
+        "-id": "8",
+        "questionA": "Leaves coarsely dentate, shining, dark green often turning yellow or red; seeds black with acute margin.",
+        "questionB": "Leaves usually pale or greyish green, not shining.",
+        "answerA": "Chenopodium murale",
+        "answerB": "9"
+      },
+      {
+        "-id": "9",
+        "questionA": "Leaves at least as broad as long.",
+        "questionB": "Leaves longer than broad.",
+        "answerA": "Chenopodium opulifolium",
+        "answerB": "10"
+      },
+      {
+        "-id": "10",
+        "questionA": "Leaves thin and translucent, with acute forward-pointing teeth; testa with deep radial furrows.",
+        "questionB": "Leaves not translucent; testa without deep radial furrows.",
+        "answerA": "Chenopodium suecicum",
+        "answerB": "11"
+      },
+      {
+        "-id": "11",
+        "questionA": "Leaves green above, mealy glaucous below, margins sinuate dentate; testa without radial furrows.",
+        "questionB": "Leaves mealy on both surfaces, margins not sinuate with or without teeth; testa with shallow radial furrows.",
+        "answerA": "Chenopodium glaucum",
+        "answerB": "Chenopodium album"
+      },
+      {
+        "-id": "12",
+        "questionA": "Bracts  absent or very  small  towards  the  apex of  the  inflorescence; segments of fruiting perianth up to 3 mm long, incurved.",
+        "questionB": "Bracts conspicuous throughout the inflorescence; segments of fruiting perianth up to 5 mm long, erect, often incurved at apex.",
+        "answerA": "Beta vulgaris",
+        "answerB": "Beta macrocarpa"
+      },
+      {
+        "-id": "13",
+        "questionA": "Small shrubs.",
+        "questionB": "Annual herbs.",
+        "answerA": "14",
+        "answerB": "15"
+      },
+      {
+        "-id": "14",
+        "questionA": "Bracteoles of fruit rounded, reniform.",
+        "questionB": "Bracteoles of fruit three-lobed.",
+        "answerA": "15",
+        "answerB": "Halimione portulacoides"
+      },
+      {
+        "-id": "15",
+        "questionA": "Shrubs; leaves ovate, leathery.",
+        "questionB": "Annual herbs; leaves neither ovate nor leathery.",
+        "answerA": "Atriplex halimus",
+        "answerB": "16"
+      },
+      {
+        "-id": "16",
+        "questionA": "Plant procumbent; leaves lobed; flowers in axillary cymes.",
+        "questionB": "Plant erect; leaves not lobed; flowers in axillary racemes.",
+        "answerA": "Atriplex rosea",
+        "answerB": "17"
+      },
+      {
+        "-id": "17",
+        "questionA": "Upper  leaves  lanceolate,  lower  diamond-shaped;  bracts  diamond-shaped; flowers pale green.",
+        "questionB": "Leaves hastate; bracts lanceolate; flowers usually red.",
+        "answerA": "Atriplex patula",
+        "answerB": "Atriplex prostrata"
+      },
+      {
+        "-id": "18",
+        "questionA": "Stems not jointed; leaves alternate, spreading.",
+        "questionB": "Stems jointed; leaves minute.",
+        "answerA": "19",
+        "answerB": "23"
+      },
+      {
+        "-id": "19",
+        "questionA": "Perianth fleshy in fruit.",
+        "questionB": "Perianth tough with a transverse winged ridge.",
+        "answerA": "20",
+        "answerB": "21"
+      },
+      {
+        "-id": "20",
+        "questionA": "Annual herbs.",
+        "questionB": "Rhizomatous shrubs.",
+        "answerA": "Suaeda maritima",
+        "answerB": "Suaeda vera"
+      },
+      {
+        "-id": "21",
+        "questionA": "Pubescent shrubs.",
+        "questionB": "Annual herbs.",
+        "answerA": "Salsola vermiculata",
+        "answerB": "22"
+      },
+      {
+        "-id": "22",
+        "questionA": "Leaves and bracteoles with short mucronate tips, non-spiny",
+        "questionB": "Leaves and bracteoles spine-tipped.",
+        "answerA": "Salsola soda",
+        "answerB": "Salsola kali"
+      },
+      {
+        "-id": "23",
+        "questionA": "Annual herbs.",
+        "questionB": "Shrubby plants.",
+        "answerA": "Salicornia ramosissima",
+        "answerB": "24"
+      },
+      {
+        "-id": "24",
+        "questionA": "Erect shrub, glaucous becoming yellowish green or reddish; segments generally broader than long; flowers of each segment protruding, free, falling  to  leave  undivided  hollow; seeds black, covered in small tubercles.",
+        "questionB": "Rhizomatous  perennial   with erect green stems; segments generally longer than broad; flowers in cymes, falling to leave tripartite segments; seeds brown covered in hairs.",
+        "answerA": "Arthrocnemum machrostachyum",
+        "answerB": "25"
+      },
+      {
+        "-id": "25",
+        "questionA": "Rhizomatous mat-forming shrubs, green becoming red or brownish; seeds covered with curved or hooked hairs.",
+        "questionB": "Shrubs not forming mats, glaucous; seeds covered with conical hairs.",
+        "answerA": "Sarcocornia perennis",
+        "answerB": "Sarcocornia fruticosa"
+      }
+    ]
+  }

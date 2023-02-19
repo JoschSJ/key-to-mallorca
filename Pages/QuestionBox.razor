@@ -1,0 +1,50 @@
+﻿@* $1$ @using key_to_mallorca_wasm. #1# *@
+@* @inject QuestionService QuestionService *@
+@* <div class="question-button-container"> *@
+@*     <button class="question-button" @onclick="ClickHandlerA"> *@
+@*         <span class="colourful">@QuestionService.CurrentQuestion.QuestionA</span> *@
+@*     </button> *@
+@*     <button class="question-button" @onclick="ClickHandlerB"> *@
+@*         <span class="colourful">@QuestionService.CurrentQuestion.QuestionB</span> *@
+@*     </button> *@
+@* </div> *@
+@* <div class="question-button-container"> *@
+@*     <button class="question-button" @onclick="QuestionService.GetPreviousQuestion">Back</button> *@
+@*     <button class="question-button" @onclick="QuestionService.GetNextQuestionFromHistory">Forward</button> *@
+@* </div> *@
+@* <button class="question-button" @onclick="QuestionService.Reset">Reset</button> *@
+@* *@
+@* *@
+@* @code{ *@
+@* *@
+@*     private Question? Question { get; set; } *@
+@* *@
+@*     private void ClickHandlerA() *@
+@*     { *@
+@*         AnswerClickHandler(QuestionService.CurrentQuestion.AnswerA); *@
+@*     } *@
+@* *@
+@*     private void ClickHandlerB() *@
+@*     { *@
+@*         AnswerClickHandler(QuestionService.CurrentQuestion.AnswerB); *@
+@*     } *@
+@* *@
+@*     private bool _isFinalAnswer(string answer) *@
+@*     { *@
+@*         return !int.TryParse(answer, out _) && !answer.StartsWith("Family") && !answer.StartsWith("Group"); *@
+@*     } *@
+@* *@
+@*     private void AnswerClickHandler(string answer) *@
+@*     { *@
+@*         if (_isFinalAnswer(answer)) *@
+@*         { *@
+@*     // TODO get plant *@
+@*             Console.WriteLine($"Get plant: {answer}"); *@
+@*         } *@
+@*         else *@
+@*         { *@
+@*             await QuestionService.LoadNextQuestionAsync(answer); *@
+@*         } *@
+@*     } *@
+@* *@
+@* } *@

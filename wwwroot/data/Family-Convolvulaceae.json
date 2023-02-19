@@ -1,0 +1,88 @@
+{
+  "question": [
+      {
+        "-id": "1",
+        "questionA": "Parasitic plants without leaves; flowers in dense clusters.",
+        "questionB": "Photosynthetic plants with green leaves.",
+        "answerA": "2",
+        "answerB": "4"
+      },
+      {
+        "-id": "2",
+        "questionA": "Stems stout, orange; glomerules 10-12 mm; stigma capitate.",
+        "questionB": "Stems weak, red; glomerules 10 mm or less; stigma elongate.",
+        "answerA": "Cuscuta campestris",
+        "answerB": "3"
+      },
+      {
+        "-id": "3",
+        "questionA": "Glomerules 5-6 mm; calyx lobes fleshy, keeled.",
+        "questionB": "Glomerules 7-10 mm; calyx lobes membranous, acute or acuminate.",
+        "answerA": "Cuscuta epithymum-ssp.-kotschyi",
+        "answerB": "Cuscuta epithymum-ssp.- epithymum"
+      },
+      {
+        "-id": "4",
+        "questionA": "Flowers inconspicuous; corolla with five spreading lobes; styles two.",
+        "questionB": "Flowers conspicuous, funnel-shaped; corolla not lobed, or lobes not spreading; style one.",
+        "answerA": "Cressa cretica",
+        "answerB": "5"
+      },
+      {
+        "-id": "5",
+        "questionA": "Stigma one, club-shaped.",
+        "questionB": "Stigmas two, linear.",
+        "answerA": "Ipomoea sagittata",
+        "answerB": "6"
+      },
+      {
+        "-id": "6",
+        "questionA": "Calyx encircled by two large leafy bracteoles.",
+        "questionB": "Calyx not encircled by two large leafy bracteoles.",
+        "answerA": "7",
+        "answerB": "8"
+      },
+      {
+        "-id": "7",
+        "questionA": "Climbing perennials; leaves cordate to sagittate, not fleshy; bracteoles longer than the calyx; flowers 35-70 mm across, white.",
+        "questionB": "Trailing  perennials;  leaves  reniform,  fleshy;  bracteoles  shorter than calyx; flowers 40-50 mm across, pink.",
+        "answerA": "Calystegia sepium",
+        "answerB": "Calystegia soldanella"
+      },
+      {
+        "-id": "8",
+        "questionA": "Flowers at least partly blue or purple.",
+        "questionB": "Flowers pink, white or yellowish.",
+        "answerA": "9",
+        "answerB": "10"
+      },
+      {
+        "-id": "9",
+        "questionA": "Corolla 1 cm across, deeply five-lobed, blue; pedicels shorter than the leaves.",
+        "questionB": "Corolla 2-5 cm across, not deeply lobed, throat yellow, surrounded by white middle zone and wide blue or purple margin; pedicels longer than leaves.",
+        "answerA": "Convolvulus siculus",
+        "answerB": "Convolvulus tricolor"
+      },
+      {
+        "-id": "10",
+        "questionA": "Non-climbing plants; leaves linear or lanceolate.",
+        "questionB": "Non-climbing plants; leaves linear or lanceolate.",
+        "answerA": "11",
+        "answerB": "12"
+      },
+      {
+        "-id": "11",
+        "questionA": "Bushy perennial to 50 cm; leaves silvery, coated with many adpressed hairs; flowers pink or white.",
+        "questionB": "Tufted  perennial   to  30  cm;  leaves green, not silvery, coated with spreading hairs; flowers pink.",
+        "answerA": "Convolvulus lineatus",
+        "answerB": "Convolvulus cantabrica"
+      },
+      {
+        "-id": "12",
+        "questionA": "Leaves sagittate; corolla and calyx glabrous; corolla with purple stripes on the outside.",
+        "questionB": "Lower leaves triangular-cordate, upper leaves deeply divided; corolla and calyx hairy; corolla with dark pink throat.",
+        "answerA": "Convolvulus arvensis",
+        "answerB": "Convolvulus althaeoides"
+      }
+    ]
+  }

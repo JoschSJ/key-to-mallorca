@@ -1,0 +1,200 @@
+{
+    "question": [
+        {
+            "-id": "1",
+            "questionA": "Stamens at least twice as many as corolla lobes.",
+            "questionB": "Stamens as many as or fewer than corolla lobes.",
+            "answerA": "2",
+            "answerB": "3"
+        },
+        {
+            "-id": "2",
+            "questionA": "Herbs with succulent leaves.",
+            "questionB": "Shrubs or trees.",
+            "answerA": "Family-Crassulaceae",
+            "answerB": "Family-Ericaceae"
+        },
+        {
+            "-id": "3",
+            "questionA": "Plants without chlorophyll; leaves scale-like.",
+            "questionB": "Green plants.",
+            "answerA": "4",
+            "answerB": "5"
+        },
+        {
+            "-id": "4",
+            "questionA": "Flowers zygomorphic; stem stout and erect.",
+            "questionB": "Flowers actinomorphic; stem slender and twining.",
+            "answerA": "Family-Orobanchaceae",
+            "answerB": "Family-Convolvulaceae"
+        },
+        {
+            "-id": "5",
+            "questionA": "Sepals two.",
+            "questionB": "Sepals more than two.",
+            "answerA": "Portulaca oleracea",
+            "answerB": "6"
+        },
+        {
+            "-id": "6",
+            "questionA": "Ovary deeply four-lobed with one ovule in each lobe.",
+            "questionB": "Ovary not four-lobed.",
+            "answerA": "7",
+            "answerB": "8"
+        },
+        {
+            "-id": "7",
+            "questionA": "Leaves alternate.",
+            "questionB": "Leaves opposite.",
+            "answerA": "Family-Boraginaceae",
+            "answerB": "Family-Lamiaceae"
+        },
+        {
+            "-id": "8",
+            "questionA": "Flowers actinomorphic or nearly so.",
+            "questionB": "Flowers strongly zygomorphic.",
+            "answerA": "9",
+            "answerB": "25"
+        },
+        {
+            "-id": "9",
+            "questionA": "Carpels free.",
+            "questionB": "Carpels united.",
+            "answerA": "10",
+            "answerB": "12"
+        },
+        {
+            "-id": "10",
+            "questionA": "Leaves peltate; carpels five.",
+            "questionB": "Leaves not peltate; carpels two.",
+            "answerA": "Family-Crassulaceae",
+            "answerB": "11"
+        },
+        {
+            "-id": "11",
+            "questionA": "Corona present; styles two, free but united by the stigma.",
+            "questionB": "Corona absent; styles two, united except at the base.",
+            "answerA": "Family-Asclepiadaceae",
+            "answerB": "Family-Apocynaceae"
+        },
+        {
+            "-id": "12",
+            "questionA": "Stamens fewer than corolla lobes.",
+            "questionB": "Stamens as many as corolla lobes.",
+            "answerA": "13",
+            "answerB": "16"
+        },
+        {
+            "-id": "13",
+            "questionA": "Herbs.",
+            "questionB": "Shrubs or trees.",
+            "answerA": "Family-Scrophulariaceae",
+            "answerB": "14"
+        },
+        {
+            "-id": "14",
+            "questionA": "Leaves opposite.",
+            "questionB": "Leaves alternate.",
+            "answerA": "Family-Oleaceae",
+            "answerB": "15"
+        },
+        {
+            "-id": "15",
+            "questionA": "Flowers yellow.",
+            "questionB": "Flowers not yellow.",
+            "answerA": "Family-Oleaceae",
+            "answerB": "Family-Scrophulariaceae"
+        },
+        {
+            "-id": "16",
+            "questionA": "Stamens opposite the corolla lobes.",
+            "questionB": "Stamens alternating with the corolla lobes.",
+            "answerA": "17",
+            "answerB": "18"
+        },
+        {
+            "-id": "17",
+            "questionA": "Styles or stigmas more than one; ovule one.",
+            "questionB": "Style one; stigma one; ovules numerous.",
+            "answerA": "Family-Plumbaginaceae",
+            "answerB": "Family-Primulaceae"
+        },
+        {
+            "-id": "18",
+            "questionA": "Leaves opposite.",
+            "questionB": "Leaves alternate or all radical.",
+            "answerA": "19",
+            "answerB": "20"
+        },
+        {
+            "-id": "19",
+            "questionA": "Shrubs.",
+            "questionB": "Herbs.",
+            "answerA": "Family-Ericaceae",
+            "answerB": "Family-Gentianaceae"
+        },
+        {
+            "-id": "20",
+            "questionA": "Sepals, petals and stamens four.",
+            "questionB": "Sepals, petals and stamens five (rarely, sepals fewer).",
+            "answerA": "21",
+            "answerB": "22"
+        },
+        {
+            "-id": "21",
+            "questionA": "Shrubs.",
+            "questionB": "Herbs.",
+            "answerA": "Ilex aquifolium",
+            "answerB": "Family-Plantaginaceae"
+        },
+        {
+            "-id": "22",
+            "questionA": "Ovules four or fewer.",
+            "questionB": "Ovules numerous.",
+            "answerA": "23",
+            "answerB": "24"
+        },
+        {
+            "-id": "23",
+            "questionA": "Flowers numerous in scorpioid cymes; corolla lobes distinct.",
+            "questionB": "Flowers solitary or few; not in scorpioid cymes; corolla not or scarcely lobed.",
+            "answerA": "Family-Boraginaceae",
+            "answerB": "Family-Convolvulaceae"
+        },
+        {
+            "-id": "24",
+            "questionA": "Corolla tube much shorter than lobes; stamens spreading.",
+            "questionB": "Corolla tube long or anthers connivent.",
+            "answerA": "Family-Scrophulariaceae",
+            "answerB": "Family-Solanaceae"
+        },
+        {
+            "-id": "25",
+            "questionA": "Anthers opening by pores.",
+            "questionB": "Anthers opening by slits.",
+            "answerA": "Family-Ericaceae",
+            "answerB": "26"
+        },
+        {
+            "-id": "26",
+            "questionA": "Flowers small, crowded into dense, rounded heads.",
+            "questionB": "Flowers not in dense heads.",
+            "answerA": "Family-Globulariaceae",
+            "answerB": "27"
+        },
+        {
+            "-id": "27",
+            "questionA": "Ovules numerous.",
+            "questionB": "Ovules four.",
+            "answerA": "Family-Scrophulariaceae",
+            "answerB": "28"
+        },
+        {
+            "-id": "28",
+            "questionA": "Bracts shorter than calyx.",
+            "questionB": "Bracts or bracteoles much longer than calyx.",
+            "answerA": "Family-Verbenaceae",
+            "answerB": "Acanthus mollis"
+        }
+    ]
+}

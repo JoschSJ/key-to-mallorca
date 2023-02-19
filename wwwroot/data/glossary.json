@@ -1,0 +1,1574 @@
+{
+      "item": [
+      {
+        "-id": "1",
+        "word": "abaxial",
+        "definition": "the surface of a leaf or bract which faces away from the stem, usually the lower surface but not always."
+      },
+      {
+        "-id": "2",
+        "word": "achene",
+        "definition": "leathery single-seeded fruit"
+      },
+      {
+        "-id": "3",
+        "word": "actinomorphic",
+        "definition": "radially symmetrical, usually of flowers (cf. zygomorphic)"
+      },
+      {
+        "-id": "4",
+        "word": "adaxial",
+        "definition": "the surface of a leaf or bract which faces towards the stem, usually the upper surface but not always"
+      },
+      {
+        "-id": "5",
+        "word": "adpressed",
+        "definition": "pressed closely towards the supporting surface, usually of hairs"
+      },
+      {
+        "-id": "6",
+        "word": "adventitious",
+        "definition": "arising in an unusual position, as with roots arising from the node of a stem or buds arising from a wound"
+      },
+      {
+        "-id": "7",
+        "word": "amplexicaul",
+        "definition": "clasping the stem, of leaves or bracts"
+      },
+      {
+        "-id": "8",
+        "word": "anastomosing",
+        "definition": "joining up to form loops, usually of leaf-veins"
+      },
+      {
+        "-id": "9",
+        "word": "anemophilous",
+        "definition": "wind-pollinated"
+      },
+      {
+        "-id": "10",
+        "word": "angustiseptate",
+        "definition": "of a silicula flattened at right-angles to the septum between the valves (cf. latiseptate)"
+      },
+      {
+        "-id": "11",
+        "word": "annual",
+        "definition": "of a plant flowering and dying in its first year (cf. biennial, perennial)"
+      },
+      {
+        "-id": "12",
+        "word": "annulus",
+        "definition": "little ring, especially of thick-walled cells involved in opening fern sporangia"
+      },
+      {
+        "-id": "13",
+        "word": "anther",
+        "definition": "sac-like structure, bearing pollen"
+      },
+      {
+        "-id": "14",
+        "word": "apiculate",
+        "definition": "with a small broad point at the apex"
+      },
+      {
+        "-id": "15",
+        "word": "appendix",
+        "definition": "club-shaped organ at the top of the spadix, often heat-producing and/or foetid"
+      },
+      {
+        "-id": "16",
+        "word": "aril",
+        "definition": "fleshy appendage of a seed, usually in gymnosperms which lack a fruit"
+      },
+      {
+        "-id": "17",
+        "word": "aristate",
+        "definition": "awned, usually of leaves or bracts with an awn at the tip"
+      },
+      {
+        "-id": "18",
+        "word": "auricle",
+        "definition": "small ear-like projection at the base of the leaf-blade (e.g Poaceae)"
+      },
+      {
+        "-id": "19",
+        "word": "auriculate",
+        "definition": "with auricles"
+      },
+      {
+        "-id": "20",
+        "word": "awn",
+        "definition": "stiff bristle-like projectionfromthe tip or back of the lemma (Poaceae), or froma fruit (usually the indurated style, e.g. Erodium) or less frequently from the tip of a leaf"
+      },
+      {
+        "-id": "21",
+        "word": "axil",
+        "definition": "place between the base of a leaf or petiole and the upper internode of the stem"
+      },
+      {
+        "-id": "22",
+        "word": "axile",
+        "definition": "form of placentation where the ovules arise from the centre of a multilocular ovary"
+      },
+      {
+        "-id": "23",
+        "word": "axillary",
+        "definition": "borne in the axils of the leaves"
+      },
+      {
+        "-id": "24",
+        "word": "beak",
+        "definition": "tapering extension, in the form of a bird’s beak, usually of bracts or achenes"
+      },
+      {
+        "-id": "25",
+        "word": "berry",
+        "definition": "fleshy fruit, usually several seeded, without a stony layer surrounding the seeds (cf. drupe)"
+      },
+      {
+        "-id": "26",
+        "word": "biennial",
+        "definition": "of a plant flowering and dying in its second year (cf. annual, perennial)"
+      },
+      {
+        "-id": "27",
+        "word": "bifid",
+        "definition": "split deeply into two (cf. notched)"
+      },
+      {
+        "-id": "28",
+        "word": "bifurcate",
+        "definition": "forked with two equal branches"
+      },
+      {
+        "-id": "29",
+        "word": "bipinnate",
+        "definition": "twice successively pinnately divided"
+      },
+      {
+        "-id": "30",
+        "word": "biternate",
+        "definition": "twice successively ternately divided"
+      },
+      {
+        "-id": "31",
+        "word": "blade",
+        "definition": "upper portion of the leaf of a grass or sedge"
+      },
+      {
+        "-id": "32",
+        "word": "boss",
+        "definition": "rounded swelling"
+      },
+      {
+        "-id": "33",
+        "word": "bract",
+        "definition": "leaf- or scale-like appendage, usually subtending a flower or inflorescence"
+      },
+      {
+        "-id": "34",
+        "word": "bracteole",
+        "definition": "small bract within a compound inflorescence"
+      },
+      {
+        "-id": "35",
+        "word": "bulb",
+        "definition": "an underground bud, surrounded byfleshy leaves or scales and sometimes by a tunic"
+      },
+      {
+        "-id": "36",
+        "word": "bulbil",
+        "definition": "small bulb or tuber, arising in the axil of an aerial leaf or inflorescence"
+      },
+      {
+        "-id": "37",
+        "word": "caducous",
+        "definition": "falling off at an early stage (cf. fugacious)"
+      },
+      {
+        "-id": "38",
+        "word": "caespitose",
+        "definition": "tufted"
+      },
+      {
+        "-id": "39",
+        "word": "calyx",
+        "definition": "collection of sepals"
+      },
+      {
+        "-id": "40",
+        "word": "campanulate",
+        "definition": "bell-shaped"
+      },
+      {
+        "-id": "41",
+        "word": "canaliculate",
+        "definition": "striated with longitudinal grooves"
+      },
+      {
+        "-id": "42",
+        "word": "capitate",
+        "definition": "of an inflorescence, compacted in the form of a head"
+      },
+      {
+        "-id": "43",
+        "word": "capitulum",
+        "definition": "flat-bottomed cup-like inflorescence"
+      },
+      {
+        "-id": "44",
+        "word": "capsule",
+        "definition": "a dry dehiscent fruit composed of more than one carpel"
+      },
+      {
+        "-id": "45",
+        "word": "carpel",
+        "definition": "ovule-bearing structure,  representative  of  the megasporophyll: an ovary consists of one or more carpels (cf. stamen)"
+      },
+      {
+        "-id": "46",
+        "word": "caruncle",
+        "definition": "fleshy outgrowth"
+      },
+      {
+        "-id": "47",
+        "word": "caryopsis",
+        "definition": "specialised fruit where the pericarp is fused to the testa (Poaceae)"
+      },
+      {
+        "-id": "48",
+        "word": "cauline",
+        "definition": "of a leaf attached above the base of the stem (cf. radical)"
+      },
+      {
+        "-id": "49",
+        "word": "chasmogamous",
+        "definition": "of flowers which open normally (cf. cleistogamous)"
+      },
+      {
+        "-id": "50",
+        "word": "ciliate",
+        "definition": "with regularly arranged hairs projecting from the margin"
+      },
+      {
+        "-id": "51",
+        "word": "cladode",
+        "definition": "a green stem taking the place of a photosynthetic leaf (cf. phyllode)"
+      },
+      {
+        "-id": "52",
+        "word": "claw",
+        "definition": "lower portion of a petal which is tapered inwards to a narrow base"
+      },
+      {
+        "-id": "53",
+        "word": "cleistogamous",
+        "definition": "of flowers which never open and so are always self-pollinated (cf. chasmogamous)"
+      },
+      {
+        "-id": "54",
+        "word": "compound",
+        "definition": "of a modular structure such as a divided leaf or inflorescence"
+      },
+      {
+        "-id": "55",
+        "word": "concave",
+        "definition": "an incurved plane (cf. convex)"
+      },
+      {
+        "-id": "56",
+        "word": "connate organs",
+        "definition": "of  the same kind growing together and becoming joined, though distinct in  origin"
+      },
+      {
+        "-id": "57",
+        "word": "convex",
+        "definition": "an out-curved plane (cf. concave)"
+      },
+      {
+        "-id": "58",
+        "word": "cordate",
+        "definition": "heart-shaped (as in a playing card or St Valentine’s Card), usually of  the base of a leaf with two lobes"
+      },
+      {
+        "-id": "59",
+        "word": "corm",
+        "definition": "swollen  section  of underground stem of one year’s duration, usually erect and tunicated, topped by successive corms in future years (cf. tuber)"
+      },
+      {
+        "-id": "60",
+        "word": "corolla",
+        "definition": "collection of petals"
+      },
+      {
+        "-id": "61",
+        "word": "corymb",
+        "definition": "raceme with  pedicels shortening towards the top so that all the flowers are more or less at the same level"
+      },
+      {
+        "-id": "62",
+        "word": "corymbiform",
+        "definition": "in the form of a corymb"
+      },
+      {
+        "-id": "63",
+        "word": "corymbose",
+        "definition": "flat-topped inflorescence, in the form of a corymb"
+      },
+      {
+        "-id": "64",
+        "word": "crenate",
+        "definition": "of a margin with prominent rounded teeth (cf. dentate, serrate)"
+      },
+      {
+        "-id": "65",
+        "word": "crenulated",
+        "definition": "of a margin with very small rounded teeth (cf. denticulate, serrulate)"
+      },
+      {
+        "-id": "66",
+        "word": "cruciform",
+        "definition": "arranged in the form of a cross"
+      },
+      {
+        "-id": "67",
+        "word": "cuneate",
+        "definition": "tapered towards the base, especially of leaves"
+      },
+      {
+        "-id": "68",
+        "word": "cyme",
+        "definition": "inflorescence in which successive pairs of flowers arise opposite each other, on either side of an older flower."
+      },
+      {
+        "-id": "69",
+        "word": "cymose",
+        "definition": "in the form of a cyme"
+      },
+      {
+        "-id": "70",
+        "word": "decumbent",
+        "definition": "of  stems  lying  along  the ground but with vertical  growing points (cf. procumbent, prostrate)"
+      },
+      {
+        "-id": "71",
+        "word": "decurrent",
+        "definition": "having the base prolonged down the axis, as in leaves where the blade is continued as a wing on the petiole or stem"
+      },
+      {
+        "-id": "72",
+        "word": "decussate",
+        "definition": "of opposite pairs in  successive  alternating  planes  (East-West, North-South, East-West etc.)"
+      },
+      {
+        "-id": "73",
+        "word": "deflexed",
+        "definition": "bent sharply downwards (cf. reflexed)"
+      },
+      {
+        "-id": "74",
+        "word": "dehiscent",
+        "definition": "opening at maturity to shed its seeds or spores, of a fruit, capsule or sporangium"
+      },
+      {
+        "-id": "75",
+        "word": "dentate",
+        "definition": "of a margin with prominent pointed teeth (cf. crenate, serrate)"
+      },
+      {
+        "-id": "76",
+        "word": "denticulate",
+        "definition": "of a margin with very small pointed teeth (cf. crenulate, serrulate)"
+      },
+      {
+        "-id": "77",
+        "word": "diadelphous",
+        "definition": "of a flower where all but one of the stamens are fused into a tube (Fabaceae)"
+      },
+      {
+        "-id": "78",
+        "word": "dichotomous",
+        "definition": "branching into two divisions"
+      },
+      {
+        "-id": "79",
+        "word": "didymous",
+        "definition": "formed of two similar parts attached to each other by a small portion of their surface"
+      },
+      {
+        "-id": "80",
+        "word": "dioecious",
+        "definition": "of  species  with  separate  male  and  female  individuals  (literally two homes, cf. monoecious)"
+      },
+      {
+        "-id": "81",
+        "word": "disarticulating",
+        "definition": "fracturing at the nodes, as of the axis of a spikelet at maturity (Poaceae)"
+      },
+      {
+        "-id": "82",
+        "word": "disc-floret",
+        "definition": "floret from the disc of a capitulum (cf. marginal floret, ray-floret)"
+      },
+      {
+        "-id": "83",
+        "word": "discoid",
+        "definition": "in the form of a disc"
+      },
+      {
+        "-id": "84",
+        "word": "divaricate",
+        "definition": "diverging at a wide angle"
+      },
+      {
+        "-id": "85",
+        "word": "drupe",
+        "definition": "fleshy fruit, with one or more seeds surrounded by a stony layer (cf. berry)"
+      },
+      {
+        "-id": "86",
+        "word": "eglandular",
+        "definition": "without glands"
+      },
+      {
+        "-id": "87",
+        "word": "emarginated",
+        "definition": "shallowly notched at the apex"
+      },
+      {
+        "-id": "88",
+        "word": "endemic",
+        "definition": "of a species native to a restricted locality"
+      },
+      {
+        "-id": "89",
+        "word": "entire",
+        "definition": "undivided, without teeth or other appendages"
+      },
+      {
+        "-id": "90",
+        "word": "entomophilous",
+        "definition": "insect-pollinated"
+      },
+      {
+        "-id": "91",
+        "word": "epicalyx",
+        "definition": "ring of small bracts subtending the calyx"
+      },
+      {
+        "-id": "92",
+        "word": "epigynous",
+        "definition": "of a flower with an inferior ovary"
+      },
+      {
+        "-id": "93",
+        "word": "epipetalous",
+        "definition": "of stamens attached to the corolla"
+      },
+      {
+        "-id": "94",
+        "word": "epiphyte",
+        "definition": "a plant growing on but not feeding off other plants"
+      },
+      {
+        "-id": "95",
+        "word": "epiphytic",
+        "definition": "of a plant growing on but not feeding off other plants"
+      },
+      {
+        "-id": "96",
+        "word": "exserted",
+        "definition": "protruding"
+      },
+      {
+        "-id": "97",
+        "word": "falcate",
+        "definition": "sickle-shaped"
+      },
+      {
+        "-id": "98",
+        "word": "fascicle",
+        "definition": "bunch or bundle, usually with a short and indeterminate branching pattern"
+      },
+      {
+        "-id": "99",
+        "word": "fasciculate",
+        "definition": "with or in the form of fascicles"
+      },
+      {
+        "-id": "100",
+        "word": "filament",
+        "definition": "stalk bearing an anther"
+      },
+      {
+        "-id": "101",
+        "word": "filiform",
+        "definition": "thread-like"
+      },
+      {
+        "-id": "102",
+        "word": "fimbriate",
+        "definition": "with the margin divided into a fringe"
+      },
+      {
+        "-id": "103",
+        "word": "fistular",
+        "definition": "hollow and cylindrical, tube-like"
+      },
+      {
+        "-id": "104",
+        "word": "flag leaf",
+        "definition": "leaf subtending the inflorescence of a grass"
+      },
+      {
+        "-id": "105",
+        "word": "floret",
+        "definition": "small flower, usually part of a large and/or dense inflorescence"
+      },
+      {
+        "-id": "106",
+        "word": "foetid",
+        "definition": "stinking"
+      },
+      {
+        "-id": "107",
+        "word": "follicle",
+        "definition": "many-seeded fruit formed from a single carpel"
+      },
+      {
+        "-id": "108",
+        "word": "free central",
+        "definition": "of placentation where the ovules are arranged on a central column in a unilocular  fruit"
+      },
+      {
+        "-id": "109",
+        "word": "frond",
+        "definition": "complete leaf of a fern, including blade and stipe"
+      },
+      {
+        "-id": "110",
+        "word": "fugacious",
+        "definition": "withering or falling off very rapidly (cf. caducous)"
+      },
+      {
+        "-id": "111",
+        "word": "G1",
+        "definition": "the lower glume"
+      },
+      {
+        "-id": "112",
+        "word": "G2",
+        "definition": "the upper glume"
+      },
+      {
+        "-id": "113",
+        "word": "geniculate",
+        "definition": "bent abruptly making a knee particularly of awns arising from the back of  the lemma (Poaceae)"
+      },
+      {
+        "-id": "114",
+        "word": "glabrous",
+        "definition": "smooth, without hairs or bristles"
+      },
+      {
+        "-id": "115",
+        "word": "glaucous",
+        "definition": "bluish green"
+      },
+      {
+        "-id": "116",
+        "word": "globose",
+        "definition": "in the form of a globe, spherical"
+      },
+      {
+        "-id": "117",
+        "word": "globular",
+        "definition": "in the form of a globe, spherical"
+      },
+      {
+        "-id": "118",
+        "word": "glomerule",
+        "definition": "globe-shaped cluster of small flowers (Cuscuta)"
+      },
+      {
+        "-id": "119",
+        "word": "glume",
+        "definition": "bract-like structure subtending a spikelet (grasses) or floret (sedges)"
+      },
+      {
+        "-id": "120",
+        "word": "grain",
+        "definition": "specialised fruit of grasses, consisting of a caryopsis"
+      },
+      {
+        "-id": "121",
+        "word": "hastate",
+        "definition": "of leaves with a triangular base"
+      },
+      {
+        "-id": "122",
+        "word": "herb",
+        "definition": "vascular plant with stems which are either entirely non-woody or only slightly woody towards the base (cf. shrub, tree)"
+      },
+      {
+        "-id": "123",
+        "word": "hermaphrodite",
+        "definition": "bisexual flower or individual"
+      },
+      {
+        "-id": "124",
+        "word": "hirsute",
+        "definition": "clothed with long hairs"
+      },
+      {
+        "-id": "125",
+        "word": "hispid",
+        "definition": "coarsely and stiffly hairy (cf. pilose)"
+      },
+      {
+        "-id": "126",
+        "word": "hyaline",
+        "definition": "thin and translucent"
+      },
+      {
+        "-id": "127",
+        "word": "hypanthium",
+        "definition": "long tube between the neck of the corolla and an inferior ovary, formed by fusion of the lower parts of the sepals and petals (Oenothera)"
+      },
+      {
+        "-id": "128",
+        "word": "hypogynous",
+        "definition": "of a flower with a superior ovary"
+      },
+      {
+        "-id": "129",
+        "word": "imbricate",
+        "definition": "of organs with their edges overlapping when in bud, like the tiles of a roof (cf. valvate)"
+      },
+      {
+        "-id": "130",
+        "word": "indurated",
+        "definition": "hardened and toughened"
+      },
+      {
+        "-id": "131",
+        "word": "indusium",
+        "definition": "protective flap covering a sorus"
+      },
+      {
+        "-id": "132",
+        "word": "inflated",
+        "definition": "swollen or distended, as if blown up like a balloon"
+      },
+      {
+        "-id": "133",
+        "word": "inflorescence",
+        "definition": "flowering branch or portion of stem above the last cauline leaf, including its branches, bracts and flowers"
+      },
+      {
+        "-id": "134",
+        "word": "intercalary",
+        "definition": "between other structures"
+      },
+      {
+        "-id": "135",
+        "word": "involucral bract",
+        "definition": "bract contributing to an involucre (esp. Asteraceae)"
+      },
+      {
+        "-id": "136",
+        "word": "involucres",
+        "definition": "collection of bracts subtending an inflorescence"
+      },
+      {
+        "-id": "137",
+        "word": "keel",
+        "definition": "a sharp-edged outer midrib, resembling the keel of a boat, usually of bracts or petals; a petal so formed (Fumaria, Fabaceae)"
+      },
+      {
+        "-id": "138",
+        "word": "keeled",
+        "definition": "with an outer midrib in the form of a keel"
+      },
+      {
+        "-id": "139",
+        "word": "labellum",
+        "definition": "lip formed from the corolla (Orchidaceae)"
+      },
+      {
+        "-id": "140",
+        "word": "lanate",
+        "definition": "wooly"
+      },
+      {
+        "-id": "141",
+        "word": "lanceolate",
+        "definition": "in the form of a lance"
+      },
+      {
+        "-id": "142",
+        "word": "latex",
+        "definition": "milky exudate from some plants"
+      },
+      {
+        "-id": "143",
+        "word": "latiseptate",
+        "definition": "of a silicula flattened parallel to the septum between the valves (cf. angustiseptate)"
+      },
+      {
+        "-id": "144",
+        "word": "lax",
+        "definition": "loose not dense"
+      },
+      {
+        "-id": "145",
+        "word": "lemma",
+        "definition": "green bract-like structure (grass floret)"
+      },
+      {
+        "-id": "146",
+        "word": "ligulate",
+        "definition": "of a leaf or floret with a ligule"
+      },
+      {
+        "-id": "147",
+        "word": "ligule",
+        "definition": "strap-like structure:  either from a split corolla tube (Asteraceae) or a membranous leaf appendage at the junction of the blade and sheath (Cyperaceae, Poaceae)"
+      },
+      {
+        "-id": "148",
+        "word": "loculicidal",
+        "definition": "of a dehiscent fruit splitting down the middle of each loculus of the ovary"
+      },
+      {
+        "-id": "149",
+        "word": "loculus",
+        "definition": "compartment of an anther containing pollen, or of an ovary containing ovules"
+      },
+      {
+        "-id": "150",
+        "word": "marginal",
+        "definition": "floret floret from the circumference of a capitulum (cf. disc-floret, ray-floret)"
+      },
+      {
+        "-id": "151",
+        "word": "megasporangium",
+        "definition": "sporangium producing four megaspores, from a single meiosis"
+      },
+      {
+        "-id": "152",
+        "word": "megaspore",
+        "definition": "large spore (visible to the naked eye) producing a female gametophyte"
+      },
+      {
+        "-id": "153",
+        "word": "megasporophyll",
+        "definition": "leaf bearing a megasporangium"
+      },
+      {
+        "-id": "154",
+        "word": "mericarp",
+        "definition": "one-seeded portion of a syncarpous ovary, split off at maturity"
+      },
+      {
+        "-id": "155",
+        "word": "microsporangium",
+        "definition": "sporangium producing numerous microspores, from several meioses"
+      },
+      {
+        "-id": "156",
+        "word": "microspore",
+        "definition": "microscopic spore producing a male gametophyte"
+      },
+      {
+        "-id": "157",
+        "word": "microsporophyll",
+        "definition": "leaf bearing a microsporangium"
+      },
+      {
+        "-id": "158",
+        "word": "monadelphous",
+        "definition": "of a flower where all the stamens are fused into a tube (Fabaceae)"
+      },
+      {
+        "-id": "159",
+        "word": "monoecious",
+        "definition": "of a species with male and female flowers on the same plant (literally one home, cf. dioecious)"
+      },
+      {
+        "-id": "160",
+        "word": "mucronate",
+        "definition": "abruptly constricted to a short narrow point"
+      },
+      {
+        "-id": "161",
+        "word": "notched",
+        "definition": "shallowly divided by a V-shaped indentation (cf. bifid)"
+      },
+      {
+        "-id": "162",
+        "word": "ob",
+        "definition": "prefix meaning inverted (cf. obovate vs ovate)"
+      },
+      {
+        "-id": "163",
+        "word": "obcordate",
+        "definition": "inverted heart-shaped (as in a playing card or St Valentine’s Card), usually of the apex of a leaf with two lobes"
+      },
+      {
+        "-id": "164",
+        "word": "oblong",
+        "definition": "rectangular but with rounded corners"
+      },
+      {
+        "-id": "165",
+        "word": "obovate",
+        "definition": "egg-shaped, of leaves broadest above the middle"
+      },
+      {
+        "-id": "166",
+        "word": "oval",
+        "definition": "egg-shaped, of leaves broadest below the middle with a rounded tip"
+      },
+      {
+        "-id": "167",
+        "word": "ovary",
+        "definition": "one or more carpels enclosing the ovules: it forms the fruit when ripe."
+      },
+      {
+        "-id": "168",
+        "word": "ovate",
+        "definition": "egg-shaped, of leaves broadest below the middle but with an acute tip"
+      },
+      {
+        "-id": "169",
+        "word": "ovoid",
+        "definition": "in the three-dimensional form of a hen’s egg"
+      },
+      {
+        "-id": "170",
+        "word": "ovule",
+        "definition": "structure enclosing the female gametophyte in flowering plants: it forms the seed when ripe."
+      },
+      {
+        "-id": "171",
+        "word": "palea",
+        "definition": "transparent bract-like structure (grass floret)"
+      },
+      {
+        "-id": "172",
+        "word": "palmate",
+        "definition": "divided into a series of leaflets or lobes, emanating from a common point"
+      },
+      {
+        "-id": "173",
+        "word": "panicle",
+        "definition": "strictly a  branched  racemose  inflorescence,  though  often  used  to describe any branched inflorescence"
+      },
+      {
+        "-id": "174",
+        "word": "papilla",
+        "definition": "(pl. ~ae) small elongated projection or microscopic hair"
+      },
+      {
+        "-id": "175",
+        "word": "papillose",
+        "definition": "covered with papillae"
+      },
+      {
+        "-id": "176",
+        "word": "pappus",
+        "definition": "collection of hairs, surrounding a floret or at the apex of an achene"
+      },
+      {
+        "-id": "177",
+        "word": "parietal",
+        "definition": "form of placentation where the ovules arise from the margins of a unilocular ovary"
+      },
+      {
+        "-id": "178",
+        "word": "pedicel",
+        "definition": "stalk supporting a flower"
+      },
+      {
+        "-id": "179",
+        "word": "peduncle",
+        "definition": "stalk supporting an inflorescence"
+      },
+      {
+        "-id": "180",
+        "word": "pedunculate",
+        "definition": "of an inflorescence with a peduncle"
+      },
+      {
+        "-id": "181",
+        "word": "peltate",
+        "definition": "of a circular disc, supported by a central stalk"
+      },
+      {
+        "-id": "182",
+        "word": "pendulous",
+        "definition": "suspended, hanging down"
+      },
+      {
+        "-id": "183",
+        "word": "pentameric",
+        "definition": "with components in multiples of five"
+      },
+      {
+        "-id": "184",
+        "word": "perennial",
+        "definition": "of a plant surviving and flowering beyond its second year (cf. annual, biennial)"
+      },
+      {
+        "-id": "185",
+        "word": "perfoliate",
+        "definition": "of a leaf or bract with its base united around the stem"
+      },
+      {
+        "-id": "186",
+        "word": "perianth",
+        "definition": "collection of sepals and petals or tepals"
+      },
+      {
+        "-id": "187",
+        "word": "pericarp",
+        "definition": "fruit-wall, derived from the ovary"
+      },
+      {
+        "-id": "188",
+        "word": "perigynous",
+        "definition": "of a flower which is inserted around the ovary, so that the ovary is neither superior nor inferior"
+      },
+      {
+        "-id": "189",
+        "word": "petaloid",
+        "definition": "in the form of a coloured petal"
+      },
+      {
+        "-id": "190",
+        "word": "petiolate",
+        "definition": "leaf with a petiole"
+      },
+      {
+        "-id": "191",
+        "word": "petiole",
+        "definition": "stalk supporting a leaf"
+      },
+      {
+        "-id": "192",
+        "word": "phyllode",
+        "definition": "expanded petiole, taking the place of a leaf (cf. cladode)"
+      },
+      {
+        "-id": "193",
+        "word": "pilose",
+        "definition": "with long soft hairs (cf. hispid, pubescent)"
+      },
+      {
+        "-id": "194",
+        "word": "pinna",
+        "definition": "first division of a pinnate frond"
+      },
+      {
+        "-id": "195",
+        "word": "pinnate",
+        "definition": "divided into a series of opposite-paired leaflets"
+      },
+      {
+        "-id": "196",
+        "word": "pinnatifid",
+        "definition": "divided into a series of opposite-paired lobes"
+      },
+      {
+        "-id": "197",
+        "word": "pinnule",
+        "definition": "subdivision of a pinna"
+      },
+      {
+        "-id": "198",
+        "word": "pinnulet",
+        "definition": "subdivision of a pinnule"
+      },
+      {
+        "-id": "199",
+        "word": "pistil",
+        "definition": "the female reproductive organ of the flower, consisting of ovary, style and stigma"
+      },
+      {
+        "-id": "200",
+        "word": "placentation",
+        "definition": "arrangement of ovules within the ovary or seeds within the fruit"
+      },
+      {
+        "-id": "201",
+        "word": "plumose",
+        "definition": "feathered, feather-like, especially of branched hairs (Asteraceae)"
+      },
+      {
+        "-id": "202",
+        "word": "pollinium",
+        "definition": "(pl. ~a) specialised stamen of orchids which is dispersed intact, along with its neighbour on the viscidium"
+      },
+      {
+        "-id": "203",
+        "word": "procumbent",
+        "definition": "of stems lying loosely along the ground with horizontal growing points (cf. decumbent, prostrate)"
+      },
+      {
+        "-id": "204",
+        "word": "prostrate",
+        "definition": "of  stems  lying  close  to  the ground with horizontal  growing points (cf. decumbent, procumbent)"
+      },
+      {
+        "-id": "205",
+        "word": "puberulent",
+        "definition": "loosely coated in short soft hairs"
+      },
+      {
+        "-id": "206",
+        "word": "puberulous",
+        "definition": "bearing some short soft hairs"
+      },
+      {
+        "-id": "207",
+        "word": "pubescent",
+        "definition": "densely coated in short soft hairs (cf. pilose)"
+      },
+      {
+        "-id": "208",
+        "word": "quadrangular",
+        "definition": "four-angled"
+      },
+      {
+        "-id": "209",
+        "word": "raceme",
+        "definition": "unbranched inflorescence with stalked flowers (cf. spike)"
+      },
+      {
+        "-id": "210",
+        "word": "racemose",
+        "definition": "in the form of a raceme"
+      },
+      {
+        "-id": "211",
+        "word": "rachilla",
+        "definition": "main axis of a spikelet (Poaceae)"
+      },
+      {
+        "-id": "212",
+        "word": "rachis",
+        "definition": "main axis of an inflorescence (Poaceae) or mid-rib of a pinnate leaf"
+      },
+      {
+        "-id": "213",
+        "word": "radical",
+        "definition": "of leaves arising from the base of the stem (cf. cauline)"
+      },
+      {
+        "-id": "214",
+        "word": "ray-floret",
+        "definition": "ligulate marginal floret (cf. disc-floret, marginal floret)"
+      },
+      {
+        "-id": "215",
+        "word": "reflexed",
+        "definition": "bent sharply backwards (cf. deflexed)"
+      },
+      {
+        "-id": "216",
+        "word": "reniform",
+        "definition": "kidney-shaped"
+      },
+      {
+        "-id": "217",
+        "word": "reticulate",
+        "definition": "marked with a network, usually of veins"
+      },
+      {
+        "-id": "218",
+        "word": "revolute",
+        "definition": "rolled downwards"
+      },
+      {
+        "-id": "219",
+        "word": "rhizomatous",
+        "definition": "bearing rhizomes"
+      },
+      {
+        "-id": "220",
+        "word": "rhizome",
+        "definition": "underground stem"
+      },
+      {
+        "-id": "221",
+        "word": "rhomboid",
+        "definition": "in the shape of a diamond in a pack of playing cards"
+      },
+      {
+        "-id": "222",
+        "word": "rosette",
+        "definition": "ring of overlapping leaves, usually close to the ground"
+      },
+      {
+        "-id": "223",
+        "word": "rugose",
+        "definition": "wrinkled"
+      },
+      {
+        "-id": "224",
+        "word": "rugulose",
+        "definition": "with small wrinkles"
+      },
+      {
+        "-id": "225",
+        "word": "saccate",
+        "definition": "with a pouch"
+      },
+      {
+        "-id": "226",
+        "word": "sagittate",
+        "definition": "shaped like an arrowhead"
+      },
+      {
+        "-id": "227",
+        "word": "samara",
+        "definition": "dry indehiscent fruit with a wing extending from the pericarp"
+      },
+      {
+        "-id": "228",
+        "word": "saprophyte",
+        "definition": "a non-photosynthetic plant, living off decayed matter"
+      },
+      {
+        "-id": "229",
+        "word": "saprophytic",
+        "definition": "of a non-photosynthetic plant, living off decayed matter"
+      },
+      {
+        "-id": "230",
+        "word": "scaberulous",
+        "definition": "slightly rough to the touch"
+      },
+      {
+        "-id": "231",
+        "word": "scabrid",
+        "definition": "rough to the touch"
+      },
+      {
+        "-id": "232",
+        "word": "scape",
+        "definition": "the flowering stem of a plant with only radical leaves"
+      },
+      {
+        "-id": "233",
+        "word": "scapigerous",
+        "definition": "bearing a scape"
+      },
+      {
+        "-id": "234",
+        "word": "scarious",
+        "definition": "thin, dry and papery, not usually green"
+      },
+      {
+        "-id": "235",
+        "word": "scorpioid",
+        "definition": "of an inflorescence with flowers in two ranks, on one side of a coiled axis resembling a  scorpion’s tail"
+      },
+      {
+        "-id": "236",
+        "word": "sepaloid",
+        "definition": "in the form of a green sepal"
+      },
+      {
+        "-id": "237",
+        "word": "serrate",
+        "definition": "of a margin with prominent saw-like teeth (cf. crenate, dentate)"
+      },
+      {
+        "-id": "238",
+        "word": "serrulate",
+        "definition": "of a margin with very small saw-like teeth (cf. crenulate, denticulate)"
+      },
+      {
+        "-id": "239",
+        "word": "sessile",
+        "definition": "stalkless"
+      },
+      {
+        "-id": "240",
+        "word": "setaceous",
+        "definition": "shaped like a bristle but not necessarily rigid"
+      },
+      {
+        "-id": "241",
+        "word": "sheath",
+        "definition": "the lower portion of an amplexicaul leaf, which surrounds the stem"
+      },
+      {
+        "-id": "242",
+        "word": "shrub",
+        "definition": "woody plant branching abundantly from the base, usually less than 2m high (cf. herb, tree)"
+      },
+      {
+        "-id": "243",
+        "word": "shrublet",
+        "definition": "warf shrub, usually lees than 50 cm high (cf. shrub)"
+      },
+      {
+        "-id": "244",
+        "word": "silicula",
+        "definition": "broad two-chambered fruit (Brassicaceae, cf. siliqua)"
+      },
+      {
+        "-id": "245",
+        "word": "silique",
+        "definition": "narrow two-chambered fruit (Brassicaceae, cf. silicula)"
+      },
+      {
+        "-id": "246",
+        "word": "simple",
+        "definition": "undivided"
+      },
+      {
+        "-id": "247",
+        "word": "sinuate",
+        "definition": "wavy in the same plane as the surface (cf. undulate)"
+      },
+      {
+        "-id": "248",
+        "word": "sinus",
+        "definition": "the depression between two lobes or teeth"
+      },
+      {
+        "-id": "249",
+        "word": "solitary",
+        "definition": "occurring singly rather than in groups, usually of flowers"
+      },
+      {
+        "-id": "250",
+        "word": "sorus",
+        "definition": "localised gathering of sporangia"
+      },
+      {
+        "-id": "251",
+        "word": "spadix",
+        "definition": "specialised column supporting numerous spirally arranged florets, often with a heat-producing or foetid club-shaped appendix at the top (Araceae)"
+      },
+      {
+        "-id": "252",
+        "word": "spathe",
+        "definition": "large bract subtending and usually enclosing a developing  inflorescence"
+      },
+      {
+        "-id": "253",
+        "word": "spathulate",
+        "definition": "spoon-shaped, broadening towards the tip, of leaves"
+      },
+      {
+        "-id": "254",
+        "word": "spicate",
+        "definition": "in the form of a spike"
+      },
+      {
+        "-id": "255",
+        "word": "spike",
+        "definition": "unbranched inflorescence with spikelets or sessile flowers (cf. raceme)"
+      },
+      {
+        "-id": "256",
+        "word": "spikelet",
+        "definition": "one or more sessile florets, subtended by one or usually two glumes (Poaceae)"
+      },
+      {
+        "-id": "257",
+        "word": "sporophyll",
+        "definition": "spore-bearing leaf"
+      },
+      {
+        "-id": "258",
+        "word": "spur",
+        "definition": "nectar-secreting tube extending from a sepal or petal"
+      },
+      {
+        "-id": "259",
+        "word": "spurred",
+        "definition": "with a spur"
+      },
+      {
+        "-id": "260",
+        "word": "stamen",
+        "definition": "male  reproductive organ of  the  flower,  representative of  the microsporophyll and consisting of an anther and its filament (cf. carpel)"
+      },
+      {
+        "-id": "261",
+        "word": "stigma",
+        "definition": "receptive surface for pollen, at the top of the style"
+      },
+      {
+        "-id": "262",
+        "word": "stipe",
+        "definition": "fern petiole"
+      },
+      {
+        "-id": "263",
+        "word": "stipule",
+        "definition": "small bract at the base of the petiole"
+      },
+      {
+        "-id": "264",
+        "word": "stolon",
+        "definition": "a creeping stem produced by an otherwise erect or rosette-forming plant: it is usually above ground and a means of vegetative spread"
+      },
+      {
+        "-id": "265",
+        "word": "stoloniferous",
+        "definition": "bearing stolons"
+      },
+      {
+        "-id": "266",
+        "word": "striate",
+        "definition": "marked with long narrow depressions or ridges"
+      },
+      {
+        "-id": "267",
+        "word": "strict",
+        "definition": "growing upwards at a slight angle to the vertical"
+      },
+      {
+        "-id": "268",
+        "word": "strobilus",
+        "definition": "(pl. ~i) primitive cone made up of sporophylls"
+      },
+      {
+        "-id": "269",
+        "word": "style",
+        "definition": "stalk conducting pollen tubes from the stigma to the ovule"
+      },
+      {
+        "-id": "270",
+        "word": "subcapitate",
+        "definition": "of an inflorescence, more or less compacted in the form of a head"
+      },
+      {
+        "-id": "271",
+        "word": "subtend",
+        "definition": "support from underneath"
+      },
+      {
+        "-id": "272",
+        "word": "subulate",
+        "definition": "awl-shaped, narrow pointed and more or less flattened"
+      },
+      {
+        "-id": "273",
+        "word": "suture",
+        "definition": "the line of junction between two carpels"
+      },
+      {
+        "-id": "274",
+        "word": "syncarpous",
+        "definition": "of an ovary consisting of several fused carpels"
+      },
+      {
+        "-id": "275",
+        "word": "tap-root",
+        "definition": "principal root, swollen with storage tissues"
+      },
+      {
+        "-id": "276",
+        "word": "tendril",
+        "definition": "climbing organ formed from the whole or part of a stem, leaf or petiole, often the terminal portion of a pinnate leaf (Fabaceae)"
+      },
+      {
+        "-id": "277",
+        "word": "tepal",
+        "definition": "segment of perianth which could be a sepal or petal and replaces both"
+      },
+      {
+        "-id": "278",
+        "word": "terete",
+        "definition": "cylindrical (of stems)"
+      },
+      {
+        "-id": "279",
+        "word": "terminal",
+        "definition": "terminating the growth of a mid-rib or stem, as of a leaflet or inflorescence"
+      },
+      {
+        "-id": "280",
+        "word": "ternate",
+        "definition": "of a leaf divided into three more or less equal parts (cf. trifoliate)"
+      },
+      {
+        "-id": "281",
+        "word": "testa",
+        "definition": "seed-coat, derived from the ovule"
+      },
+      {
+        "-id": "282",
+        "word": "tetrameric",
+        "definition": "with components in multiples of four"
+      },
+      {
+        "-id": "283",
+        "word": "tomentose",
+        "definition": "coated in short cottony hairs"
+      },
+      {
+        "-id": "284",
+        "word": "tomentum",
+        "definition": "a dense covering of short cottony hairs"
+      },
+      {
+        "-id": "285",
+        "word": "torulose",
+        "definition": "with semicircular ridges"
+      },
+      {
+        "-id": "286",
+        "word": "translucent",
+        "definition": "a material  which scatters transmitted light, so that images cannot be clearly viewed through it"
+      },
+      {
+        "-id": "287",
+        "word": "transparent",
+        "definition": "a material  which does not scatter transmitted light, so that  images  can be clearly viewed through it"
+      },
+      {
+        "-id": "288",
+        "word": "tree",
+        "definition": "woody plant with a main trunk, not normally branching less than 1m above the base, usually more than 2m high (cf. herb, shrub)"
+      },
+      {
+        "-id": "289",
+        "word": "trifoliate",
+        "definition": "of a leaf divided into three leaflets which may or may not be equal (cf. ternate)"
+      },
+      {
+        "-id": "290",
+        "word": "trigonous",
+        "definition": "three-angled structure, angles obtuse (cf. triquetrous)"
+      },
+      {
+        "-id": "291",
+        "word": "trimeric",
+        "definition": "with components in multiples of three"
+      },
+      {
+        "-id": "292",
+        "word": "tripinnate",
+        "definition": "thrice successively pinnately divided"
+      },
+      {
+        "-id": "293",
+        "word": "triquetrus",
+        "definition": "three-angled structure, angles acute (cf. trigonous)"
+      },
+      {
+        "-id": "294",
+        "word": "truncate",
+        "definition": "abruptly squared off, especially of a leaf-base"
+      },
+      {
+        "-id": "295",
+        "word": "tuber",
+        "definition": "a swollen portion of a stem or root of one year’s duration, not giving rise to successive tubers in later years (cf. corm)"
+      },
+      {
+        "-id": "296",
+        "word": "tubercle",
+        "definition": "a small spherical or ovoid swelling"
+      },
+      {
+        "-id": "297",
+        "word": "tuberculate",
+        "definition": "bearing tubercles"
+      },
+      {
+        "-id": "298",
+        "word": "tubular",
+        "definition": "of a floret with corolla fused to form an intact tube"
+      },
+      {
+        "-id": "299",
+        "word": "tunic",
+        "definition": "scarious covering around a bulb or corm"
+      },
+      {
+        "-id": "300",
+        "word": "tunicated",
+        "definition": "enveloped by a tunic"
+      },
+      {
+        "-id": "301",
+        "word": "umbel",
+        "definition": "inflorescence of stalked flowers, the stalks emanating from the top of a stem but ending in a common plane so that the florets are all at the same level"
+      },
+      {
+        "-id": "302",
+        "word": "uncinate",
+        "definition": "hooked or crooked"
+      },
+      {
+        "-id": "303",
+        "word": "undulate",
+        "definition": "wavy in a plane at right-angles to the surface (cf. sinuate)"
+      },
+      {
+        "-id": "304",
+        "word": "unilateral",
+        "definition": "one-sided"
+      },
+      {
+        "-id": "305",
+        "word": "utricle",
+        "definition": "specialised  flask-shaped  structure, derived from a bract, enclosing the ovary of  a  sedge (Carex)"
+      },
+      {
+        "-id": "306",
+        "word": "valvate",
+        "definition": "of perianth  segments with  their  edges  in  contact but not overlapping in bud (cf. imbricate)"
+      },
+      {
+        "-id": "307",
+        "word": "valve",
+        "definition": "non-overlapping segment, often opening out on maturity as in a ripe capsule"
+      },
+      {
+        "-id": "308",
+        "word": "velamen",
+        "definition": "whitish moisture-absorbing coating around aerial roots of epiphytic orchids"
+      },
+      {
+        "-id": "309",
+        "word": "villous",
+        "definition": "with long shaggy hairs"
+      },
+      {
+        "-id": "310",
+        "word": "viscidium",
+        "definition": "sticky base on which pollinia are dispersed"
+      },
+      {
+        "-id": "311",
+        "word": "whorl",
+        "definition": "more than two organs of the same kind arising at the same level, usually around a central axis such as a stem"
+      },
+      {
+        "-id": "312",
+        "word": "whorled",
+        "definition": "of organs arranged in a whorl"
+      },
+      {
+        "-id": "313",
+        "word": "zygomorphic",
+        "definition": "bilaterally symmetrical, usually of flowers (cf. actinomorphic)"
+      },
+      {
+        "-id": "313",
+        "word": "involucre",
+        "definition": "an involucral bract, or a pair, whorl or other collection of such bracts, surrounding an inflorescence, particularly in Asteraceae (Compositae), Apiaceae (Umbelliferae) Euphorbiaceae or Proteaceae"
+      }
+    ]
+  }

@@ -1,0 +1,25 @@
+{
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Fruit fleshy, not enclosed in calyx; flowers conspicuous, pink, white or green.",
+        "questionB": "Fruit dry, enclosed in calyx; flowers inconspicuous, yellowish or greenish.",
+        "answerA": "Daphne gnidium",
+        "answerB": "2"
+      },
+      {
+        "-id": "2",
+        "questionA": "Rigid,  erect  annuals;  leaves  linear-lanceolate, acute; flowers green,buried in the axils of the leaves.",
+        "questionB": "Tomentose shrubs; leaves ovate or  scale-like;  flowers  yellow, emerging from the axils of the leaves.",
+        "answerA": "Thymelaea passerina",
+        "answerB": "3"
+      },
+      {
+        "-id": "3",
+        "questionA": "Leaves fleshy, scale-like, closely adpressed to the stem.",
+        "questionB": "Leaves not fleshy, ovate, not adpressed.",
+        "answerA": "Thymelaea hirsuta",
+        "answerB": "Thymelaea myrtifolia"
+      }
+    ]
+  }

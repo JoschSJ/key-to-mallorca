@@ -1,0 +1,186 @@
+{
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Stems and leaves glandular hairy.",
+        "questionB": "Stems and leaves not glandular hairy.",
+        "answerA": "Cicer arietinum",
+        "answerB": "2"
+      },
+      {
+        "-id": "2",
+        "questionA": "Stems winged.",
+        "questionB": "Stems not winged.",
+        "answerA": "7",
+        "answerB": "3"
+      },
+      {
+        "-id": "3",
+        "questionA": "Leaflets with parallel veins.",
+        "questionB": "Leaflets pinnately veined.",
+        "answerA": "7",
+        "answerB": "4"
+      },
+      {
+        "-id": "4",
+        "questionA": "Calyx teeth all equal, at least twice as long as the calyx tube.",
+        "questionB": "At least two calyx teeth less than twice as long as the calyx tube.",
+        "answerA": "15",
+        "answerB": "5"
+      },
+      {
+        "-id": "5",
+        "questionA": "Calyx teeth leafy; stipules more than 2 cm.",
+        "questionB": "Calyx teeth not leafy; stipules less than 2 cm.",
+        "answerA": "Pisum sativum",
+        "answerB": "6"
+      },
+      {
+        "-id": "6",
+        "questionA": "Style hairy on the upper side only.",
+        "questionB": "Style hairless, hairy all round or hairy on the lower side only.",
+        "answerA": "7",
+        "answerB": "16"
+      },
+      {
+        "-id": "7",
+        "questionA": "Flowers yellow.",
+        "questionB": "Flowers purple, pink, violet or white.",
+        "answerA": "8",
+        "answerB": "10"
+      },
+      {
+        "-id": "8",
+        "questionA": "Stems  wingless;  leaves  replaced  by  tendrils;  stipules  hastate much longer than petioles; flowers bright yellow.",
+        "questionB": "Stems winged, at least in the upper portion; stipules much shorter than petioles.",
+        "answerA": "Lathyrus aphaca",
+        "answerB": "9"
+      },
+      {
+        "-id": "9",
+        "questionA": "Stems and petioles broadly winged throughout; lower leaves replacedby tendrils; flowers pale yellow.",
+        "questionB": "Upper  portions  of  stems  slightly winged; lower pair of leaflets prominent, grass-like, remaining leaflets replaced by tendrils; flowers bright yellow.",
+        "answerA": "Lathyrus ochrus",
+        "answerB": "Lathyrus annuus"
+      },
+      {
+        "-id": "10",
+        "questionA": "Leaves simple or leaflets two.",
+        "questionB": "Leaflets four to twelve.",
+        "answerA": "11",
+        "answerB": "13"
+      },
+      {
+        "-id": "11",
+        "questionA": "Stem wingless or with a wing less than 1 mm wide.",
+        "questionB": "Stem broadly winged, wing more than 2 mm wide.",
+        "answerA": "Lathyrus sphaericus",
+        "answerB": "12"
+      },
+      {
+        "-id": "12",
+        "questionA": "Annuals; flowers solitary.",
+        "questionB": "Perennials; flowers in axillary racemes.",
+        "answerA": "Lathyrus cicera",
+        "answerB": "Lathyrus latifolius"
+      },
+      {
+        "-id": "13",
+        "questionA": "Small annual; stem wingless;  leaves with two pairs of leaflets; leaflets on lower leaves ending in three prominent teeth, leaflets on upper leaves narrowly linear; tendrils absent; flowers pale blue or yellow/blue", 
+        "questionB": "Annuals; stems winged; leaves with two or more pairs of leaflets and ending  in  tendrils;  standard petal   crimson,  laterals  and keel   lilac or white.",
+        "answerA": "Lathyrus saxatilis",
+        "answerB": "14"
+      },
+      {
+        "-id": "14",
+        "questionA": "Lateral and keel petals lilac. Pod with channelled dorsal suture.",
+        "questionB": "Lateral and keel petals white. Pod with unchannelled dorsal suture.",
+        "answerA": "Lathyrus clymenum",
+        "answerB": "Lathyrus articulatus"
+      },
+      {
+        "-id": "15",
+        "questionA": "Stipules entire; flowers white with blue veins; calyx teeth up to six times the length of the calyx tube.",
+        "questionB": "Stipules dentate; flowers pale lilac; calyx teeth up to four times the length of the tube.",
+        "answerA": "Lens culinaris",
+        "answerB": "Lens ervoides"
+      },
+      {
+        "-id": "16",
+        "questionA": "Inflorescences  usually  of more  than  six  flowers; peduncles usually longer than leaves.",
+        "questionB": "Inflorescences usually of fewer than six flowers; peduncles much  shorter than leaves.",
+        "answerA": "17",
+        "answerB": "21"
+      },
+      {
+        "-id": "17",
+        "questionA": "Flowers 2-9 mm; inflorescences one- to nine-flowered.",
+        "questionB": "Flowers 1-2 cm; inflorescences six- to thirty-flowered.",
+        "answerA": "18",
+        "answerB": "19"
+      },
+      {
+        "-id": "18",
+        "questionA": "Leaflets four to eight pairs; leaves ending in branched tendrils",
+        "questionB": "Leaflets ten to thirteen pairs; leaves ending in a short bristle.",
+        "answerA": "Vicia hirsuta",
+        "answerB": "Vicia ervilia"
+      },
+      {
+        "-id": "19",
+        "questionA": "Leaflets two to five pairs; inflorescences one- to five-flowered.",
+        "questionB": "Leaflets six to twenty pairs; inflorescences ten- to forty-flowered.",
+        "answerA": "Vicia parviflora",
+        "answerB": "20"
+      },
+      {
+        "-id": "20",
+        "questionA": "Flowers violet, purple or blue, all opening at the same time; calyx with a boss-like swelling at the base; fruit hairless.",
+        "questionB": "Flowers red, the  lateral   petals with dark purple tips, opening at different times; calyx without swelling at the base; fruit hairy.",
+        "answerA": "Vicia villosa",
+        "answerB": "Vicia benghalensis"
+      },
+      {
+        "-id": "21",
+        "questionA": "Flowers predominantly yellow or white.",
+        "questionB": "Flowers predominantly lilac, violet or purple.",
+        "answerA": "22",
+        "answerB": "23"
+      },
+      {
+        "-id": "22",
+        "questionA": "Inflorescence of two to six flowers; flowers 2 cm, white; leaflets one to three pairs; tendrils absent; pod 5-30 cm.",
+        "questionB": "Flowers  solitary,  pale  yellow;  leaflets  normally  eight  pairs;  tendrils present; pod 2-3 cm.",
+        "answerA": "Vicia faba",
+        "answerB": "Vicia lutea"
+      },
+      {
+        "-id": "23",
+        "questionA": "Peduncles and pedicels absent or very short; calyx teeth more or less equal, as long as calyx tube; stipules often dentate, bearing a dark spot.",
+        "questionB": "Racemes more  than half  the  length of  the  leaves; stipules lobed or entire.",
+        "answerA": "Vicia sativa",
+        "answerB": "24"
+      },
+      {
+        "-id": "24",
+        "questionA": "Keel petal dark-tipped; calyx teeth more or less equal, exceeding the length of the calyx tube.",
+        "questionB": "Keel petal  not dark-tipped;  calyx  teeth unequal,  some  shorter  than calyx tube.",
+        "answerA": "Vicia leucantha",
+        "answerB": "25"
+      },
+      {
+        "-id": "25",
+        "questionA": "Leaflets two to three pairs; corolla 16-20 mm.",
+        "questionB": "Leaflets four to six pairs; corolla 4-8 mm.",
+        "answerA": "Vicia bithynica",
+        "answerB": "26"
+      },
+      {
+        "-id": "26",
+        "questionA": "Plants glabrous; calyx teeth unequal all shorter than calyx tube.",
+        "questionB": "Plants sparsely pubescent; lower calyx teeth equalling or exceeding calyx tube.",
+        "answerA": "Vicia tetrasperma",
+        "answerB": "Vicia pubescens"
+      }
+    ]
+  }

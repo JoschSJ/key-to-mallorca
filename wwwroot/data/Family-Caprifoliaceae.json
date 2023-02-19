@@ -1,0 +1,26 @@
+{
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Leaves pinnate.",
+        "questionB": "Leaves simple, entire, dentate or lobed.",
+        "answerA": "Sambucus ebulus",
+        "answerB": "2"
+      },
+      {
+        "-id": "2",
+        "questionA": "Style very short; stigma three-lobed.",
+        "questionB": "Style elongate; stigma club-shaped.",
+        "answerA": "Viburnum tinus",
+        "answerB": "3"
+      },
+      {
+        "-id": "3",
+        "questionA": "Shrubs;  bracts  ovate,  cuneate;  flowers, in axillary pairs, almost actinomorphic.",
+        "questionB": "Woody climbers; bracts perfoliate; flowers in many-flowered terminal clusters  and  some few-flowered axillary clusters;  strongly  zygomorphic.",
+        "answerA": "Lonicera pyrenaica",
+        "answerB": "Lonicera implexa"
+      }
+    ]
+  }
+	

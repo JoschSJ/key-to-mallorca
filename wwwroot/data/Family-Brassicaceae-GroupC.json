@@ -1,0 +1,39 @@
+{
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Fruits didymous.",
+        "questionB": "Fruits not didymous.",
+        "answerA": "2",
+        "answerB": "5"
+      },
+      {
+        "-id": "2",
+        "questionA": "Petals yellow; valves flat.",
+        "questionB": "Petals white; valves rounded.",
+        "answerA": "Biscutella auriculata",
+        "answerB": "3"
+      },
+      {
+        "-id": "3",
+        "questionA": "Leaves entire or shallowly dentate; petals 3-4 mm.",
+        "questionB": "Leaves pinnately lobed; petals less than 2 mm.",
+        "answerA": "Cardaria draba",
+        "answerB": "4"
+      },
+      {
+        "-id": "4",
+        "questionA": "Fruit beaked, with prominent irregular ridges.",
+        "questionB": "Fruit not beaked, notched, slightly ridged.",
+        "answerA": "Coronopus squamatus",
+        "answerB": "Coronopus didymus"
+      },
+      {
+        "-id": "5",
+        "questionA": "Fruit flattened, discoid, pendulous.",
+        "questionB": "Fruit globular, nut-like, erect.",
+        "answerA": "Clypeola jonthlaspi",
+        "answerB": "Neslia paniculata"
+      }
+    ]
+  }

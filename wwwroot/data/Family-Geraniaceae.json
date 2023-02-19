@@ -1,0 +1,81 @@
+{
+   "question": [
+      {
+        "-id": "1",
+        "questionA": "Leaves palmate or palmately lobed; beak of fruit splitting into arched or coiled sections.",
+        "questionB": "Leaves pinnate or pinnately lobed; beak of fruit splitting into spiral sections.",
+        "answerA": "2",
+        "answerB": "7"
+      },
+      {
+        "-id": "2",
+        "questionA": "Sepals spreading or ascending.",
+        "questionB": "Sepals erect and partly incurved at the apex.",
+        "answerA": "3",
+        "answerB": "6"
+      },
+      {
+        "-id": "3",
+        "questionA": "All leaves deeply divided into narrow linear or lanceolate segments.",
+        "questionB": "At least the lower leaves broad, rotund or palmately lobed.",
+        "answerA": "4",
+        "answerB": "5"
+      },
+      {
+        "-id": "4",
+        "questionA": "Peduncles  5-20 mm; pedicels 5-15 mm; petals c. 5 mm, notched, deep pink.",
+        "questionB": "Peduncles 2-12 cm; pedicels 2-6 cm; petals  7-9 mm, not notched, pale purplish pink.",
+        "answerA": "Geranium dissectum",
+        "answerB": "Geranium columbinum"
+      },
+      {
+        "-id": "5",
+        "questionA": "Lower  leaves divided  to  less  than half way; petals 5-8 mm, pink, rounded at the apex or very slightly notched.",
+        "questionB": "Lower leaves divided to more than half way; petals  3-7 mm, bright rosy purple, deeply notched.",
+        "answerA": "Geranium rotundifolium",
+        "answerB": "Geranium molle"
+      },
+      {
+        "-id": "6",
+        "questionA": "Leaves palmately  lobed,  bright yellowish green, shining; petals 8-9 mm, limb shorter than claw.",
+        "questionB": "Leaves compound, dark green not shining, leaflets palmately divided; petals 6-9 mm, limb longer than claw.",
+        "answerA": "Geranium lucidum",
+        "answerB": "Geranium purpureum"
+      },
+      {
+        "-id": "7",
+        "questionA": "Some or all leaves shallowly lobed to less than half the width of the blade.",
+        "questionB": "Leaves pinnate or bipinnate.",
+        "answerA": "8",
+        "answerB": "10"
+      },
+      {
+        "-id": "8",
+        "questionA": "Small mat-forming perennial; leaves 1 cm, crenate; flowers solitary; petals white or pink with dark pink veins.",
+        "questionB": "Erect annuals or biennials 10-40 cm; flowers in clusters of three to eight; petals pink, veins not distinctly coloured.",
+        "answerA": "Erodium reichardii",
+        "answerB": "9"
+      },
+      {
+        "-id": "9",
+        "questionA": "Petals pale pink; pit at apex of fruit without a furrow beneath it.",
+        "questionB": "Petals deep pink; pit at apex of fruit with a furrow beneath it.",
+        "answerA": "Erodium chium",
+        "answerB": "Erodium malacoides"
+      },
+      {
+        "-id": "10",
+        "questionA": "Plants with glandular hairs, smelling of musk; leaves pinnate.",
+        "questionB": "Plants not smelling of musk; leaves bipinnate or tripinnate.",
+        "answerA": "Erodium moschatum",
+        "answerB": "11"
+      },
+      {
+        "-id": "11",
+        "questionA": "Leaves bipinnate; petals pink, the upper two often smaller than the lower three.",
+        "questionB": "Leaves tripinnate, longer segments alternating with shorter segments; petals lilac, all equal.",
+        "answerA": "Erodium cicutarium",
+        "answerB": "Erodium ciconium"
+      }
+    ]
+  }

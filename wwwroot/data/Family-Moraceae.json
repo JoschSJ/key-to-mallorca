@@ -1,0 +1,18 @@
+﻿{
+   "question": [
+      {
+        "-id": "1",
+        "questionA": "Leaves  palmately  lobed;  ‘fruit’  a  pear-shaped  fleshy structure, enclosing a collection of seed-like achenes.",
+        "questionB": "Leaves entire; ‘fruit’ a collection of druplets.",
+        "answerA": "Ficus carica",
+        "answerB": "2"
+      },
+      {
+        "-id": "2",
+        "questionA": "Leaves 6-20 cm, oval to cordate, roughly hairy above, softly hairy below; fruit dark red when ripe.",
+        "questionB": "Leaves 6-20 cm, oval  to cordate, smooth and shiny above, almost hairless below, fruit white, pink or pale purple.",
+        "answerA": "Morus nigra",
+        "answerB": "Morus alba"
+      }
+    ]
+  }

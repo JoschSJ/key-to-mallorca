@@ -1,0 +1,285 @@
+{
+  
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Dwarf  shrub  with  spiny  branched  stems;  leaves  pinnatifid,  fleshy; capitula pale yellow.",
+        "questionB": "Herbaceous plants.",
+        "answerA": "Launaea cervicornis",
+        "answerB": "2"
+      },
+      {
+        "-id": "2",
+        "questionA": "Stoloniferous perennials, forming globular underground tubers, with black stalked glands at the base of the involucre and the top of the stem.",
+        "questionB": "Plants either not stoloniferous or not bearing globular  underground tubers.",
+        "answerA": "3",
+        "answerB": "4"
+      },
+      {
+        "-id": "3",
+        "questionA": "Involucral  bracts linear-lanceolate, abruptly narrowed to an obtuse apex.",
+        "questionB": "Involucral bracts linear, gradually tapering to an acute apex.",
+        "answerA": "Aetheorhiza bulbosa-ssp.-bulbosa",
+        "answerB": "Aetheorhiza bulbosa-ssp.-willkommii"
+      },
+      {
+        "-id": "4",
+        "questionA": "Pappus absent, or achene with a narrow membranous margin.",
+        "questionB": "Pappus distinct, of scales or hairs.",
+        "answerA": "5",
+        "answerB": "8"
+      },
+      {
+        "-id": "5",
+        "questionA": "Leaves spiny, pappus absent or with two to three bristles.",
+        "questionB": "Leaves not spiny.",
+        "answerA": "6",
+        "answerB": "7"
+      },
+      {
+        "-id": "6",
+        "questionA": "Stems broadly winged, wings continuous; corolla with black hairs on the outside; anthers dark brown.",
+        "questionB": "Stems narrowly winged, wings interrupted; corolla glabrous; anthers yellow.",
+        "answerA": "Scolymus maculatus",
+        "answerB": "Scolymus hispanicus"
+      },
+      {
+        "-id": "7",
+        "questionA": "Mature achenes oblong or oval, erect.",
+        "questionB": "Mature achenes linear, spreading in a star.",
+        "answerA": "Lapsana communis",
+        "answerB": "Rhagadiolus stellatus"
+      },
+      {
+        "-id": "8",
+        "questionA": "Pappus of scales.",
+        "questionB": "Pappus of hairs.",
+        "answerA": "9",
+        "answerB": "14"
+      },
+      {
+        "-id": "9",
+        "questionA": "Florets blue.",
+        "questionB": "Florets yellow.",
+        "answerA": "10",
+        "answerB": "11"
+      },
+      {
+        "-id": "10",
+        "questionA": "Involucral bracts scarious; silvery; scales of achene long.",
+        "questionB": "Involucral bracts leafy, green; scales of achene very short.",
+        "answerA": "Catananche caerulea",
+        "answerB": "Cichorium intybus"
+      },
+      {
+        "-id": "11",
+        "questionA": "Stems erect, leafy at base; involucral bracts not hardening in fruit.",
+        "questionB": "Stems leafless or prostrate below; involucral bracts hardening in fruit.",
+        "answerA": "Tolpis barbata",
+        "answerB": "12"
+      },
+      {
+        "-id": "12",
+        "questionA": "Inner achenes not winged.",
+        "questionB": "Inner achenes narrowly winged.",
+        "answerA": "Hedypnois cretica",
+        "answerB": "13"
+      },
+      {
+        "-id": "13",
+        "questionA": "Scape procumbent,  as long as the leaves, conspicuously swollen below the  capitulum; involucral  bracts erect in fruit, florets scarcely longer  than the involucral bracts.",
+        "questionB": "Scape erect, longer than the leaves, not swollen below the capitulum; involucral   bracts spreading in fruit, florets twice as long as the involucral bracts.",
+        "answerA": "Hyoseris scabra",
+        "answerB": "Hyoseris radiata"
+      },
+      {
+        "-id": "14",
+        "questionA": "Hairs of pappus simple.",
+        "questionB": "Hairs of pappus plumose.",
+        "answerA": "15",
+        "answerB": "33"
+      },
+      {
+        "-id": "15",
+        "questionA": "Fruit of two forms:  the inner smooth or fine-pointed; the outer either rough or velvety, or with inner face keeled or convex.",
+        "questionB": "Fruits all similar.",
+        "answerA": "16",
+        "answerB": "21"
+      },
+      {
+        "-id": "16",
+        "questionA": "Marginal achenes keeled or winged on inner face.",
+        "questionB": "Marginal achenes transversely wrinkled.",
+        "answerA": "17",
+        "answerB": "20"
+      },
+      {
+        "-id": "17",
+        "questionA": "Capitula sessile, scapes apparently absent.",
+        "questionB": "Capitula on branched or unbranched stems.",
+        "answerA": "Crepis pusilla",
+        "answerB": "18"
+      },
+      {
+        "-id": "18",
+        "questionA": "Leaves almost all radical, ovate-oblong, dentate, with yellowish hairs.",
+        "questionB": "Cauline leaves frequent, deeply and irregularly pinnatifid.",
+        "answerA": "Crepis triasii",
+        "answerB": "19"
+      },
+      {
+        "-id": "19",
+        "questionA": "Heads drooping or inclined in bud; marginal  achenes short-beaked, clasped by the inner involucral bracts; central achenes long-beaked.",
+        "questionB": "Heads erect in bud; all achenes long-beaked.",
+        "answerA": "Crepis foetida",
+        "answerB": "Crepis vesicaria"
+      },
+      {
+        "-id": "20",
+        "questionA": "Leaves pinnatifid with rounded lobes; involucral bracts cordate with broad scarious margins; ligules yellow, purple at the base.",
+        "questionB": "Leaves irregularly serrate; involucral bracts cordate with narrow scarious margins; ligules yellow, yellow at the base.",
+        "answerA": "Reichardia tingitana",
+        "answerB": "Reichardia picroides"
+      },
+      {
+        "-id": "21",
+        "questionA": "Achene beaked.",
+        "questionB": "Achene without a beak.",
+        "answerA": "22",
+        "answerB": "27"
+      },
+      {
+        "-id": "22",
+        "questionA": "Beak of achene with a tiny crown of scales at the base.",
+        "questionB": "Beak of achene without a tiny crown of scales at the base.",
+        "answerA": "Chondrilla juncea",
+        "answerB": "23"
+      },
+      {
+        "-id": "23",
+        "questionA": "All leaves radical.",
+        "questionB": "Cauline leaves present.",
+        "answerA": "Taraxacum obovatum",
+        "answerB": "24"
+      },
+      {
+        "-id": "24",
+        "questionA": "Achene cylindrical, angled, not flattened.",
+        "questionB": "Achene laterally compressed.",
+        "answerA": "17",
+        "answerB": "25"
+      },
+      {
+        "-id": "25",
+        "questionA": "Florets yellow; leaves ovate-sagittate with prickly margins",
+        "questionB": "Florets lilac; leaves linear or lanceolate, margins without prickles.",
+        "answerA": "Lactuca serriola",
+        "answerB": "26"
+      },
+      {
+        "-id": "26",
+        "questionA": "Capitula with five florets; cauline leaves linear with adpressed auricles.",
+        "questionB": "Capitula with twelve to twenty florets; cauline leaves lanceolate with spreading auricles.",
+        "answerA": "Lactuca viminea",
+        "answerB": "Lactuca tenerrima"
+      },
+      {
+        "-id": "27",
+        "questionA": "Achenes laterally compressed.",
+        "questionB": "Achenes round or angled in section.",
+        "answerA": "28",
+        "answerB": "31"
+      },
+      {
+        "-id": "28",
+        "questionA": "Bases of cauline leaves wrapped around the stem; capitula orange.",
+        "questionB": "Bases of cauline leaves not wrapped around the stem; capitula yellow.",
+        "answerA": "Sonchus maritimus",
+        "answerB": "29"
+      },
+      {
+        "-id": "29",
+        "questionA": "Cauline leaves pinnatisect, usually without teeth.",
+        "questionB": "Cauline leaves simple, dentate.",
+        "answerA": "Sonchus tenerrimus",
+        "answerB": "30"
+      },
+      {
+        "-id": "30",
+        "questionA": "Leaves shining; achenes strongly compressed, often winged,  smooth between the ribs.",
+        "questionB": "Leaves not shining; achenes not strongly compressed, wingless, ridged or tuberculate between the ribs.",
+        "answerA": "Sonchus asper",
+        "answerB": "Sonchus oleraceus"
+      },
+      {
+        "-id": "31",
+        "questionA": "Receptacle  with  pits,  surrounded  by  hairs  at  least as long as the achenes.",
+        "questionB": "Receptacle without pits surrounded by hairs.",
+        "answerA": "Andryala integrifolia",
+        "answerB": "32"
+      },
+      {
+        "-id": "32",
+        "questionA": "Achenes gradually narrowed to the apex; involucre usually of  bracts of equal length; pappus snowy-white, soft.",
+        "questionB": "Achenes abruptly narrowed to the  apex;  involucre  usually  of many rows of unequal bracts; pappus pale brown, brittle.",
+        "answerA": "17",
+        "answerB": "Hieracium amplexicaule"
+      },
+      {
+        "-id": "33",
+        "questionA": "Receptacle with narrow, linear  scales;  scape  leafless  or with few leaves.",
+        "questionB": "Receptacle without scales.",
+        "answerA": "Hypochaeris achryophorus",
+        "answerB": "34"
+      },
+      {
+        "-id": "34",
+        "questionA": "Involucral bracts in one row, not overlapping.",
+        "questionB": "Involucral bracts in two rows or overlapping.",
+        "answerA": "35",
+        "answerB": "38"
+      },
+      {
+        "-id": "35",
+        "questionA": "Leaves entire.",
+        "questionB": "Leaves dentate.",
+        "answerA": "36",
+        "answerB": "37"
+      },
+      {
+        "-id": "36",
+        "questionA": "Ligules violet-purple, little shorter  than  the involucral  bracts; apex of the beak surrounded by an annulus which separates it from the pappus.",
+        "questionB": "Ligules reddish-lilac, distinctly shorter than the involucral bracts; beak of achenes without a ring; outer achenes with a pappus of five unequal stiff hairs, inner achenes a pappus of plumose hairs.",
+        "answerA": "Tragopogon porrifolius",
+        "answerB": "Tragopogon hybridus"
+      },
+      {
+        "-id": "37",
+        "questionA": "Leaves hispid; ligules pale yellow, with black teeth at the end, outer ligules often reddish at the back.",
+        "questionB": "Leaves prickly, at least below the veins; ligules deep yellow, without black teeth, outer ligules yellow at the back.",
+        "answerA": "Urospermum dalechampii",
+        "answerB": "Urospermum picroides"
+      },
+      {
+        "-id": "38",
+        "questionA": "Capitula with an involucre of three to five upper leaves.",
+        "questionB": "Capitula without an involucre of leaves.",
+        "answerA": "Picris echioides",
+        "answerB": "39"
+      },
+      {
+        "-id": "39",
+        "questionA": "Involucral  bracts triangular-ovate to broadly lanceolate; pappus hairs often intertwined.",
+        "questionB": "Involucral bracts linear; pappus hairs not intertwined.",
+        "answerA": "Scorzonera laciniata",
+        "answerB": "40"
+      },
+      {
+        "-id": "40",
+        "questionA": "Perennials with root tubers; involucral bracts glabrous or with hairs often confined to the mid-line;  achenes minutely transversely ridged, the outer curved not beaked with a pappus of very short hairs, the inner straight with a pappus of long plumose hairs on a long beak.",
+        "questionB": "Perennials without root tubers; involucral bracts hairy all over; outer achenes not beaked, with a pappus of short scales, the inner with a pappus of hairs on a short beak.",
+        "answerA": "Leontodon tuberosus",
+        "answerB": "Leontodon taraxacoides"
+      }
+    ]
+  }

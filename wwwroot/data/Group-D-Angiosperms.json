@@ -1,0 +1,81 @@
+{
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Sepals and petals three.",
+        "questionB": "Sepals or petals more than three.",
+        "answerA": "2",
+        "answerB": "5"
+      },
+      {
+        "-id": "2",
+        "questionA": "Carpels more than three.",
+        "questionB": "Carpels three.",
+        "answerA": "3",
+        "answerB": "4"
+      },
+      {
+        "-id": "3",
+        "questionA": "Leaves lobed.",
+        "questionB": "Leaves entire.",
+        "answerA": "Family-Ranunculaceae",
+        "answerB": "Family-Alismataceae"
+      },
+      {
+        "-id": "4",
+        "questionA": "Leaves palmately or pinnately divided; petioles spiny.",
+        "questionB": "Leaves simple without petioles.",
+        "answerA": "Family-Arecaceae",
+        "answerB": "Family-Crassulaceae"
+      },
+      {
+        "-id": "5",
+        "questionA": "Flowers zygomorphic; petals deeply divided.",
+        "questionB": "Flowers actinomorphic; petals entire.",
+        "answerA": "Family-Resedaceae",
+        "answerB": "6"
+      },
+      {
+        "-id": "6",
+        "questionA": "Stamens more than twice as many as petals.",
+        "questionB": "Stamens not more than twice the number of petals.",
+        "answerA": "7",
+        "answerB": "9"
+      },
+      {
+        "-id": "7",
+        "questionA": "Shrubs or herbs; stipules present; flowers perigynous.",
+        "questionB": "Herbs; stipules absent; flowers hypogynous.",
+        "answerA": "Family-Rosaceae",
+        "answerB": "8"
+      },
+      {
+        "-id": "8",
+        "questionA": "Sepals deciduous; fruit a set of achenes.",
+        "questionB": "Sepals persistent; fruit a set of follicles.",
+        "answerA": "Family-Ranunculaceae",
+        "answerB": "Paeonia cambessedesii"
+      },
+      {
+        "-id": "9",
+        "questionA": "Leaves trifoliate.",
+        "questionB": "Leaves simple.",
+        "answerA": "Family-Rosaceae",
+        "answerB": "10"
+      },
+      {
+        "-id": "10",
+        "questionA": "Carpels spirally arranged on an elongated receptacle.",
+        "questionB": "Carpels in a single whorl.",
+        "answerA": "Family-Ranunculaceae",
+        "answerB": "11"
+      },
+      {
+        "-id": "11",
+        "questionA": "Trees; leaves palmately lobed; flowers in globose heads.",
+        "questionB": "Herbs or dwarf shrubs; leaves entire, succulent; flowers not in globose heads.",
+        "answerA": "Family-Platanaceae",
+        "answerB": "Family-Crassulaceae"
+      }
+    ]
+  }

@@ -1,0 +1,17 @@
+{
+   "question": [
+      {
+        "-id": "1",
+        "questionA": "Canopy  open;  young  bark  silvery-grey  becoming reddish brown;  leaves 6-15  cm  long  1 mm wide; female cones 5-12 cm, conical, with recurved stalks.",
+        "questionB": "Canopy dense; young bark brown; leaves more than 1 mm wide; female cones rounded or globular, stalks not recurved.",
+        "answerA": "Pinus halepensis",
+        "answerB": "2"
+      },
+      {
+        "-id": "2",
+        "questionA": "Canopy umbrella-shaped; tree to 20 m; bark grey-brown, flaking to leave  reddish  orange  patches;  female cones globular, stalked, with blunt scale-tips; seeds large, not winged",
+        "questionB": "Canopy not umbrella-shaped, often shaped by on-shore winds; tree 20-40 m; bark reddish brown, fissured; leaves spiny-tipped; female cones  rounded-conical, subsessile, with pointed scale-tips; seeds winged",
+        "answerA": "Pinus pinea",
+        "answerB": "Pinus pinaster"
+      }]
+  }

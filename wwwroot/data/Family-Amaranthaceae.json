@@ -1,0 +1,46 @@
+{
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Perrenials",
+        "questionB": "Annuals",
+        "answerA": "2",
+        "answerB": "3"
+      },
+      {
+        "-id": "2",
+        "questionA": "Plants decumbent; leaves linear to narrowly ovate or lanceolate; fruit globular, muricate.",
+        "questionB": "Plants procumbent; leaves broad, diamond-shaped; fruit pear-shaped not muricate.",
+        "answerA": "Amaranthus muricatus",
+        "answerB": "Amaranthus deflexus"
+      },
+      {
+        "-id": "3",
+        "questionA": "Leaves with distinct membranous margins.",
+        "questionB": "Leaf margins not membranous.",
+        "answerA": "Amaranthus blitoides",
+        "answerB": "4"
+      },
+      {
+        "-id": "4",
+        "questionA": "Leaves with mucronate tips.",
+        "questionB": "Leaf tips not mucronate.",
+        "answerA": "Amaranthus albus",
+        "answerB": "5"
+      },
+      {
+        "-id": "5",
+        "questionA": "Leaf tips often emarginate; fruit rugose.",
+        "questionB": "Leaf tips pointed; fruit not rugose.",
+        "answerA": "Amaranthus blitum",
+        "answerB": "6"
+      },
+      {
+        "-id": "6",
+        "questionA": "Terminal   inflorescence  long,  spicate,  interrupted  at  the base, basal branches long, few.",
+        "questionB": "Terminal  inflorescence dense, uninterrupted  at  the base, basal  branches short, numerous.",
+        "answerA": "Amaranthus hypochondriacus",
+        "answerB": "Amaranthus cruentus"
+      }
+    ]
+  }

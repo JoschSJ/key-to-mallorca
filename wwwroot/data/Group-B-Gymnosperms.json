@@ -1,0 +1,25 @@
+{
+   "question": [
+      {
+        "-id": "1",
+        "questionA": "Leaves all scale-like, usually brownish; internodes long.",
+        "questionB": "Leaves usually green, needle- or scale-like; internodes short.",
+        "answerA": "Ephedra fragilis",
+        "answerB": "2"
+      },
+      {
+        "-id": "2",
+        "questionA": "Ovules solitary; seed surrounded by a fleshy aril.",
+        "questionB": "Ovules in cones; seed without a fleshy aril.",
+        "answerA": "Taxus baccata",
+        "answerB": "3"
+      },
+      {
+        "-id": "3",
+        "questionA": "Leaves opposite or whorled, scale- or needle-like.",
+        "questionB": "Leaves alternate or grouped on short shoots, needle-like.",
+        "answerA": "Family-Cupressaceae",
+        "answerB": "Family-Pinaceae"
+      }
+    ]
+  }

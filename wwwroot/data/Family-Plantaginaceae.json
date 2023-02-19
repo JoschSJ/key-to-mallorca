@@ -1,0 +1,53 @@
+{
+   "question": [
+      {
+        "-id": "1",
+        "questionA": "Annuals, glandular pubescent above; cauline leaves present.",
+        "questionB": "Annuals or perennial; leaves all radical.",
+        "answerA": "Plantago afra",
+        "answerB": "2"
+      },
+      {
+        "-id": "2",
+        "questionA": "Leaves ovate, less than three times as long as broad.",
+        "questionB": "Leaves linear-lanceolate, more than three times as long as broad.",
+        "answerA": "Plantago major",
+        "answerB": "3"
+      },
+      {
+        "-id": "3",
+        "questionA": "Leaves linear-lanceolate, more than three times as long as broad.",
+        "questionB": "Leaves neither silver-haired nor with sinuous margins.",
+        "answerA": "Plantago albicans",
+        "answerB": "4"
+      },
+      {
+        "-id": "4",
+        "questionA": "Annuals; leaves hairy, bright green; stem scarcely exceeding the leaves; spike ovoid; bracts and calyx lobes acute; corolla white.",
+        "questionB": "Annuals or perennials; stem greatly exceeding the leaves; coroll yellowish or brownish.",
+        "answerA": "Plantago bellardii",
+        "answerB": "5"
+      },
+      {
+        "-id": "5",
+        "questionA": "Flowering stem grooved or ribbed; leaves without teeth.",
+        "questionB": "Flowering stem smooth, neither grooved nor ribbed; leaves dentate.",
+        "answerA": "6",
+        "answerB": "7"
+      },
+      {
+        "-id": "6",
+        "questionA": "Annuals, 10-30 cm; leaves lanceolate, narrowed to a short petiole, three- to five-veined; inflorescence covered in long white, silky hairs; bracts and calyx densely hairy; corolla lobes hairy on the back, corolla tube glabrous.",
+        "questionB": "Perennials, 5-70 cm; leaves lanceolate, narrowed to a long petiole, three- to seven-veined; inflorescence not covered in long white silky hairs; bracts glabrous or shortly hairy, ovate with long scarious tips; corolla brownish, with a prominent brown mid-vein running to the tip of each lobe; stamens white.",
+        "answerA": "Plantago lagopus",
+        "answerB": "Plantago lanceolata"
+      },
+      {
+        "-id": "7",
+        "questionA": "Leaves fleshy, bright green, simply dentate; stems more or less glabrous; bracts subtending inflorescence acute, those subtending the flowers, short, rounded; flowers brownish; corolla glabrous.",
+        "questionB": "Leaves not fleshy, often glaucous, deeply divided into dentate oblong segments,  rarely  entire; stems hairy; bracts ovate, usually with long scarious point; flowers yellowish; corolla tube hairy.",
+        "answerA": "Plantago crassifolia",
+        "answerB": "Plantago coronopus"
+      }
+    ]
+  }

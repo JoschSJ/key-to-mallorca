@@ -1,0 +1,102 @@
+{
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Stamens eight to ten.",
+        "questionB": "Stamens five or fewer.",
+        "answerA": "Family-Ericaceae",
+        "answerB": "2"
+      },
+      {
+        "-id": "2",
+        "questionA": "Leaves in whorls of four or more.",
+        "questionB": "Leaves not in whorls.",
+        "answerA": "Family-Rubiaceae",
+        "answerB": "3"
+      },
+      {
+        "-id": "3",
+        "questionA": "Stamens opposite corolla lobes.",
+        "questionB": "Stamens alternating with corolla lobes.",
+        "answerA": "Family-Primulaceae",
+        "answerB": "4"
+      },
+      {
+        "-id": "4",
+        "questionA": "Leaves opposite; stipules standing between the leaves.",
+        "questionB": "Leaves alternate or stipules not standing between the leaves.",
+        "answerA": "Family-Rubiaceae",
+        "answerB": "5"
+      },
+      {
+        "-id": "5",
+        "questionA": "Flowers in dense heads of small florets surrounded by an involucre of more than two bracts.",
+        "questionB": "Flowers not in dense heads of florets or, if so, bracts two.",
+        "answerA": "6",
+        "answerB": "9"
+      },
+      {
+        "-id": "6",
+        "questionA": "Stamens fused together in a ring around the style.",
+        "questionB": "Stamens not fused.",
+        "answerA": "7",
+        "answerB": "8"
+      },
+      {
+        "-id": "7",
+        "questionA": "Calyx absent or represented by hairs or scales; ovule one.",
+        "questionB": "Calyx lobes conspicuous, green; ovules numerous.",
+        "answerA": "Family-Asteraceae",
+        "answerB": "Family-Campanulaceae"
+      },
+      {
+        "-id": "8",
+        "questionA": "Corolla lobes longer than tube; ovules numerous.",
+        "questionB": "Corolla lobes much shorter than tube; ovule one.",
+        "answerA": "Family-Campanulaceae",
+        "answerB": "Family-Dipsacaceae"
+      },
+      {
+        "-id": "9",
+        "questionA": "Anthers stalkless; pollen grains cohering in rounded masses.",
+        "questionB": "Stamens with filaments; pollen grains not cohering.",
+        "answerA": "Family-Orchidaceae",
+        "answerB": "10"
+      },
+      {
+        "-id": "10",
+        "questionA": "Stamens one to three.",
+        "questionB": "Stamens four to five.",
+        "answerA": "Family-Valerianaceae",
+        "answerB": "11"
+      },
+      {
+        "-id": "11",
+        "questionA": "Shrubs (sometimes small and creeping) or woody climbers.",
+        "questionB": "Herbs.",
+        "answerA": "Family-Caprifoliaceae",
+        "answerB": "12"
+      },
+      {
+        "-id": "12",
+        "questionA": "Tendrils present.",
+        "questionB": "Tendrils absent.",
+        "answerA": "Ecballium elaterium",
+        "answerB": "13"
+      },
+      {
+        "-id": "13",
+        "questionA": "Leaves pinnate.",
+        "questionB": "Leaves not pinnate.",
+        "answerA": "Family-Caprifoliaceae",
+        "answerB": "14"
+      },
+      {
+        "-id": "14",
+        "questionA": "Flowers bisexual; fruit a capsule.",
+        "questionB": "Flowers unisexual; fruit a fleshy berry.",
+        "answerA": "Family-Campanulaceae",
+        "answerB": "Ecballium elaterium"
+      }
+    ]
+  }

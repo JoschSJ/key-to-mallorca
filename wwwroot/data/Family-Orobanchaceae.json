@@ -1,0 +1,53 @@
+{
+   "question": [
+      {
+        "-id": "1",
+        "questionA": "Whole  plant  yellowish,  glandular  pubescent; calyx segments connate  for about half their length, bifid with broad triangular teeth.",
+        "questionB": "Plants reddish, blue or purple.",
+        "answerA": "Orobanche clausonis",
+        "answerB": "2"
+      },
+      {
+        "-id": "2",
+        "questionA": "Stems and bracts very dark purple, coated with white hairs; corolla lilac, turning pink.",
+        "questionB": "Stems reddish or blue.",
+        "answerA": "Orobanche rosmarina",
+        "answerB": "3"
+      },
+      {
+        "-id": "3",
+        "questionA": "Stems  and  corolla bright red; lobes of corolla fringed with bright  yellow.",
+        "questionB": "Corolla lilac or whitish.",
+        "answerA": "Orobanche gracilis",
+        "answerB": "4"
+      },
+      {
+        "-id": "4",
+        "questionA": "Bracts prominent,  exceeding mature  flowers;  stems  reddish brown; corolla white or yellowish white with violet markings.",
+        "questionB": "Bracts inconspicuous, not exceeding mature flowers.",
+        "answerA": "Orobanche loricata",
+        "answerB": "5"
+      },
+      {
+        "-id": "5",
+        "questionA": "Flowers subtended by three bracts; corolla violet or blue.",
+        "questionB": "Flowers subtended by one bract; corolla yellow, whitish or reddish",
+        "answerA": "Orobanche ramosa",
+        "answerB": "6"
+      },
+      {
+        "-id": "6",
+        "questionA": "Stigma lobes yellow, white or orange.",
+        "questionB": "Stigma lobes usually purple, red or brown",
+        "answerA": "Orobanche hederae",
+        "answerB": "7"
+      },
+      {
+        "-id": "7",
+        "questionA": "Flowers 15-30 mm, smelling of carnations; corolla white with violet veins.",
+        "questionB": "Flowers 10-18 mm; corolla yellowish, flushed and veined with purple.",
+        "answerA": "Orobanche crenata",
+        "answerB": "Orobanche minor"
+      }
+    ]
+  }

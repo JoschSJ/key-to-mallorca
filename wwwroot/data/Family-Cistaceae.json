@@ -1,0 +1,95 @@
+{
+   "question": [
+      {
+        "-id": "1",
+        "questionA": "Carpels five or ten; inner sepals not much longer than outer.",
+        "questionB": "Carpels three; inner sepals much longer than outer.",
+        "answerA": "2",
+        "answerB": "6"
+      },
+      {
+        "-id": "2",
+        "questionA": "Sepals three; flowers white.",
+        "questionB": "Sepals five.",
+        "answerA": "Cistus clusii",
+        "answerB": "3"
+      },
+      {
+        "-id": "3",
+        "questionA": "Flowers pink or rosy purple.",
+        "questionB": "Flowers white.",
+        "answerA": "4",
+        "answerB": "5"
+      },
+      {
+        "-id": "4",
+        "questionA": "Leaves grey-tomentose, sessile.",
+        "questionB": "Leaves grey-tomentose, petiolate.",
+        "answerA": "Cistus albidus",
+        "answerB": "Cistus creticus"
+      },
+      {
+        "-id": "5",
+        "questionA": "Leaves linear, sessile, viscid.",
+        "questionB": "Leaves broadly lanceolate, petiolate, not viscid.",
+        "answerA": "Cistus monspeliensis",
+        "answerB": "Cistus salvifolius"
+      },
+      {
+        "-id": "6",
+        "questionA": "Styles  elongate,  slender,  bent or abruptly curved; sepals with prominent veins.",
+        "questionB": "Styles absent, or short and straight; sepals with inconspicuous veins.",
+        "answerA": "7",
+        "answerB": "13"
+      },
+      {
+        "-id": "7",
+        "questionA": "All leaves opposite; all stamens fertile.",
+        "questionB": "Upper leaves usually alternate; outer stamens sterile.",
+        "answerA": "8",
+        "answerB": "12"
+      },
+      {
+        "-id": "8",
+        "questionA": "Annuals  to 30  cm;  leaves  elliptical, densely hairy; petals 8-12 mm, yellow unspotted.",
+        "questionB": "Dwarf shrubs.",
+        "answerA": "Helianthemum salicifolium",
+        "answerB": "9"
+      },
+      {
+        "-id": "9",
+        "questionA": "Leaves glaucous; flowers pink.",
+        "questionB": "Leaves green; flowers yellow.",
+        "answerA": "Helianthemum appeninum",
+        "answerB": "10"
+      },
+      {
+        "-id": "10",
+        "questionA": "Plants wooly; petals with orange blotch at base.",
+        "questionB": "Plants not wooly; petals without orange blotch at the base.",
+        "answerA": "Helianthemum  caput-felis",
+        "answerB": "11"
+      },
+      {
+        "-id": "11",
+        "questionA": "Leaves light green, oblong or lanceolate to ovate, with stellate hairs; stipules longer than petioles.",
+        "questionB": "Leaves dark green, ovate to cordate; stipules absent or inconspicuous.",
+        "answerA": "Helianthemum nummularium",
+        "answerB": "Helianthemum origanifolium"
+      },
+      {
+        "-id": "12",
+        "questionA": "Stipules absent; pedicels downward curved at the apex.",
+        "questionB": "Stipules present, bristle-tipped; pedicels erect.",
+        "answerA": "Fumana ericoides",
+        "answerB": "Fumana thymifolia"
+      },
+      {
+        "-id": "13",
+        "questionA": "Dwarf shrubs.",
+        "questionB": "Annual herbs.",
+        "answerA": "Halimium halimifolium",
+        "answerB": "Tuberaria guttata"
+      }
+    ]
+  }

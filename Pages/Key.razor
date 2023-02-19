@@ -1,0 +1,74 @@
+﻿@page "/key"
+@inject QuestionService QuestionService
+@inject DataService DataService
+
+<PageTitle>Key to Mallorca</PageTitle>
+
+<h1>Key to Mallorca</h1>
+@if(QuestionService?.CurrentQuestion == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <div class="question-button-container">
+        <button class="question-button" @onclick="ClickHandlerA">
+            <span class="colourful">@QuestionService.CurrentQuestion.QuestionA</span>
+        </button>
+        <button class="question-button" @onclick="ClickHandlerB">
+            <span class="colourful">@QuestionService.CurrentQuestion.QuestionB</span>
+        </button>
+    </div>
+    <div class="question-button-container">
+        <button class="question-button" @onclick="QuestionService.GetPreviousQuestion">Back</button>
+        <button class="question-button" @onclick="QuestionService.GetNextQuestionFromHistory">Forward</button>
+    </div>
+    <button class="question-button" @onclick="QuestionService.Reset">Reset</button>
+    <p>@lol</p>
+}
+
+
+@code{
+
+    private Question? Question { get; set; }
+    private string lol { get; set; }
+
+    private async Task ClickHandlerA()
+    {
+        Console.WriteLine(QuestionService.CurrentQuestion.AnswerA);
+        await AnswerClickHandler(QuestionService.CurrentQuestion.AnswerA);
+    }
+
+    private async Task ClickHandlerB()
+    {
+        Console.WriteLine(QuestionService.CurrentQuestion.AnswerB);
+        await AnswerClickHandler(QuestionService.CurrentQuestion.AnswerB);
+    }
+
+    private bool _isFinalAnswer(string answer)
+    {
+        return !int.TryParse(answer, out _) && !answer.StartsWith("Family") && !answer.StartsWith("Group");
+    }
+
+    private async Task AnswerClickHandler(string answer)
+    {
+        if (_isFinalAnswer(answer))
+        {
+    // TODO get plant
+            Console.WriteLine($"Get plant: {answer}");
+        }
+        else
+        {
+            await QuestionService.LoadNextQuestionAsync(answer);
+        }
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        await QuestionService.LoadNextQuestionAsync();
+        lol = await DataService.LoadWikipediaPageAsync("Equisetum_telmateia");
+        Console.WriteLine();
+        await base.OnInitializedAsync();
+    }
+
+}

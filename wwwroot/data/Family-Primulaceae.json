@@ -1,0 +1,60 @@
+{
+   "question": [
+      {
+        "-id": "1",
+        "questionA": "Leaves all radical.",
+        "questionB": "Cauline leaves present on flowering stems.",
+        "answerA": "2",
+        "answerB": "3"
+      },
+      {
+        "-id": "2",
+        "questionA": "Leaves as broad as long, cordate; plants with corms; petals reflexed.",
+        "questionB": "Leaves longer than broad, cuneate.",
+        "answerA": "Cyclamen balearicum",
+        "answerB": "Primula vulgaris"
+      },
+      {
+        "-id": "3",
+        "questionA": "Cauline leaves in whorls or opposite.",
+        "questionB": "Cauline leaves alternate.",
+        "answerA": "4",
+        "answerB": "8"
+      },
+      {
+        "-id": "4",
+        "questionA": "Corolla much shorter than calyx.",
+        "questionB": "Corolla equalling or exceeding calyx.",
+        "answerA": "Asterolinon linum-stellatum",
+        "answerB": "5"
+      },
+      {
+        "-id": "5",
+        "questionA": "Creeping perennials, rooting at the nodes; leaves rounded, cordate, petiolate; flowers pink.",
+        "questionB": "Stems erect, not rooting at the nodes; leaves rounded or ovate, sessile; flowers red or blue.",
+        "answerA": "Anagallis tenella",
+        "answerB": "6"
+      },
+      {
+        "-id": "6",
+        "questionA": "Perennials; stems terete; flowers blue.",
+        "questionB": "Annuals; stems quadrangular; flowers red or blue.",
+        "answerA": "Anagallis monelli",
+        "answerB": "7"
+      },
+      {
+        "-id": "7",
+        "questionA": "Petals red or blue, with a fringe of glandular hairs.",
+        "questionB": "Petals blue, without a fringe of glandular hairs.",
+        "answerA": "Anagallis arvensis",
+        "answerB": "Anagallis foemina"
+      },
+      {
+        "-id": "8",
+        "questionA": "Leaves oval; flowers white.",
+        "questionB": "Leaves linear; flowers pink or purple.",
+        "answerA": "Samolus valerandi",
+        "answerB": "Coris monspeliensis"
+      }
+    ]
+  }

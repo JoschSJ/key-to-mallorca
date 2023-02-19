@@ -1,0 +1,123 @@
+{
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Flowers actinomorphic.",
+        "questionB": "Flowers zygomorphic.",
+        "answerA": "2",
+        "answerB": "11"
+      },
+      {
+        "-id": "2",
+        "questionA": "Fruit less than ten times as long as broad.",
+        "questionB": "Fruit more than ten times as long as broad.",
+        "answerA": "3",
+        "answerB": "8"
+      },
+      {
+        "-id": "3",
+        "questionA": "Fruit glabrous.",
+        "questionB": "Fruit with spreading bristles.",
+        "answerA": "4",
+        "answerB": "7"
+      },
+      {
+        "-id": "4",
+        "questionA": "Plants glaucous; flowers white, lilac or purple.",
+        "questionB": "Plants green; flowers scarlet.",
+        "answerA": "Papaver somniferum",
+        "answerB": "5"
+      },
+      {
+        "-id": "5",
+        "questionA": "Capsules  less  than  twice  as  long  as broad; hairs at right angles to pedicel.",
+        "questionB": "Capsules more than twice as long as broad; hairs adpressed to pedicel.",
+        "answerA": "Papaver rhoeas",
+        "answerB": "6"
+      },
+      {
+        "-id": "6",
+        "questionA": "Anthers violet.",
+        "questionB": "Anthers yellow.",
+        "answerA": "Papaver dubium",
+        "answerB": "Papaver pinnatifidum"
+      },
+      {
+        "-id": "7",
+        "questionA": "Leaves pinnately divided with broad oblong segments; petals scarlet; capsule more than three times as long as broad.",
+        "questionB": "Leaves irregularly divided with narrow linear segments; petals crimson; capsule globular.",
+        "answerA": "Papaver argemone",
+        "answerB": "Papaver hybridum"
+      },
+      {
+        "-id": "8",
+        "questionA": "Flowers violet.",
+        "questionB": "Flowers yellow or red.",
+        "answerA": "Roemeria hybrida",
+        "answerB": "9"
+      },
+      {
+        "-id": "9",
+        "questionA": "Sap orange; flowers two or more together, petals up to 1 cm.",
+        "questionB": "Sap white; flowers solitary, petals 2 cm or more.",
+        "answerA": "Chelidonium majus",
+        "answerB": "10"
+      },
+      {
+        "-id": "10",
+        "questionA": "Petals yellow; anthers yellow; stem and capsule glabrous.",
+        "questionB": "Petals scarlet; anthers violet; stem and capsules hairy.",
+        "answerA": "Glaucium flavum",
+        "answerB": "Glaucium corniculatum"
+      },
+      {
+        "-id": "11",
+        "questionA": "Petals neither spurred nor saccate.",
+        "questionB": "Petals spurred or saccate.",
+        "answerA": "Hypecoum imberbe",
+        "answerB": "12"
+      },
+      {
+        "-id": "12",
+        "questionA": "Leaves glaucous, leaflets very narrow, channelled.",
+        "questionB": "Leaves green, leaflets not channelled.",
+        "answerA": "Fumaria parviflora",
+        "answerB": "13"
+      },
+      {
+        "-id": "13",
+        "questionA": "Raceme lax with eight to twelve flowers.",
+        "questionB": "Raceme dense, usually with at least fifteen flowers.",
+        "answerA": "Fumaria bicolor",
+        "answerB": "14"
+      },
+      {
+        "-id": "14",
+        "questionA": "Peduncles longer than racemes.",
+        "questionB": "Peduncles shorter than racemes.",
+        "answerA": "Fumaria capreolata",
+        "answerB": "15"
+      },
+      {
+        "-id": "15",
+        "questionA": "Corolla 12-14 mm.",
+        "questionB": "Corolla 12 mm or less.",
+        "answerA": "Fumaria agraria",
+        "answerB": "16"
+      },
+      {
+        "-id": "16",
+        "questionA": "Corolla 9-12 mm.",
+        "questionB": "Corolla 7 mm or less.",
+        "answerA": "Fumaria bastardii",
+        "answerB": "17"
+      },
+      {
+        "-id": "17",
+        "questionA": "Corolla 6-7 mm; bracts normally exceeding fruiting pedicels.",
+        "questionB": "Corolla 3 mm or less; bracts shorter than fruiting pedicels.",
+        "answerA": "Fumaria densiflora",
+        "answerB": "Fumaria officinalis"
+      }
+    ]
+  }

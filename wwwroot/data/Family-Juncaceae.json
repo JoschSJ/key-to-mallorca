@@ -1,0 +1,53 @@
+{
+    "question": [
+      {
+        "-id": "1",
+        "questionA": "Leaves and longer bracts laterally compressed, hollow with transverse septa but not longitudinal septa.",
+        "questionB": "Leaves and bracts not laterally compressed, transverse septa absent or accompanied by longitudinal septa.",
+        "answerA": "Juncus articulatus",
+        "answerB": "2"
+      },
+      {
+        "-id": "2",
+        "questionA": "Annuals; stems up to 40 cm but rarely that long.",
+        "questionB": "Perennials; stems up to 100 cm or more.",
+        "answerA": "3",
+        "answerB": "4"
+      },
+      {
+        "-id": "3",
+        "questionA": "Flowers solitary.",
+        "questionB": "Flowers in clusters.",
+        "answerA": "Juncus bufonius",
+        "answerB": "Juncus hybridus"
+      },
+      {
+        "-id": "4",
+        "questionA": "Stems exceededbyan extended bract; inflorescence apparently lateral.",
+        "questionB": "Stems not exceeded by an extended bract; inflorescence obviously terminal.",
+        "answerA": "5",
+        "answerB": "7"
+      },
+      {
+        "-id": "5",
+        "questionA": "Stems distinctly ridged; leaves and lowest bracts not ending in spiny points.",
+        "questionB": "Stems not distinctly ridged; leaves and lowest bracts ending in spiny points.",
+        "answerA": "Juncus inflexus",
+        "answerB": "6"
+      },
+      {
+        "-id": "6",
+        "questionA": "Rhizomatous perennials, up to 100 cm; tip of lower bract prickly; flowers straw-coloured; capsule shorter than the perianth or barely exceeding it.",
+        "questionB": "Caespitose perennials, up to 150 cm; tip of lower bract ending in a stout very sharp spine; flowers reddish brown; capsule greatly exceeding the perianth.",
+        "answerA": "Juncus maritimus",
+        "answerB": "Juncus acutus"
+      },
+      {
+        "-id": "7",
+        "questionA": "Leaves, without septa; inflorescence ascending; perianth segments acute.",
+        "questionB": "Leaves with both longitudinal and transverse septa; inflorescence spreading; perianth segments blunt, incurved.",
+        "answerA": "Juncus subulatus",
+        "answerB": "Juncus subnodulosus"
+      }
+    ]
+  }

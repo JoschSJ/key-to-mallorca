@@ -1,0 +1,32 @@
+{
+   "question": [
+      {
+        "-id": "1",
+        "questionA": "Flowers blue.",
+        "questionB": "Flowers yellow",
+        "answerA": "2",
+        "answerB": "3"
+      },
+      {
+        "-id": "2",
+        "questionA": "Petals azure blue, 25-35 mm; sepals longer than the fruit.",
+        "questionB": "Petals pale blue, 8-12 mm; sepals half as long as the fruit.",
+        "answerA": "Linum narbonense",
+        "answerB": "Linum bienne"
+      },
+      {
+        "-id": "3",
+        "questionA": "Perennials, non-flowering shoots present; petals with a dark spot at the base.",
+        "questionB": "Annuals, non-flowering shoots absent; petals without a dark spot at the base.",
+        "answerA": "Linum maritimum",
+        "answerB": "4"
+      },
+      {
+        "-id": "4",
+        "questionA": "Leaves entire; sepals green with white margins.",
+        "questionB": "Leaves denticulate; sepals yellow at the base, green above.",
+        "answerA": "Linum trigynum",
+        "answerB": "Linum strictum"
+      }
+    ]
+  }
