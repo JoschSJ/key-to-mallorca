@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "key-to-mallorca-wasm.dll": "sha256-XUUqhcCT73iENkp7kISGrDLPhJMwTHEPpfqhly\/YeuY=",
+      "key-to-mallorca-wasm.dll": "sha256-Xkz+Y7ZqmFNnUe\/F1dz7r8aBM6TJELk+QWk48Sv7uJE=",
       "Microsoft.AspNetCore.Components.dll": "sha256-5BzOmNq8TKf6xDns2rteHvs5U7L5GgbdbgjXztnxKr4=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-ITY9jR0xQAi62\/J+AwHwvd1cxeNWcmoOcAnkYqaH6HA=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-jj0gEWGz0IP5DtImmDS2JCnL7nDJvw39GXaOgt9q2BU=",
@@ -40,7 +40,7 @@
       "System.Linq.dll": "sha256-1gF6Qa03Sa2npLYz6FGHzfKp0sWYxKfHNu06xss1Wgg=",
       "System.Linq.Expressions.dll": "sha256-a1plEfMRlEByzfKYQ0s\/Bnj0nzW6cS73tUm8JMsHRQA=",
       "System.Memory.dll": "sha256-gDaKbsx6vP0iZXZw2UKct1OanzfmCr3BInmcHEEbdtQ=",
-      "System.Net.Http.dll": "sha256-v\/3dNX4QiNyVgM30WkwGnfkQnJWmnZ3xLUFZmMhw+To=",
+      "System.Net.Http.dll": "sha256-RSF8H8KcnTKSxNwiNjIOTMu6brTqssvzz\/2v4SWTGxg=",
       "System.Net.Http.Json.dll": "sha256-XnkC\/gRnSOcysCqjfScengM\/WP9\/Kj7m5YnHcshq2VE=",
       "System.Net.Primitives.dll": "sha256-T63wAaMhP6ShtXqla90xdQVPIjcCX8r2XgbljBji+d8=",
       "System.ObjectModel.dll": "sha256-kPEr6alM3rnEOObGkhiE1hxP7d4CGXRCA28UWICs4CQ=",
@@ -51,7 +51,7 @@
       "System.Reflection.Emit.ILGeneration.dll": "sha256-s6mB9lWdntwhksD9A+eJg67QUlVH+AOvYozddcZeFmI=",
       "System.Reflection.Emit.Lightweight.dll": "sha256-LbAklZyhl18LSj74xLIXiIGd4NxQuUDA2B1H7q1U5Cc=",
       "System.Reflection.Primitives.dll": "sha256-tDX0ZEOhCF60UwuyyL5JOswOl+stRw9PvUG1MfrhMTw=",
-      "System.Runtime.dll": "sha256-lyJRazzabjYlEGp4u08FMjsgMqYy\/iiPMD\/Bs2iP8WE=",
+      "System.Runtime.dll": "sha256-Vq\/nbLZh8kXgC+MXnxrHdQFfsK100o6p4F9KDzs44bQ=",
       "System.Runtime.InteropServices.dll": "sha256-oiMIL+p+vGluN8w9\/wRJvN3jPQyxzdwG1jA21HlzTU8=",
       "System.Runtime.InteropServices.JavaScript.dll": "sha256-gTFfeQGBfRAW8nb7IAJyg7MqT5qqYH0kakuHATgUW5A=",
       "System.Runtime.Numerics.dll": "sha256-sLfgIi1mkqd0itXIZ2BGhdpSL2o\/iIFkJ57m7BKSCCo=",
