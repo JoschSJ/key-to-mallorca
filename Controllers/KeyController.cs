@@ -62,7 +62,7 @@ public class KeyController: IKey
         }
         else
         {
-            NavigationManager.NavigateTo($"/species/{answerText.Replace(" ", "_").ToLower()}");
+            NavigationManager.NavigateTo($"species/{answerText.Replace(" ", "_").ToLower()}");
         }
 
 
