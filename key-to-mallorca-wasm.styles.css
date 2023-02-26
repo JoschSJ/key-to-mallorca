@@ -31,7 +31,7 @@
     box-shadow: none;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 640px) {
     .question-button[b-wl6u20es32] {
         width: 100%;
         font-size: 14px;
@@ -40,6 +40,84 @@
 
     .button-container[b-wl6u20es32] {
         flex-direction: column;
+    }
+}
+/* /Pages/PlantDetails.razor.rz.scp.css */
+/* Plant Information Page */
+
+/* Page Container */
+.plant-info[b-kjtovef3i2] {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 640px;
+}
+
+/* Plant Name */
+.plant-name[b-kjtovef3i2] {
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Subtitle */
+.subtitle[b-kjtovef3i2] {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+/* Plant Image */
+.plant-image[b-kjtovef3i2] {
+    width: 100%;
+    margin-bottom: 20px;
+    object-fit: cover;
+}
+
+/* Image Caption */
+.image-caption[b-kjtovef3i2] {
+    font-size: 0.8rem;
+    text-align: center;
+    margin-bottom: 20px;
+    max-width: 100%;
+    overflow-wrap: break-word;
+}
+
+/* Plant Description */
+.plant-description[b-kjtovef3i2] {
+    font-size: 1rem;
+    text-align: justify;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+/* Media Queries */
+@media (min-width: 640px) {
+    /* Plant Name */
+    .plant-name[b-kjtovef3i2] {
+        font-size: 3rem;
+    }
+
+    /* Subtitle */
+    .subtitle[b-kjtovef3i2] {
+        font-size: 1.5rem;
+    }
+
+    /* Plant Image */
+    .plant-image[b-kjtovef3i2] {
+        margin-right: 20px;
+        margin-bottom: 0;
+        max-width: 50%;
+        height: auto;
+    }
+
+    /* Plant Description */
+    .plant-description[b-kjtovef3i2] {
+        font-size: 1.2rem;
     }
 }
 /* /Shared/MainLayout.razor.rz.scp.css */
