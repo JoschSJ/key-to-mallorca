@@ -46,7 +46,6 @@ public class KeyController: IKey
         //todo sort out this to be less bad :)
         if (answerText == null) throw new Exception("CurrentQuestion.Answer returned null");
 
-        Console.WriteLine(answerText);
         var answerIsNum = int.TryParse((answerText), out var id);
         if (answerIsNum)
         {
@@ -125,7 +124,6 @@ internal class QuestionHistory
 
     public QuestionHistoryEntry? GetPreviousQuestion()
     {
-        Console.WriteLine(_history[_currentIndex].QuestionSetName);
         if (_currentIndex <= 0) return null;
         _currentIndex--;
         return _history[_currentIndex];
