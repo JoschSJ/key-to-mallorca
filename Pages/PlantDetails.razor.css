@@ -1,0 +1,77 @@
+﻿/* Plant Information Page */
+
+/* Page Container */
+.plant-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 640px;
+}
+
+/* Plant Name */
+.plant-name {
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Subtitle */
+.subtitle {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+/* Plant Image */
+.plant-image {
+    width: 100%;
+    margin-bottom: 20px;
+    object-fit: cover;
+}
+
+/* Image Caption */
+.image-caption {
+    font-size: 0.8rem;
+    text-align: center;
+    margin-bottom: 20px;
+    max-width: 100%;
+    overflow-wrap: break-word;
+}
+
+/* Plant Description */
+.plant-description {
+    font-size: 1rem;
+    text-align: justify;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+/* Media Queries */
+@media (min-width: 640px) {
+    /* Plant Name */
+    .plant-name {
+        font-size: 3rem;
+    }
+
+    /* Subtitle */
+    .subtitle {
+        font-size: 1.5rem;
+    }
+
+    /* Plant Image */
+    .plant-image {
+        margin-right: 20px;
+        margin-bottom: 0;
+        max-width: 50%;
+        height: auto;
+    }
+
+    /* Plant Description */
+    .plant-description {
+        font-size: 1.2rem;
+    }
+}

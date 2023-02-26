@@ -30,7 +30,7 @@
     box-shadow: none;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 640px) {
     .question-button {
         width: 100%;
         font-size: 14px;
