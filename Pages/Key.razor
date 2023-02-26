@@ -1,6 +1,5 @@
 ﻿@page "/key"
-@inject KeyController KeyController
-@* @inject DataService DataService *@
+@inject IKey KeyController
 
 <PageTitle>Key to Mallorca</PageTitle>
 
@@ -23,8 +22,9 @@ else
         <button class="question-button" @onclick="KeyController.HistoryBackward">Back</button>
         <button class="question-button" @onclick="KeyController.HistoryForward">Forward</button>
     </div>
+    <div class="question-button-container">
     <button class="question-button" @onclick="KeyController.ResetToStart">Reset To Start</button>
-    <p></p>
+    </div>
 }
 
 

@@ -2,11 +2,11 @@
 
 public interface IKey
 {
-    bool IsQuestionLoaded { get; set; }
+    bool IsQuestionLoaded { get; }
     string QuestionA { get; }
     string QuestionB { get; }
 
-    Task GetNextQuestion(char answer);
+    Task GetNextQuestion(char answer = default);
     Task HistoryBackward();
     Task HistoryForward();
     Task ResetToStart();
