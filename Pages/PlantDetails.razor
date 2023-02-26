@@ -1,0 +1,30 @@
+﻿@page "/species/{SpeciesName}"
+@inject ISpeciesDetails SpeciesDetails
+@if (SpeciesDetails.Name == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <div class="plant-info">
+        <h1 class="plant-name">@SpeciesDetails.Name</h1>
+        <h2 class="subtitle">Common Name: @SpeciesDetails.CommonName</h2>
+        <h2 class="subtitle">Family: @SpeciesDetails.Family</h2>
+        <img src="images/plantimages/@SpeciesDetails.Image" alt="@SpeciesDetails.Name" class="plant-image"/>
+        <p class="image-caption">@SpeciesDetails.ImageCaption</p>
+        <p class="plant-description">@((MarkupString)SpeciesDetails.Description)</p>
+    </div>
+    }
+
+@code {
+    [Parameter]
+    public string? SpeciesName { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        if (SpeciesName == null)
+            return;
+        await SpeciesDetails.GetPlantSpecies(SpeciesName);
+        await base.OnInitializedAsync();
+    }
+}

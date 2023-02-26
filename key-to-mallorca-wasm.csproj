@@ -31,6 +31,9 @@
 
   <ItemGroup>
     <None Remove="obj\**" />
+    <None Update="Pages\PlantDetails.css">
+      <DependentUpon>PlantDetails.razor</DependentUpon>
+    </None>
   </ItemGroup>
 
 </Project>
