@@ -3,11 +3,11 @@ using Microsoft.AspNetCore.Components;
 
 namespace key_to_mallorca_wasm.Controllers;
 
-
-
-public class KeyController: IKey
+public class KeyController : IKey
 {
-    public KeyController(IQuestionDataService questionDataService, NavigationManager navigationManager, string currentQuestionsSetName = "Key-to-Families", List<Question>? currentQuestionSet = null, Question? currentQuestion = null)
+    public KeyController(IQuestionDataService questionDataService, NavigationManager navigationManager,
+        string currentQuestionsSetName = "Key-to-Families", List<Question>? currentQuestionSet = null,
+        Question? currentQuestion = null)
     {
         QuestionDataService = questionDataService;
         NavigationManager = navigationManager;
@@ -22,6 +22,7 @@ public class KeyController: IKey
     public bool IsQuestionLoaded => CurrentQuestion != null;
 
     private string CurrentQuestionsSetName { get; set; }
+
     // private readonly QuestionHistory _questionHistory = new();
     // private readonly DataService _dataService;
     private Question? CurrentQuestion { get; set; }
@@ -30,18 +31,22 @@ public class KeyController: IKey
     private readonly QuestionHistory _questionHistory = new();
     [Inject] private IQuestionDataService QuestionDataService { get; set; }
     [Inject] private NavigationManager NavigationManager { get; set; }
+
     public async Task GetNextQuestion(char answer)
     {
         CurrentQuestionSet ??= await _getQuestionsSet(CurrentQuestionsSetName);
-        if (answer == default && CurrentQuestion == null)
+        if (answer == default)
         {
-            CurrentQuestion ??= CurrentQuestionSet[0];
-            _questionHistory.AddQuestion(CurrentQuestion, CurrentQuestionsSetName);
+            if (CurrentQuestion == null)
+            {
+                CurrentQuestion ??= CurrentQuestionSet[0];
+                _questionHistory.AddQuestion(CurrentQuestion, CurrentQuestionsSetName);
+            }
+
             return;
         }
 
-        var answerText = answer == 'a' ?
-            CurrentQuestion?.AnswerA : CurrentQuestion?.AnswerB;
+        var answerText = answer == 'a' ? CurrentQuestion?.AnswerA : CurrentQuestion?.AnswerB;
 
         //todo sort out this to be less bad :)
         if (answerText == null) throw new Exception("CurrentQuestion.Answer returned null");
@@ -64,8 +69,6 @@ public class KeyController: IKey
         {
             NavigationManager.NavigateTo($"species/{answerText.Replace(" ", "_").ToLower()}");
         }
-
-
     }
 
     private async Task RestoreQuestionFromQuestionHistory(QuestionHistoryEntry? questionEntry)
@@ -78,6 +81,7 @@ public class KeyController: IKey
 
         CurrentQuestion = questionEntry.Question;
     }
+
     public async Task HistoryBackward()
     {
         await RestoreQuestionFromQuestionHistory(_questionHistory.GetPreviousQuestion());
@@ -99,12 +103,12 @@ public class KeyController: IKey
         CurrentQuestionSet = (await QuestionDataService.GetQuestionSet(questionSetName));
         return CurrentQuestionSet;
     }
-
 }
 
 internal class QuestionHistory
 {
     private readonly List<QuestionHistoryEntry> _history = new();
+
     private int _currentIndex = -1;
     // private int? _markedIndex = null;
 
